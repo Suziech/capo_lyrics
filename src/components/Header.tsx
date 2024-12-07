@@ -3,7 +3,7 @@
 import { useParams, usePathname } from "next/navigation";
 import type { LocaleTypes } from "@/utils/localization/settings";
 import Link from "next/link";
-import { useTranslation } from "@/utils/localization/client";
+// import { useTranslation } from "@/utils/localization/client";
 import ChangeLocale from "./ChangeLocale";
 import logo from "@/assets/images/logo_image.png";
 import Image from "next/image";
@@ -12,7 +12,7 @@ import Image from "next/image";
 export default function Header() {
   const pathName = usePathname();
   const locale = useParams()?.locale as LocaleTypes;
-  const { t } = useTranslation(locale, "common");
+  // const { t } = useTranslation(locale, "common");
   return (
     <header
       className={`flex items-center max-w-[1440px] mx-auto py-[20px] px-[16px]`}>
