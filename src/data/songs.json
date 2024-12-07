@@ -1,0 +1,307 @@
+[
+  {
+    "id": 1,
+    "title": "Vou Dizer a Meu Sinhô",
+    "slug": "vou-dizer-a-meu-sinho",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Vou dizer a meu sinhô",
+        "en": "I will tell my master",
+        "ko": "주인님에게 말할 거야",
+        "ja": "主人に伝えます"
+      },
+      {
+        "id": 2,
+        "original": "Que a manteiga derramou",
+        "en": "That the butter spilled",
+        "ko": "버터가 쏟아졌다고",
+        "ja": "バターがこぼれたことを"
+      },
+      {
+        "id": 3,
+        "original": "E a manteiga não é minha",
+        "en": "The butter isn't mine",
+        "ko": "그 버터는 내 것이 아니야",
+        "ja": "そのバターは私のものではありません"
+      },
+      {
+        "id": 4,
+        "original": "E a manteiga é de ioiô",
+        "en": "The butter belongs to ioiô",
+        "ko": "그 버터는 ioiô의 것이야",
+        "ja": "そのバターはイオヨのものです"
+      }
+    ],
+    "youtubeLink": "https://www.youtube.com/embed/EBhnJh-L22w"
+  },
+  {
+    "id": 2,
+    "title": "Oi Sim Sim Sim",
+    "slug": "oi-sim-sim-sim",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Oi sim sim sim",
+        "en": "Oh yes yes yes",
+        "ko": "오 예 예 예",
+        "ja": "ああ はい はい はい"
+      },
+      {
+        "id": 2,
+        "original": "Oi não não não",
+        "en": "Oh no no no",
+        "ko": "오 아니 아니 아니",
+        "ja": "ああ いいえ いいえ いいえ"
+      },
+      {
+        "id": 3,
+        "original": "Mas hoje tem amanhã não",
+        "en": "Today we have, but tomorrow no",
+        "ko": "오늘은 있는데 내일은 없어",
+        "ja": "今日はあるけど明日はない"
+      },
+      {
+        "id": 4,
+        "original": "Mas hoje tem amanhã não",
+        "en": "Today we have, but tomorrow no",
+        "ko": "오늘은 있는데 내일은 없어",
+        "ja": "今日はあるけど明日はない"
+      }
+    ],
+    "youtubeLink": "https://www.youtube.com/embed/cL8-7F9Cf38?si=PUHFNzcoAaXAzDpB"
+  },
+  {
+    "id": 3,
+    "title": "Agora Sim Quem Mataram Meu Besouro",
+    "slug": "agora-sim-quem-mataram-meu-besouro",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Agora sim, que mataram o meu Besouro",
+        "en": "Now yes, they have killed my Besouro",
+        "ko": "이제 정말, 그들이 내 비소우루를 죽였네",
+        "ja": "今そう、彼らは私のベソウロを殺しました"
+      },
+      {
+        "id": 2,
+        "original": "Depois de morto, Besourinho cordão de ouro",
+        "en": "After death, little Besouro with a golden cord",
+        "ko": "죽은 후에, 황금 끈을 가진 작은 비소우루",
+        "ja": "死後、小さなベソウロは金のコードで"
+      },
+      {
+        "id": 3,
+        "original": "Besouro, Besourinho",
+        "en": "Besouro, little Besouro",
+        "ko": "비소우루, 작은 비소우루",
+        "ja": "ベソウロ、小さなベソウロ"
+      },
+      {
+        "id": 4,
+        "original": "Cordão de Ouro",
+        "en": "Golden Cord",
+        "ko": "황금 끈",
+        "ja": "金のコード"
+      }
+    ],
+    "youtubeLink": "https://www.youtube.com/embed/LPhEZAlTs9s"
+  },
+  {
+    "id": 4,
+    "title": "Lá Lauê",
+    "slug": "la-laue",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Bem-te-vi voou, voou",
+        "en": "The Bem-te-vi flew, flew",
+        "ko": "벤치비가 날아갔네, 날아갔네",
+        "ja": "ベムテヴィが飛んでいった、飛んでいった"
+      },
+      {
+        "id": 2,
+        "original": "Deixa voar",
+        "en": "Let it fly",
+        "ko": "날게 두어라",
+        "ja": "飛ばせて"
+      },
+      {
+        "id": 3,
+        "original": "Lá lauê lauê lauê laua",
+        "en": "Lá lauê lauê lauê laua",
+        "ko": "라 라우에 라우에 라우에 라우아",
+        "ja": "ラ ラウエ ラウエ ラウエ ラウア"
+      }
+    ],
+    "youtubeLink": "https://www.youtube.com/embed/C_rYxHraOQg"
+  },
+  {
+    "id": 5,
+    "title": "Quem Vem Lá Sou Eu",
+    "slug": "quem-vem-la-sou-eu",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Quem vem lá? Sou eu",
+        "en": "Who goes there? It's me",
+        "ko": "누구인가? 나야",
+        "ja": "誰が来るの？それは私だ"
+      },
+      {
+        "id": 2,
+        "original": "Berimbau bateu",
+        "en": "The berimbau played",
+        "ko": "베림바우가 울렸네",
+        "ja": "ベリンバウが鳴った"
+      },
+      {
+        "id": 3,
+        "original": "Capoeira sou eu",
+        "en": "I am Capoeira",
+        "ko": "나는 카포에라다",
+        "ja": "私はカポエイラだ"
+      }
+    ],
+    "youtubeLink": "https://www.youtube.com/embed/lcpJE3a8F5Q"
+  },
+  {
+    "id": 6,
+    "title": "Dona Maria do Camboatá",
+    "slug": "dona-maria-do-camboata",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Dona Maria do Camboatá",
+        "en": "Ms. Maria of Camboatá",
+        "ko": "캄보아타의 마리아 여사",
+        "ja": "カンボアタのマリアさん"
+      },
+      {
+        "id": 2,
+        "original": "Ela chega na venda ela manda botar",
+        "en": "She arrives at the market and starts giving orders",
+        "ko": "그녀는 시장에 도착해 명령을 내리기 시작한다",
+        "ja": "彼女は市場に到着し、命令を出し始める"
+      }
+    ],
+    "youtubeLink": "https://www.youtube.com/embed/SOT26ftiZww"
+  },
+  {
+    "id": 7,
+    "title": "Sou Capoeira",
+    "slug": "sou-capoeira",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Sou capoeira, olha eu sei que sou",
+        "en": "I'm capoeira, look I know I am",
+        "ko": "나는 카포에라다, 내가 누군지 보라",
+        "ja": "私はカポエイラ、見て、私は知っている"
+      },
+      {
+        "id": 2,
+        "original": "Eu vim aqui foi para jogar",
+        "en": "I came here to play",
+        "ko": "나는 여기 놀러 왔다",
+        "ja": "私はここに遊びに来た"
+      }
+    ],
+    "youtubeLink": "https://www.youtube.com/embed/vCW9NtJC1pY?si=0gu_Mzalh972xqo1"
+  },
+  {
+    "id": 8,
+    "title": "A Hora É Essa",
+    "slug": "a-hora-e-essa",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "A hora é essa, a hora é essa",
+        "en": "The time is now, the time is now",
+        "ko": "지금이 바로 그 시간이다, 지금이 바로 그 시간이다",
+        "ja": "今がその時だ、今がその時だ"
+      },
+      {
+        "id": 2,
+        "original": "Berimbau tocou na capoeira",
+        "en": "The berimbau played in capoeira",
+        "ko": "카포에라에서 베림바우가 연주되었다",
+        "ja": "カポエイラでベリンバウが演奏された"
+      }
+    ],
+    "youtubeLink": "https://www.youtube.com/embed/WgT001i3eUc"
+  },
+  {
+    "id": 9,
+    "title": "Dona Maria, Como Vai Você?",
+    "slug": "dona-maria-como-vai-voce",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Vai você, vai você",
+        "en": "Go you, go you",
+        "ko": "가라, 가라",
+        "ja": "行け、行け"
+      },
+      {
+        "id": 2,
+        "original": "Dona Maria, como vai você?",
+        "en": "Dona Maria, how are you?",
+        "ko": "도나 마리아, 어떻게 지내세요?",
+        "ja": "ドナマリア、元気ですか？"
+      }
+    ],
+    "youtubeLink": "https://www.youtube.com/embed/PjTFXiGq8oQ"
+  },
+  {
+    "id": 10,
+    "title": "Meu Patuá",
+    "slug": "meu-patua",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Foi na Bahia que eu mandei fazer",
+        "en": "It was in Bahia that I had made",
+        "ko": "바이아에서 내가 만들게 했네",
+        "ja": "バイアで作らせた"
+      },
+      {
+        "id": 2,
+        "original": "Meu patuá meu pai, meu patuá",
+        "en": "My amulet, my father, my amulet",
+        "ko": "내 부적, 내 아버지, 내 부적",
+        "ja": "私のお守り、私の父、私のお守り"
+      }
+    ],
+    "youtubeLink": "https://www.youtube.com/embed/1R_N4UOfzUw"
+  },
+  {
+    "id": 11,
+    "title": "Sai, Sai, Catarina",
+    "slug": "sai-sai-catarina",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Sai, sai, Catarina",
+        "en": "Come out, come out, Catarina",
+        "ko": "나와라, 나와라, 카타리나",
+        "ja": "出て来い、出て来い、カタリナ"
+      },
+      {
+        "id": 2,
+        "original": "Saia do mar, venha ver Idalina",
+        "en": "Get out of the sea, come see Idalina",
+        "ko": "바다에서 나와, 이달리나를 보러 와",
+        "ja": "海から出てきて、イダリナを見に来て"
+      },
+      {
+        "id": 3,
+        "original": "Oh Catarina, meu amor",
+        "en": "Oh Catarina, my love",
+        "ko": "오 카타리나, 내 사랑",
+        "ja": "ああ、カタリナ、私の愛"
+      }
+    ],
+    "youtubeLink": "https://www.youtube.com/embed/uGQ_Zl-eI7k"
+  }
+]
