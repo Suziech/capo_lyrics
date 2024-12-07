@@ -8,7 +8,7 @@ export default function RootLayoout({
   return (
     <>
       <Header />
-      {children}
+      <main className='max-w-[1440px] mx-auto'>{children}</main>
     </>
   );
 }
