@@ -4,7 +4,7 @@ import { geistSans, geistMono } from "@/styles/fonts";
 import { cookies } from "next/headers";
 
 export const metadata: Metadata = {
-  title: "Capoeira Song Finder 🔍",
+  title: "Capo-Lyrics 🤸‍♀️",
   description: "Translate and find capoeira songs",
 };
 
