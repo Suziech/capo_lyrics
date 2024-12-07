@@ -88,7 +88,7 @@
         "original": "Depois de morto, Besourinho cordão de ouro",
         "en": "After death, little Besouro with a golden cord",
         "ko": "죽은 후에, 황금 끈을 가진 작은 비소우루",
-        "ja": "死後、小さなベソウロは金のコードで"
+        "ja": "死後、小さなベソウロは金の紐を持っています"
       },
       {
         "id": 3,
@@ -102,7 +102,7 @@
         "original": "Cordão de Ouro",
         "en": "Golden Cord",
         "ko": "황금 끈",
-        "ja": "金のコード"
+        "ja": "金の紐"
       }
     ],
     "youtubeLink": "https://www.youtube.com/embed/LPhEZAlTs9s"
@@ -117,7 +117,7 @@
         "original": "Bem-te-vi voou, voou",
         "en": "The Bem-te-vi flew, flew",
         "ko": "벤치비가 날아갔네, 날아갔네",
-        "ja": "ベムテヴィが飛んでいった、飛んでいった"
+        "ja": "ベムテヴィが飛んだ、飛んだ"
       },
       {
         "id": 2,
@@ -132,6 +132,55 @@
         "en": "Lá lauê lauê lauê laua",
         "ko": "라 라우에 라우에 라우에 라우아",
         "ja": "ラ ラウエ ラウエ ラウエ ラウア"
+      },
+      {
+        "id": 4,
+        "original": "Que som, o que arte é essa",
+        "en": "What sound, what art is this",
+        "ko": "이 소리, 이 예술은 무엇인가",
+        "ja": "この音、この芸術は何ですか"
+      },
+      {
+        "id": 5,
+        "original": "De luta e brincadeira",
+        "en": "Of fight and playfulness",
+        "ko": "싸움과 장난의",
+        "ja": "戦いと遊びの"
+      },
+      {
+        "id": 6,
+        "original": "Que roda maravilhosa é essa",
+        "en": "What a wonderful roda is this",
+        "ko": "이 얼마나 멋진 호다인가",
+        "ja": "なんて素晴らしいホーダだ"
+      },
+      {
+        "id": 7,
+        "original": "É o Axé Capoeira",
+        "en": "It is Axé Capoeira",
+        "ko": "이것이 아셰 카포에라다",
+        "ja": "これはアシェ カポエイラです"
+      },
+      {
+        "id": 8,
+        "original": "Em cada som, em cada toque",
+        "en": "In each sound, in each beat",
+        "ko": "각 소리마다, 각 박자마다",
+        "ja": "各音、各ビートで"
+      },
+      {
+        "id": 9,
+        "original": "Em cada ginga, tem um estilo de jogo",
+        "en": "In each ginga, there is a style of play",
+        "ko": "각 진가마다, 하나의 게임 스타일이 있네",
+        "ja": "各ジンガに、それぞれのスタイルがあります"
+      },
+      {
+        "id": 10,
+        "original": "Lauê lauê lá...",
+        "en": "Lauê lauê lá...",
+        "ko": "라우에 라우에 라...",
+        "ja": "ラウエ ラウエ ラ..."
       }
     ],
     "youtubeLink": "https://www.youtube.com/embed/C_rYxHraOQg"
@@ -161,6 +210,48 @@
         "en": "I am Capoeira",
         "ko": "나는 카포에라다",
         "ja": "私はカポエイラだ"
+      },
+      {
+        "id": 4,
+        "original": "Eu venho de longe",
+        "en": "I come from afar",
+        "ko": "나는 멀리서 왔네",
+        "ja": "遠くから来ました"
+      },
+      {
+        "id": 5,
+        "original": "Venho da Bahia",
+        "en": "I come from Bahia",
+        "ko": "바이아에서 왔네",
+        "ja": "バイアから来ました"
+      },
+      {
+        "id": 6,
+        "original": "Jogo Capoeira",
+        "en": "I play Capoeira",
+        "ko": "카포에라를 하네",
+        "ja": "私はカポエイラをします"
+      },
+      {
+        "id": 7,
+        "original": "Mas sou eu, sou eu",
+        "en": "But it's me, it's me",
+        "ko": "하지만 나야, 나야",
+        "ja": "でもそれは私、それは私だ"
+      },
+      {
+        "id": 8,
+        "original": "Montado a cavalo",
+        "en": "Riding a horse",
+        "ko": "말을 타고",
+        "ja": "馬に乗って"
+      },
+      {
+        "id": 9,
+        "original": "Fumando um charuto",
+        "en": "Smoking a cigar",
+        "ko": "시가를 피우며",
+        "ja": "葉巻を吸いながら"
       }
     ],
     "youtubeLink": "https://www.youtube.com/embed/lcpJE3a8F5Q"
@@ -182,7 +273,77 @@
         "original": "Ela chega na venda ela manda botar",
         "en": "She arrives at the market and starts giving orders",
         "ko": "그녀는 시장에 도착해 명령을 내리기 시작한다",
-        "ja": "彼女は市場に到着し、命令を出し始める"
+        "ja": "彼女は市場に到着し、命令を出し始めます"
+      },
+      {
+        "id": 3,
+        "original": "Dona Maria do Camboatá",
+        "en": "Ms. Maria of Camboatá",
+        "ko": "캄보아타의 마리아 여사",
+        "ja": "カンボアタのマリアさん"
+      },
+      {
+        "id": 4,
+        "original": "Ela chega na venda e dá salto mortal",
+        "en": "She arrives at the market and does a backflip",
+        "ko": "그녀는 시장에 도착해 백플립을 한다",
+        "ja": "彼女は市場に到着してバックフリップをします"
+      },
+      {
+        "id": 5,
+        "original": "Dona Maria do Camboatá",
+        "en": "Ms. Maria of Camboatá",
+        "ko": "캄보아타의 마리아 여사",
+        "ja": "カンボアタのマリアさん"
+      },
+      {
+        "id": 6,
+        "original": "Ela chega na venda e começa a gingar",
+        "en": "She arrives at the market and starts to ginga",
+        "ko": "그녀는 시장에 도착해 진가를 시작한다",
+        "ja": "彼女は市場に到着してジンガを始めます"
+      },
+      {
+        "id": 7,
+        "original": "Dona Maria do Camboatá",
+        "en": "Ms. Maria of Camboatá",
+        "ko": "캄보아타의 마리아 여사",
+        "ja": "カンボアタのマリアさん"
+      },
+      {
+        "id": 8,
+        "original": "Ela chama o menino e manda comprar",
+        "en": "She calls the boy and sends him to buy",
+        "ko": "그녀는 소년을 불러 물건을 사오게 한다",
+        "ja": "彼女は少年を呼んで買い物に行かせます"
+      },
+      {
+        "id": 9,
+        "original": "Dona Maria do Camboatá",
+        "en": "Ms. Maria of Camboatá",
+        "ko": "캄보아타의 마리아 여사",
+        "ja": "カンボアタのマリアさん"
+      },
+      {
+        "id": 10,
+        "original": "Se não tem, se não acha ela manda trocar",
+        "en": "If it's not there, if he doesn't find it, she demands an exchange",
+        "ko": "없으면, 찾지 못하면 그녀는 교환을 요구한다",
+        "ja": "なければ、見つからなければ交換を要求します"
+      },
+      {
+        "id": 11,
+        "original": "Dona Maria do Camboatá",
+        "en": "Ms. Maria of Camboatá",
+        "ko": "캄보아타의 마리아 여사",
+        "ja": "カンボアタのマリアさん"
+      },
+      {
+        "id": 12,
+        "original": "É do Camboatá, é do Camboatá",
+        "en": "She's from Camboatá, from Camboatá",
+        "ko": "그녀는 캄보아타 출신이다, 캄보아타 출신이다",
+        "ja": "彼女はカンボアタ出身です、カンボアタ出身です"
       }
     ],
     "youtubeLink": "https://www.youtube.com/embed/SOT26ftiZww"
@@ -197,7 +358,7 @@
         "original": "Sou capoeira, olha eu sei que sou",
         "en": "I'm capoeira, look I know I am",
         "ko": "나는 카포에라다, 내가 누군지 보라",
-        "ja": "私はカポエイラ、見て、私は知っている"
+        "ja": "私はカポエイラだ、見て、私は知っている"
       },
       {
         "id": 2,
@@ -205,6 +366,146 @@
         "en": "I came here to play",
         "ko": "나는 여기 놀러 왔다",
         "ja": "私はここに遊びに来た"
+      },
+      {
+        "id": 3,
+        "original": "Faço bonito só porque tenho talento",
+        "en": "I make it beautiful just because I have talent",
+        "ko": "나는 재능이 있어 아름답게 만든다",
+        "ja": "才能があるから美しく作る"
+      },
+      {
+        "id": 4,
+        "original": "E solto meus movimentos",
+        "en": "And let go of my moves",
+        "ko": "그리고 내 동작을 펼친다",
+        "ja": "そして自分の動きを解き放つ"
+      },
+      {
+        "id": 5,
+        "original": "Com uma voz no coração",
+        "en": "With a voice in the heart",
+        "ko": "마음속의 목소리와 함께",
+        "ja": "心の中の声とともに"
+      },
+      {
+        "id": 6,
+        "original": "Que amor é esse que trago no coração",
+        "en": "What is this love that I carry in my heart?",
+        "ko": "내 마음에 담긴 이 사랑은 무엇인가?",
+        "ja": "私の心にあるこの愛は何ですか？"
+      },
+      {
+        "id": 7,
+        "original": "Uma alegria, uma vontade de gingar",
+        "en": "A joy, a desire to ginga",
+        "ko": "기쁨, 진가에 대한 열망",
+        "ja": "喜び、ジンガへの渇望"
+      },
+      {
+        "id": 8,
+        "original": "São Bento Grande, Iuna, Cavalaria",
+        "en": "São Bento Grande, Iúna, Cavalaria",
+        "ko": "상 벤투 그란지, 이우나, 카발라리아",
+        "ja": "サンベントグランデ、イウナ、カバラリア"
+      },
+      {
+        "id": 9,
+        "original": "Quando toca me arrepia",
+        "en": "When it plays, I get goosebumps",
+        "ko": "연주될 때 소름이 돋는다",
+        "ja": "演奏されると鳥肌が立つ"
+      },
+      {
+        "id": 10,
+        "original": "Hoje é dia de jogar",
+        "en": "Today is the day to play",
+        "ko": "오늘은 노는 날이다",
+        "ja": "今日は遊ぶ日だ"
+      },
+      {
+        "id": 11,
+        "original": "E o cantador solta a voz",
+        "en": "And the singer lets his voice loose",
+        "ko": "가수가 목소리를 풀어놓는다",
+        "ja": "歌手が声を解き放つ"
+      },
+      {
+        "id": 12,
+        "original": "Para o povo ouvir",
+        "en": "For the people to hear",
+        "ko": "사람들이 들을 수 있도록",
+        "ja": "人々が聞けるように"
+      },
+      {
+        "id": 13,
+        "original": "Berimbau, viola, arma a roda e",
+        "en": "Berimbau, viola, set the roda and",
+        "ko": "베림바우, 비올라, 호다를 준비하고",
+        "ja": "ベリンバウ、ビオラ、ホーダを準備して"
+      },
+      {
+        "id": 14,
+        "original": "Marca o som",
+        "en": "Mark the sound",
+        "ko": "소리를 표시한다",
+        "ja": "音をマークする"
+      },
+      {
+        "id": 15,
+        "original": "A meia lua é ligeira e corta o vento",
+        "en": "The meia lua is swift and cuts the wind",
+        "ko": "메이아 루아는 빠르고 바람을 가른다",
+        "ja": "メイアルアは速く、風を切る"
+      },
+      {
+        "id": 16,
+        "original": "Capoeira joga dentro",
+        "en": "Capoeira plays inside",
+        "ko": "카포에라는 안에서 논다",
+        "ja": "カポエイラは内側で遊ぶ"
+      },
+      {
+        "id": 17,
+        "original": "Como meu mestre me ensinou",
+        "en": "As my master taught me",
+        "ko": "내 스승이 가르쳐준 대로",
+        "ja": "私の師匠が教えてくれたように"
+      },
+      {
+        "id": 18,
+        "original": "E o capoeira é astuto e velhaco",
+        "en": "And the capoeirista is cunning and sly",
+        "ko": "카포에리스타는 교활하고 약삭빠르다",
+        "ja": "カポエイリスタは狡猾でずる賢い"
+      },
+      {
+        "id": 19,
+        "original": "É inimigo do perigo e confusão",
+        "en": "He is the enemy of danger and confusion",
+        "ko": "그는 위험과 혼란의 적이다",
+        "ja": "彼は危険と混乱の敵だ"
+      },
+      {
+        "id": 20,
+        "original": "Mas ele sabe o valor de uma vida",
+        "en": "But he knows the value of a life",
+        "ko": "그러나 그는 생명의 가치를 안다",
+        "ja": "しかし彼は命の価値を知っている"
+      },
+      {
+        "id": 21,
+        "original": "Por isso corre de briga",
+        "en": "Therefore he avoids fights",
+        "ko": "그래서 그는 싸움을 피한다",
+        "ja": "だから彼は喧嘩を避ける"
+      },
+      {
+        "id": 22,
+        "original": "E quer mais é vadiar",
+        "en": "And prefers to play around",
+        "ko": "그리고 노는 것을 더 좋아한다",
+        "ja": "そして遊ぶことを好む"
       }
     ],
     "youtubeLink": "https://www.youtube.com/embed/vCW9NtJC1pY?si=0gu_Mzalh972xqo1"
@@ -227,6 +528,13 @@
         "en": "The berimbau played in capoeira",
         "ko": "카포에라에서 베림바우가 연주되었다",
         "ja": "カポエイラでベリンバウが演奏された"
+      },
+      {
+        "id": 3,
+        "original": "Berimbau tocou eu vou jogar",
+        "en": "The berimbau played, I'm going to play",
+        "ko": "베림바우가 연주되었으니, 나는 놀 것이다",
+        "ja": "ベリンバウが演奏された、私は遊びに行く"
       }
     ],
     "youtubeLink": "https://www.youtube.com/embed/WgT001i3eUc"
@@ -248,7 +556,105 @@
         "original": "Dona Maria, como vai você?",
         "en": "Dona Maria, how are you?",
         "ko": "도나 마리아, 어떻게 지내세요?",
-        "ja": "ドナマリア、元気ですか？"
+        "ja": "ドナ・マリア、元気ですか？"
+      },
+      {
+        "id": 3,
+        "original": "Joga bonito que eu quero aprender",
+        "en": "Play beautifully because I want to learn",
+        "ko": "아름답게 플레이해줘요, 배우고 싶어요",
+        "ja": "美しくプレイしてください、学びたいです"
+      },
+      {
+        "id": 4,
+        "original": "Dona Maria, como vai você?",
+        "en": "Dona Maria, how are you?",
+        "ko": "도나 마리아, 어떻게 지내세요?",
+        "ja": "ドナ・マリア、元気ですか？"
+      },
+      {
+        "id": 5,
+        "original": "Vai você, como vai você",
+        "en": "Go you, how are you",
+        "ko": "가라, 어떻게 지내세요",
+        "ja": "行け、元気ですか"
+      },
+      {
+        "id": 6,
+        "original": "Dona Maria, como vai você?",
+        "en": "Dona Maria, how are you?",
+        "ko": "도나 마리아, 어떻게 지내세요?",
+        "ja": "ドナ・マリア、元気ですか？"
+      },
+      {
+        "id": 7,
+        "original": "Joga bonito que eu quero ver",
+        "en": "Play beautifully because I want to see",
+        "ko": "아름답게 플레이해줘요, 보고 싶어요",
+        "ja": "美しくプレイしてください、見たいです"
+      },
+      {
+        "id": 8,
+        "original": "Dona Maria, como vai você?",
+        "en": "Dona Maria, how are you?",
+        "ko": "도나 마리아, 어떻게 지내세요?",
+        "ja": "ドナ・マリア、元気ですか？"
+      },
+      {
+        "id": 9,
+        "original": "Como vai você, como vai você",
+        "en": "How are you, how are you",
+        "ko": "어떻게 지내세요, 어떻게 지내세요",
+        "ja": "元気ですか、元気ですか"
+      },
+      {
+        "id": 10,
+        "original": "Dona Maria, como vai você?",
+        "en": "Dona Maria, how are you?",
+        "ko": "도나 마리아, 어떻게 지내세요?",
+        "ja": "ドナ・マリア、元気ですか？"
+      },
+      {
+        "id": 11,
+        "original": "Joga bonito que o mestre quer ver",
+        "en": "Play beautifully because the master wants to see",
+        "ko": "아름답게 플레이해줘요, 마스터가 보고 싶어해요",
+        "ja": "美しくプレイしてください、マスターが見たいです"
+      },
+      {
+        "id": 12,
+        "original": "Dona Maria, como vai você?",
+        "en": "Dona Maria, how are you?",
+        "ko": "도나 마리아, 어떻게 지내세요?",
+        "ja": "ドナ・マリア、元気ですか？"
+      },
+      {
+        "id": 13,
+        "original": "Capoeira não é karaté",
+        "en": "Capoeira is not karate",
+        "ko": "카포에라는 가라테가 아니에요",
+        "ja": "カポエイラは空手ではありません"
+      },
+      {
+        "id": 14,
+        "original": "Dona Maria, como vai você?",
+        "en": "Dona Maria, how are you?",
+        "ko": "도나 마리아, 어떻게 지내세요?",
+        "ja": "ドナ・マリア、元気ですか？"
+      },
+      {
+        "id": 15,
+        "original": "Joga bonito pra mim aprender",
+        "en": "Play beautifully so I can learn",
+        "ko": "아름답게 플레이해줘요, 제가 배울 수 있게",
+        "ja": "美しくプレイしてください、学べるように"
+      },
+      {
+        "id": 16,
+        "original": "Dona Maria, como vai você?",
+        "en": "Dona Maria, how are you?",
+        "ko": "도나 마리아, 어떻게 지내세요?",
+        "ja": "ドナ・マリア、元気ですか？"
       }
     ],
     "youtubeLink": "https://www.youtube.com/embed/PjTFXiGq8oQ"
@@ -263,14 +669,147 @@
         "original": "Foi na Bahia que eu mandei fazer",
         "en": "It was in Bahia that I had made",
         "ko": "바이아에서 내가 만들게 했네",
-        "ja": "バイアで作らせた"
+        "ja": "バイーアで作らせた"
       },
       {
         "id": 2,
+        "original": "Foi na Bahia que eu mandei preparar",
+        "en": "It was in Bahia that I had prepared",
+        "ko": "바이아에서 내가 준비하게 했네",
+        "ja": "バイーアで準備させた"
+      },
+      {
+        "id": 3,
         "original": "Meu patuá meu pai, meu patuá",
         "en": "My amulet, my father, my amulet",
         "ko": "내 부적, 내 아버지, 내 부적",
         "ja": "私のお守り、私の父、私のお守り"
+      },
+      {
+        "id": 4,
+        "original": "Meu patuá para me proteger",
+        "en": "My amulet to protect me",
+        "ko": "나를 보호해줄 내 부적",
+        "ja": "私を守るためのお守り"
+      },
+      {
+        "id": 5,
+        "original": "Era domingo, era um dia de oferendas",
+        "en": "It was Sunday, it was a day of offerings",
+        "ko": "일요일이었네, 제물의 날이었네",
+        "ja": "日曜日、捧げ物の日だった"
+      },
+      {
+        "id": 6,
+        "original": "E eu levei flores pra Iemanjá",
+        "en": "And I took flowers to Iemanjá",
+        "ko": "그리고 나는 이만자에게 꽃을 가져갔네",
+        "ja": "そしてイエマンジャに花を持っていった"
+      },
+      {
+        "id": 7,
+        "original": "Fui celebrar Janaína, rainha menina",
+        "en": "I went to celebrate Janaína, young queen",
+        "ko": "어린 여왕 자나이나를 기리러 갔네",
+        "ja": "若き女王ジャナイナを祝うために行った"
+      },
+      {
+        "id": 8,
+        "original": "Iemanjá que é a dona do mar",
+        "en": "Iemanjá who is the owner of the sea",
+        "ko": "바다의 주인인 이만자",
+        "ja": "海の主イエマンジャ"
+      },
+      {
+        "id": 9,
+        "original": "E na Bahia um mestre velho mandingueiro",
+        "en": "And in Bahia, an old cunning master",
+        "ko": "그리고 바이아에서, 노련한 늙은 마스터가",
+        "ja": "バイーアでの老練な師匠"
+      },
+      {
+        "id": 10,
+        "original": "Abriu a roda fazendo uma louvação",
+        "en": "Opened the roda making a praise",
+        "ko": "찬양하며 호다를 열었네",
+        "ja": "称賛を込めてロダを開いた"
+      },
+      {
+        "id": 11,
+        "original": "Cantou bem forte o lamento",
+        "en": "Sang the lament very strongly",
+        "ko": "아주 강하게 비탄을 노래했네",
+        "ja": "非常に強く嘆きの歌を歌った"
+      },
+      {
+        "id": 12,
+        "original": "Me dando a benção",
+        "en": "Giving me the blessing",
+        "ko": "나에게 축복을 주며",
+        "ja": "私に祝福を与えながら"
+      },
+      {
+        "id": 13,
+        "original": "Era a hora de eu sair pra jogar",
+        "en": "It was time for me to go out to play",
+        "ko": "내가 나가서 놀 시간이었다네",
+        "ja": "遊びに出る時間だった"
+      },
+      {
+        "id": 14,
+        "original": "Fui convidado pra uma roda de gigante",
+        "en": "I was invited to a giant roda",
+        "ko": "거대한 호다에 초대받았네",
+        "ja": "巨大なロダに招待された"
+      },
+      {
+        "id": 15,
+        "original": "Com dois pandeiros e três berimbaus",
+        "en": "With two pandeiros and three berimbaus",
+        "ko": "두 개의 판데이루와 세 개의 베림바우와 함께",
+        "ja": "2つのパンデイロと3つのベリンバウとともに"
+      },
+      {
+        "id": 16,
+        "original": "E um atabaque tocando maneiro e sereno",
+        "en": "And an atabaque playing smoothly and serenely",
+        "ko": "부드럽고 고요하게 연주하는 아타바케와 함께",
+        "ja": "滑らかで穏やかに演奏するアタバキとともに"
+      },
+      {
+        "id": 17,
+        "original": "É a roda que já vai começar",
+        "en": "It's the roda that's about to start",
+        "ko": "곧 시작될 호다",
+        "ja": "もうすぐ始まるロダ"
+      },
+      {
+        "id": 18,
+        "original": "Meu patuá é meu berimbau sagrado",
+        "en": "My amulet is my sacred berimbau",
+        "ko": "내 부적은 나의 신성한 베림바우",
+        "ja": "私のお守りは神聖なベリンバウ"
+      },
+      {
+        "id": 19,
+        "original": "É minha vida e também o meu cantar",
+        "en": "It's my life and also my singing",
+        "ko": "그것은 나의 삶이자 나의 노래",
+        "ja": "それは私の人生であり、私の歌でもある"
+      },
+      {
+        "id": 20,
+        "original": "É os meus amigos sorrindo",
+        "en": "It's my friends smiling",
+        "ko": "미소 짓는 나의 친구들",
+        "ja": "微笑む私の友達"
+      },
+      {
+        "id": 21,
+        "original": "Sempre junto comigo, na volta que o mundo dá",
+        "en": "Always with me, in the turn that the world takes",
+        "ko": "세상이 도는 동안 항상 나와 함께",
+        "ja": "世界が回る間、常に私とともに"
       }
     ],
     "youtubeLink": "https://www.youtube.com/embed/1R_N4UOfzUw"
@@ -285,21 +824,56 @@
         "original": "Sai, sai, Catarina",
         "en": "Come out, come out, Catarina",
         "ko": "나와라, 나와라, 카타리나",
-        "ja": "出て来い、出て来い、カタリナ"
+        "ja": "出ておいで、出ておいで、カタリナ"
       },
       {
         "id": 2,
         "original": "Saia do mar, venha ver Idalina",
         "en": "Get out of the sea, come see Idalina",
         "ko": "바다에서 나와, 이달리나를 보러 와",
-        "ja": "海から出てきて、イダリナを見に来て"
+        "ja": "海から出て、イダリナを見に来て"
       },
       {
         "id": 3,
+        "original": "Sai, sai, Catarina",
+        "en": "Come out, come out, Catarina",
+        "ko": "나와라, 나와라, 카타리나",
+        "ja": "出ておいで、出ておいで、カタリナ"
+      },
+      {
+        "id": 4,
+        "original": "Saia do mar, venha ver, venha ver",
+        "en": "Get out of the sea, come see, come see",
+        "ko": "바다에서 나와, 보러 와, 보러 와",
+        "ja": "海から出て、見に来て、見に来て"
+      },
+      {
+        "id": 5,
+        "original": "Sai, sai, Catarina",
+        "en": "Come out, come out, Catarina",
+        "ko": "나와라, 나와라, 카타리나",
+        "ja": "出ておいで、出ておいで、カタリナ"
+      },
+      {
+        "id": 6,
         "original": "Oh Catarina, meu amor",
         "en": "Oh Catarina, my love",
         "ko": "오 카타리나, 내 사랑",
         "ja": "ああ、カタリナ、私の愛"
+      },
+      {
+        "id": 7,
+        "original": "Sai, sai, Catarina",
+        "en": "Come out, come out, Catarina",
+        "ko": "나와라, 나와라, 카타리나",
+        "ja": "出ておいで、出ておいで、カタリナ"
+      },
+      {
+        "id": 8,
+        "original": "Saia do mar, saia do mar",
+        "en": "Get out of the sea, get out of the sea",
+        "ko": "바다에서 나와, 바다에서 나와",
+        "ja": "海から出て、海から出て"
       }
     ],
     "youtubeLink": "https://www.youtube.com/embed/uGQ_Zl-eI7k"
