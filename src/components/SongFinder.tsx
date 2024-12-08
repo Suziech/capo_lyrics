@@ -101,7 +101,9 @@ export default function SongFinder({
           .map((letter) => (
             <div key={letter}>
               {/* 알파벳 헤더 */}
-              <div className='flex items-center justify-between mt-4'>
+              <div
+                className='flex items-center justify-between mt-4 cursor-pointer'
+                onClick={() => toggleGroupVisibility(letter)}>
                 <h2 className='text-xl font-bold text-[#8B5DFF]'>{letter}</h2>
                 <button
                   onClick={() => toggleGroupVisibility(letter)}
