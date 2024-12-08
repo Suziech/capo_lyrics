@@ -4,6 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import songs from "@/data/songs.json";
 import { IoIosArrowDown, IoIosArrowUp } from "react-icons/io";
+import { IoClose } from "react-icons/io5";
 
 type Song = {
   id: number;
@@ -25,17 +26,15 @@ export default function SongFinder({
     {}
   );
 
-  // 검색어에 따라 필터링된 노래 리스트 생성
   const filteredSongs = songs
     .sort((a, b) => a.title.localeCompare(b.title))
     .filter((song) =>
       song.title.toLowerCase().includes(searchTerm.toLowerCase())
     );
 
-  // 알파벳 그룹화
   const groupedSongs = filteredSongs.reduce(
     (groups: Record<string, Song[]>, song) => {
-      const firstLetter = song.title[0].toUpperCase(); // 첫 글자 가져오기
+      const firstLetter = song.title[0].toUpperCase();
       if (!groups[firstLetter]) {
         groups[firstLetter] = [];
       }
@@ -45,17 +44,15 @@ export default function SongFinder({
     {}
   );
 
-  // 연관 검색어 생성
   const relatedSearches = songs
     .filter(
       (song) =>
         song.title.toLowerCase().includes(searchTerm.toLowerCase()) &&
         searchTerm.trim() !== ""
     )
-    .slice(0, 5) // 최대 5개의 연관 검색어 표시
+    .slice(0, 5)
     .map((song) => song.title);
 
-  // 그룹 가시성 토글 함수
   const toggleGroupVisibility = (letter: string) => {
     setVisibleGroups((prev) => ({
       ...prev,
@@ -72,11 +69,18 @@ export default function SongFinder({
         <input
           type='text'
           placeholder={description}
-          className='w-full border border-gray-300 p-2 rounded my-4 text-black'
+          className='w-full border border-gray-300 p-2 rounded my-4 text-black pr-10'
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
         />
-        {/* 연관 검색어 드롭다운 */}
+        {/* X 버튼 */}
+        {searchTerm && (
+          <button
+            className='absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-500 hover:text-gray-800'
+            onClick={() => setSearchTerm("")}>
+            <IoClose size={20} />
+          </button>
+        )}
         {relatedSearches.length > 1 && (
           <ul className='absolute z-10 bg-white border border-gray-300 w-full max-h-48 overflow-y-auto rounded shadow-lg'>
             {relatedSearches.map((search, index) => (
@@ -94,13 +98,11 @@ export default function SongFinder({
         )}
       </div>
 
-      {/* 알파벳 그룹화된 리스트 */}
       {Object.keys(groupedSongs).length > 0 ? (
         Object.keys(groupedSongs)
           .sort()
           .map((letter) => (
             <div key={letter}>
-              {/* 알파벳 헤더 */}
               <div
                 className='flex items-center justify-between mt-4 cursor-pointer'
                 onClick={() => toggleGroupVisibility(letter)}>
@@ -115,11 +117,10 @@ export default function SongFinder({
                   )}
                 </button>
               </div>
-              {/* 노래 리스트 */}
               {visibleGroups[letter] && (
                 <ul>
                   {groupedSongs[letter].map((song) => (
-                    <li key={song.id} className={`py-2 text-lg`}>
+                    <li key={song.id} className='py-2 text-lg'>
                       <Link href={`/${locale}/${song.slug}`}>
                         <div className='cursor-pointer hover:text-blue-500'>
                           {song.title}
@@ -132,7 +133,6 @@ export default function SongFinder({
             </div>
           ))
       ) : (
-        // 검색 결과 없을 때 메시지
         <p className='text-gray-500'>No songs found.</p>
       )}
     </div>
