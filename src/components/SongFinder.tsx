@@ -16,10 +16,12 @@ export default function SongFinder({
   locale,
   title,
   description,
+  notFound,
 }: {
   locale: string;
   title: string;
   description: string;
+  notFound: string;
 }) {
   const [searchTerm, setSearchTerm] = useState("");
   const [visibleGroups, setVisibleGroups] = useState<Record<string, boolean>>(
@@ -133,7 +135,7 @@ export default function SongFinder({
             </div>
           ))
       ) : (
-        <p className='text-gray-500'>No songs found.</p>
+        <p className='text-gray-500'>{notFound}</p>
       )}
     </div>
   );

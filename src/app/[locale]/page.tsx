@@ -13,6 +13,7 @@ export default async function Page({
       locale={locale}
       title={t("title")}
       description={t("description")}
+      notFound={t("not_found")}
     />
   );
 }
