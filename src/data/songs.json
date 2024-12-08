@@ -1202,7 +1202,7 @@
         "ja": "サンバ・ジ・ホーダ、呼んでくれたら行きます"
       }
     ],
-    "youtubeLink": "https://www.youtube.com/watch?v=F_NeOYAssr0"
+    "youtubeLink": "https://www.youtube.com/embed/VZTD4tQpZXY?si=i2Wieet9EwkpvyOW"
   },
   {
     "id": 16,
@@ -1787,178 +1787,250 @@
   },
   {
     "id": 28,
-    "title": "Capoeira de Angola",
-    "slug": "capoeira-de-angola",
+    "title": "Capoeira Angola",
+    "slug": "capoeira-angola",
     "lyrics": [
       {
         "id": 1,
-        "original": "Capoeira de Angola",
-        "en": "Capoeira de Angola",
-        "ko": "카포에이라 드 앙골라",
-        "ja": "カポエイラ・デ・アンゴラ"
+        "original": "Muitos batuques e tambores tocavam",
+        "en": "Many drums and tambourines were playing",
+        "ko": "많은 북과 탬버린이 연주되었다",
+        "ja": "多くの太鼓とタンバリンが演奏されていた"
       },
       {
         "id": 2,
-        "original": "Capoeira de Angola, ai meu Deus",
-        "en": "Capoeira Angola, oh my God",
-        "ko": "카포에이라 앙골라, 오 나의 신이여",
-        "ja": "カポエイラ・アンゴラ、ああ私の神様"
+        "original": "Ai que saudade meu povo minha nação",
+        "en": "Oh, I miss my people, my nation",
+        "ko": "오, 내 민족, 내 나라가 그립다",
+        "ja": "ああ、私の人々、私の国が恋しい"
       },
       {
         "id": 3,
-        "original": "eu falo de coração",
-        "en": "I speak from the heart",
-        "ko": "나는 진심으로 말해요",
-        "ja": "私は心から話します"
+        "original": "Caboclo de lança guerreiro de Zambi",
+        "en": "Caboclo with a spear, warrior of Zambi",
+        "ko": "창을 든 카보클루, 잠비의 전사",
+        "ja": "槍を持つカボクロ、ザンビの戦士"
       },
       {
         "id": 4,
-        "original": "eu jogo a Capoeira",
-        "en": "I play Capoeira",
-        "ko": "나는 카포에이라를 합니다",
-        "ja": "私はカポエイラをします"
+        "original": "Abra o caminho pra que eu possa caminhar",
+        "en": "Open the path so I can walk",
+        "ko": "내가 걸어갈 수 있도록 길을 열어줘",
+        "ja": "私が歩けるように道を開いてください"
       },
       {
         "id": 5,
-        "original": "pois é minha obrigação",
-        "en": "because it's my obligation",
-        "ko": "왜냐하면 이것이 나의 의무이기 때문이에요",
-        "ja": "それが私の義務だからです"
+        "original": "Santo Antônio de batalha faz de mim batalhador",
+        "en": "Saint Anthony of battle, make me a fighter",
+        "ko": "전투의 성 안토니오여, 나를 전사로 만들어주소서",
+        "ja": "戦いの聖アントニオ、私を戦士にしてください"
       },
       {
         "id": 6,
-        "original": "na roda de Capoeira",
-        "en": "in the Capoeira roda",
-        "ko": "카포에이라 호다에서",
-        "ja": "カポエイラ・ホーダで"
+        "original": "Para que o senhor feitor não possa me escravizar",
+        "en": "So that the overseer cannot enslave me",
+        "ko": "감독관이 나를 노예로 만들지 못하도록",
+        "ja": "監督者が私を奴隷にできないように"
       },
       {
         "id": 7,
-        "original": "dou um aperto de mão",
-        "en": "I give a handshake",
-        "ko": "나는 악수를 건넵니다",
-        "ja": "私は握手をします"
+        "original": "Valha-me Nossa Senhora!",
+        "en": "Help me, Our Lady!",
+        "ko": "나를 도와주소서, 성모님!",
+        "ja": "助けてください、聖母様！"
       },
       {
         "id": 8,
-        "original": "se você quiser me ver",
-        "en": "if you wanna see me",
-        "ko": "만약 당신이 나를 보고 싶다면",
-        "ja": "もし私に会いたければ"
+        "original": "Na mandinga de Angola ô iaiá, pra que eu possa vadiar",
+        "en": "In the mandinga of Angola, oh iaiá, so I can play",
+        "ko": "앙골라의 만딩가여, 내가 놀 수 있도록",
+        "ja": "アンゴラのマンディンガで、私が遊べるように"
       },
       {
         "id": 9,
-        "original": "Capoeira vou jogar",
-        "en": "Capoeira I’ll play",
-        "ko": "나는 카포에이라를 할 것입니다",
-        "ja": "私はカポエイラをします"
+        "original": "Oh! No toque de urucungo que é um arco musical, camará",
+        "en": "Oh! In the sound of urucungo, which is a musical bow, friend",
+        "ko": "오! 악기 활인 우루쿵구의 소리에서, 친구여",
+        "ja": "おお！音楽弓のウルクングの音で、仲間よ"
       },
       {
         "id": 10,
-        "original": "sou discípulo que aprendo, olha meu Deus",
-        "en": "I am a disciple that learn, my God looks",
-        "ko": "나는 배우는 제자입니다, 나의 신이여 보세요",
-        "ja": "私は学ぶ弟子です、私の神様が見ています"
+        "original": "Viva meu Deus!",
+        "en": "Long live my God!",
+        "ko": "나의 신을 찬양하라!",
+        "ja": "私の神に栄光を！"
       },
       {
         "id": 11,
-        "original": "o mestre que dá lição",
-        "en": "I am the master who gives lesson",
-        "ko": "나는 가르침을 주는 스승입니다",
-        "ja": "私は教訓を与える師匠です"
+        "original": "Iê viva meu mestre!",
+        "en": "Long live my master!",
+        "ko": "나의 스승을 찬양하라!",
+        "ja": "私の師に栄光を！"
       },
       {
         "id": 12,
-        "original": "na roda de Capoeira",
-        "en": "in the Capoeira roda",
-        "ko": "카포에이라 호다에서",
-        "ja": "カポエイラ・ホーダで"
+        "original": "Iê quem me ensinou!",
+        "en": "Long live the one who taught me!",
+        "ko": "나를 가르쳐준 이를 찬양하라!",
+        "ja": "私に教えてくれた人に栄光を！"
       },
       {
         "id": 13,
-        "original": "dou um aperto de mão",
-        "en": "I give a handshake",
-        "ko": "나는 악수를 건넵니다",
-        "ja": "私は握手をします"
+        "original": "Iê mestre Meinha!",
+        "en": "Long live Master Meinha!",
+        "ko": "메이냐 스승을 찬양하라!",
+        "ja": "メイーニャ師に栄光を！"
       },
       {
         "id": 14,
-        "original": "Camaradinha",
-        "en": "My Friend",
-        "ko": "나의 친구여",
-        "ja": "私の友人"
+        "original": "Angolê, angolê iaiá, angolê ioiô",
+        "en": "Angolê, angolê oh iaiá, angolê oh ioiô",
+        "ko": "앙골레, 앙골레 오 이아야, 앙골레 오 이오요",
+        "ja": "アンゴレー、アンゴレーおイアヤ、アンゴレーおイオヨ"
       },
       {
         "id": 15,
-        "original": "viva meu Deus",
-        "en": "Long live my God",
-        "ko": "나의 신이시여 만수무강 하소서",
-        "ja": "私の神様、長生きしてください"
+        "original": "Sou escravo meu senhor, angolê",
+        "en": "I am a slave, my lord, angolê",
+        "ko": "나는 노예입니다, 나의 주인, 앙골레",
+        "ja": "私は奴隷です、私の主人、アンゴレー"
       },
       {
         "id": 16,
-        "original": "le viva meu Deus, câmara",
-        "en": "le viva my God, câmara",
-        "ko": "나의 신 만세, 카마라",
-        "ja": "私の神様、カマラに長生きを"
+        "original": "A história que conto de negro sofrido",
+        "en": "The story I tell of a suffering black man",
+        "ko": "내가 이야기하는 고통받는 흑인의 이야기",
+        "ja": "私が語る苦しむ黒人の物語"
       },
       {
         "id": 17,
-        "original": "galou cantou",
-        "en": "galou sang",
-        "ko": "갈루가 노래를 불렀습니다",
-        "ja": "ガルーが歌いました"
-      },
-      {
-        "id": 18,
-        "original": "le galou cantou, câmara",
-        "en": "Ie galou sang, câmara",
-        "ko": "갈루가 노래를 불렀다, 카마라",
-        "ja": "ガルーが歌った、カマラ"
-      },
-      {
-        "id": 19,
-        "original": "cocorroco",
-        "en": "cocorroco",
-        "ko": "코코로코",
-        "ja": "ココロコ"
-      },
-      {
-        "id": 20,
-        "original": "le cocorroco, câmara",
-        "en": "le cocorroco, câmara",
-        "ko": "코코로코, 카마라",
-        "ja": "ココロコ、カマラ"
-      },
-      {
-        "id": 21,
-        "original": "viva meu mestre",
-        "en": "long live my master",
-        "ko": "나의 스승이시여 만수무강 하소서",
-        "ja": "私の師匠、長生きしてください"
-      },
-      {
-        "id": 22,
-        "original": "le viva meu mestre, camara",
-        "en": "le viva my master, câmara",
-        "ko": "나의 스승 만세, 카마라",
-        "ja": "私の師匠、カマラに長生きを"
-      },
-      {
-        "id": 23,
-        "original": "quem me ensinou",
-        "en": "who taught me",
-        "ko": "나를 가르친 사람",
-        "ja": "私を教えた人"
-      },
-      {
-        "id": 24,
-        "original": "le quem me ensinou, camara",
-        "en": "he who taught me, câmara",
-        "ko": "나를 가르친 사람, 카마라",
-        "ja": "私を教えた人、カマラ"
+        "original": "De tristes engenhos venho aclamar",
+        "en": "Of sad mills I come to proclaim",
+        "ko": "슬픈 제분소를 내가 선언하러 왔다",
+        "ja": "悲しい工場を私は宣言しに来た"
       }
     ],
     "youtubeLink": "https://www.youtube.com/embed/X7fhNlAOu_c?si=xAvE5dQSGrfOicBQ"
+  },
+  {
+    "id": 29,
+    "title": "Maranhão",
+    "slug": "maranhao",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Maranhão Maranhão, o o",
+        "en": "Maranhão Maranhão, o o",
+        "ko": "마란양 마란양, 오 오",
+        "ja": "マランヨン マランヨン、オ オ"
+      },
+      {
+        "id": 2,
+        "original": "Que saudades do meu Maranhão, o o",
+        "en": "Oh, I miss my Maranhão, o o",
+        "ko": "오, 나의 마란양이 그립다, 오 오",
+        "ja": "ああ、私のマランヨンが恋しい、オ オ"
+      },
+      {
+        "id": 3,
+        "original": "Menina solta os cabelos por baixo do limoeiro",
+        "en": "Girl lets her hair down under the lemon tree",
+        "ko": "소녀가 레몬나무 아래에서 머리를 풀었다",
+        "ja": "少女がレモンの木の下で髪をほどく"
+      },
+      {
+        "id": 4,
+        "original": "Se o limoeiro morrer, o o",
+        "en": "If the lemon tree dies, o o",
+        "ko": "레몬나무가 죽으면, 오 오",
+        "ja": "レモンの木が枯れたら、オ オ"
+      },
+      {
+        "id": 5,
+        "original": "Eu pago com meu dinheiro, o o",
+        "en": "I will pay with my money, o o",
+        "ko": "나는 내 돈으로 지불하리라, 오 오",
+        "ja": "私は自分のお金で払います、オ オ"
+      },
+      {
+        "id": 6,
+        "original": "No fundo do mar tem um peixe dourado",
+        "en": "In the deep sea, there's a golden fish",
+        "ko": "깊은 바다에는 황금 물고기가 있다",
+        "ja": "深い海には金色の魚がいる"
+      },
+      {
+        "id": 7,
+        "original": "Menina bonita sou seu namorado",
+        "en": "Beautiful girl, I am your boyfriend",
+        "ko": "아름다운 소녀여, 나는 너의 연인이야",
+        "ja": "美しい少女よ、私はあなたの恋人です"
+      },
+      {
+        "id": 8,
+        "original": "No fundo do mar tem um peixe de escama",
+        "en": "In the deep sea, there's a scaled fish",
+        "ko": "깊은 바다에는 비늘 달린 물고기가 있다",
+        "ja": "深い海にはウロコのある魚がいる"
+      },
+      {
+        "id": 9,
+        "original": "Menina bonita sou eu quem te ama",
+        "en": "Beautiful girl, it's me who loves you",
+        "ko": "아름다운 소녀여, 내가 널 사랑하는 사람이야",
+        "ja": "美しい少女よ、あなたを愛しているのは私です"
+      },
+      {
+        "id": 10,
+        "original": "Penteando seus cabelos com pente de barbatana",
+        "en": "Combing her hair with a fin comb",
+        "ko": "그녀의 머리를 지느러미 빗으로 빗는다",
+        "ja": "彼女の髪をヒレの櫛でとかす"
+      },
+      {
+        "id": 11,
+        "original": "Que me dera ser candeia que alumia sua cama",
+        "en": "I wish I were the lamp that lights up your bed",
+        "ko": "나는 너의 침대를 비추는 등불이 되고 싶다",
+        "ja": "あなたのベッドを照らすランプになりたい"
+      }
+    ],
+    "youtubeLink": "https://www.youtube.com/embed/8slE1UskRS4?si=XlEr4WbQiV6Y_tyk"
+  },
+  {
+    "id": 30,
+    "title": "Maracangalha",
+    "slug": "maracangalha",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Maracangalha ê ê",
+        "en": "Maracangalha ê ê",
+        "ko": "마라칸갈랴 ê ê",
+        "ja": "マラカンガリャ ê ê"
+      },
+      {
+        "id": 2,
+        "original": "Maracangalha ê a",
+        "en": "Maracangalha ê a",
+        "ko": "마라칸갈랴 ê a",
+        "ja": "マラカンガリャ ê a"
+      },
+      {
+        "id": 3,
+        "original": "Maracangalha ê ê",
+        "en": "Maracangalha ê ê",
+        "ko": "마라칸갈랴 ê ê",
+        "ja": "マラカンガリャ ê ê"
+      },
+      {
+        "id": 4,
+        "original": "Maracangalha ê a",
+        "en": "Maracangalha ê a",
+        "ko": "마라칸갈랴 ê a",
+        "ja": "マラカンガリャ ê a"
+      }
+    ],
+    "youtubeLink": "https://www.youtube.com/watch?v=-D-en8X-Gao"
   }
 ]
