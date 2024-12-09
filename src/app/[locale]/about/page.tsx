@@ -8,10 +8,10 @@ export default async function Page({
 }) {
   const { t } = await createTranslation(locale, "about");
   return (
-    <div className='px-[20px] flex flex-col items-center'>
-      <h1 className='text-2xl font-bold p-6 text-center whitespace-pre-wrap'>
+    <div className='px-[20px] flex flex-col items-center pt-[80px]'>
+      <h2 className='text-2xl font-bold p-6 text-center whitespace-pre-wrap'>
         {t("title")}
-      </h1>
+      </h2>
       <p className='text-sm whitespace-pre-wrap leading-6'>
         {t("description")}
       </p>

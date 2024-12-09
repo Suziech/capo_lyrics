@@ -14,7 +14,7 @@ export default function Lyrics({
   }
   const song = songs.find((item) => item.slug === slug);
   return (
-    <div className='container mx-auto p-4 flex flex-col justify-center items-center'>
+    <div className='container mx-auto p-4 flex flex-col justify-center items-center pt-[120px]'>
       <iframe
         src={song?.youtubeLink}
         title='YouTube video player'
