@@ -43,7 +43,7 @@ export default function ChangeLocale() {
   return (
     <div className='px-4 relative cursor-pointer' ref={dropdownRef}>
       <div onClick={() => setIsOpen(!isOpen)}>
-        <IoLanguage size={24} />
+        <IoLanguage size={24} className='text-[#00712D]' />
       </div>
       {isOpen && (
         <div className='absolute top-10 right-0 bg-white border rounded-md w-[110px] text-black p-1 z-10'>
