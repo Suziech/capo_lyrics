@@ -56,6 +56,7 @@ export default function SongFinder({
     .map((song) => song.title);
 
   const toggleGroupVisibility = (letter: string) => {
+    console.log(letter);
     setVisibleGroups((prev) => ({
       ...prev,
       [letter]: !prev[letter],
@@ -63,15 +64,15 @@ export default function SongFinder({
   };
 
   return (
-    <div className='container mx-auto p-4'>
+    <div className='container mx-auto px-4 pt-[120px]'>
       <h1 className='text-2xl font-bold'>{title}</h1>
 
       {/* 검색 입력창 */}
-      <div className='relative'>
+      <div className='relative z-0'>
         <input
           type='text'
           placeholder={description}
-          className='w-full border border-gray-300 p-2 rounded my-4 text-black pr-10'
+          className='w-full border border-gray-300 p-2 rounded my-4 text-black pr-10 z-0'
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
         />
@@ -109,9 +110,7 @@ export default function SongFinder({
                 className='flex items-center justify-between mt-4 cursor-pointer'
                 onClick={() => toggleGroupVisibility(letter)}>
                 <h2 className='text-xl font-bold text-[#8B5DFF]'>{letter}</h2>
-                <button
-                  onClick={() => toggleGroupVisibility(letter)}
-                  className='text-sm text-[#FCCD2A] underline'>
+                <button className='text-sm text-[#FCCD2A] underline'>
                   {visibleGroups[letter] ? (
                     <IoIosArrowUp />
                   ) : (
@@ -119,7 +118,7 @@ export default function SongFinder({
                   )}
                 </button>
               </div>
-              {visibleGroups[letter] && (
+              {!visibleGroups[letter] && (
                 <ul>
                   {groupedSongs[letter].map((song) => (
                     <li key={song.id} className='py-2 text-lg'>
