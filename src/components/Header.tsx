@@ -15,18 +15,17 @@ export default function Header() {
   // const { t } = useTranslation(locale, "common");
   return (
     <header
-      className={`flex items-center max-w-[1440px] mx-auto py-[20px] px-[16px]`}>
-      <nav className={`flex justify-between w-full dark:text-red-500`}>
+      className={`flex items-center max-w-[1440px] mx-auto py-[20px] px-[16px] fixed w-full bg-[#FFC436] z-[9999]`}>
+      <nav className={`flex justify-between w-full `}>
         <Link href={`/${locale}`}>
-          {/* <b className='text-2xl'>Capo-Lyrics 🤸‍♀️</b> */}
           <Image src={logo} alt='logo' width={160} height={30} />
         </Link>
-        <div className='flex items-center px-[10px]'>
+        <div className='flex items-center px-[10px] text-[#00712D]'>
           <Link
             href={`/${locale}/about`}
             className={
               pathName === `/${locale}/about` || pathName === "/about"
-                ? "selected"
+                ? "selected font-bold"
                 : ""
             }>
             About
