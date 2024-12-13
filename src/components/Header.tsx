@@ -17,7 +17,7 @@ export default function Header() {
     <div className='w-full flex justify-center'>
       {" "}
       <header
-        className={`flex items-center max-w-[1440px] mx-auto py-[20px] px-[16px] fixed w-full bg-[#FFC436] z-[9999]`}>
+        className={`flex items-center max-w-[1440px] mx-auto py-[20px] px-[16px] fixed w-full bg-[#FFFACD] z-[9999]`}>
         <nav className={`flex justify-between w-full `}>
           <Link href={`/${locale}`}>
             <Image src={logo} alt='logo' width={160} height={30} />
