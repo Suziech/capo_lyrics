@@ -5,9 +5,10 @@ import Link from "next/link";
 import songs from "@/data/songs.json";
 import { IoIosArrowDown, IoIosArrowUp } from "react-icons/io";
 import { IoClose } from "react-icons/io5";
+import Image from "next/image";
 
 type Song = {
-  id: number;
+  id: number | string;
   title: string;
   slug: string;
 };
@@ -56,7 +57,6 @@ export default function SongFinder({
     .map((song) => song.title);
 
   const toggleGroupVisibility = (letter: string) => {
-    console.log(letter);
     setVisibleGroups((prev) => ({
       ...prev,
       [letter]: !prev[letter],
@@ -121,7 +121,16 @@ export default function SongFinder({
               {!visibleGroups[letter] && (
                 <ul>
                   {groupedSongs[letter].map((song) => (
-                    <li key={song.id} className='py-2 text-lg'>
+                    <li
+                      key={song.id}
+                      className='py-2 text-[14px] border-b-[0.1px] border-[#8B5DFF]  rounded-md m-2 px-2 flex'>
+                      <Image
+                        src={`https://img.youtube.com/vi/${song.id}/0.jpg`}
+                        alt='image'
+                        width={40}
+                        height={30}
+                        className='mr-3'
+                      />
                       <Link href={`/${locale}/${song.slug}`}>
                         <div className='cursor-pointer hover:text-blue-500'>
                           {song.title}
