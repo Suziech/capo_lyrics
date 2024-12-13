@@ -1,76 +1,98 @@
 [
   {
-    "id": "EBhnJh-L22w",
-    "title": "Vou Dizer a Meu Sinhô",
-    "slug": "vou-dizer-a-meu-sinho",
+    "id": "jmcLXqerl9M",
+    "title": "A manteiga derramou",
+    "slug": "a-manteiga-derramou",
     "lyrics": [
       {
         "id": 1,
         "original": "Vou dizer a meu sinhô",
-        "en": "I will tell my master",
+        "en": "I'll tell my master",
         "ko": "주인님에게 말할 거야",
-        "ja": "主人に伝えます"
+        "ja": "主人に伝えます",
+        "chorus": true
       },
       {
         "id": 2,
         "original": "Que a manteiga derramou",
-        "en": "That the butter spilled",
+        "en": "That I've spilt the butter",
         "ko": "버터가 쏟아졌다고",
-        "ja": "バターがこぼれたことを"
+        "ja": "バターがこぼれたことを",
+        "chorus": true
       },
       {
         "id": 3,
         "original": "E a manteiga não é minha",
-        "en": "The butter isn't mine",
+        "en": "The butter is not mine",
         "ko": "그 버터는 내 것이 아니야",
-        "ja": "そのバターは私のものではありません"
+        "ja": "そのバターは私のものではありません",
+        "chorus": false
       },
       {
         "id": 4,
-        "original": "E a manteiga é de ioiô",
-        "en": "The butter belongs to ioiô",
-        "ko": "그 버터는 ioiô의 것이야",
-        "ja": "そのバターはイオヨのものです"
+        "original": "É prá filha de ioiô",
+        "en": "It belongs to my master's son",
+        "ko": "그것은 주인의 아들의 것이야",
+        "ja": "それは主人の息子のものです",
+        "chorus": false
+      },
+      {
+        "id": 5,
+        "original": "A manteiga é do patrão",
+        "en": "The boss's butter",
+        "ko": "버터는 주인의 것이야",
+        "ja": "バターは主人のものです",
+        "chorus": false
+      },
+      {
+        "id": 6,
+        "original": "Caiu no chão e derramou",
+        "en": "Fell to the ground and spilled",
+        "ko": "바닥에 떨어져 쏟아졌어",
+        "ja": "床に落ちてこぼれました",
+        "chorus": false
       }
     ],
-    "youtubeLink": "https://www.youtube.com/embed/EBhnJh-L22w",
-    "img": "https://img.youtube.com/vi/EBhnJh-L22w/0.jpg"
+    "styles": ["Angola", "Benguela"]
   },
   {
     "id": "cL8-7F9Cf38",
-    "title": "Oi Sim Sim Sim",
-    "slug": "oi-sim-sim-sim",
+    "title": "Ô Sim Sim Sim",
+    "slug": "o-sim-sim-sim",
     "lyrics": [
       {
         "id": 1,
-        "original": "Oi sim sim sim",
+        "original": "Ô sim sim sim",
         "en": "Oh yes yes yes",
         "ko": "오 예 예 예",
-        "ja": "ああ はい はい はい"
+        "ja": "ああ はい はい はい",
+        "chorus": true
       },
       {
         "id": 2,
-        "original": "Oi não não não",
+        "original": "Ô não não não",
         "en": "Oh no no no",
         "ko": "오 아니 아니 아니",
-        "ja": "ああ いいえ いいえ いいえ"
+        "ja": "ああ いいえ いいえ いいえ",
+        "chorus": true
       },
       {
         "id": 3,
-        "original": "Mas hoje tem amanhã não",
+        "original": "Mas hoje tem, amanhã não",
         "en": "Today we have, but tomorrow no",
-        "ko": "오늘은 있는데 내일은 없어",
-        "ja": "今日はあるけど明日はない"
+        "ko": "오늘은 있는데, 내일은 없어",
+        "ja": "今日はあるけど明日はない",
+        "chorus": false
       },
       {
         "id": 4,
-        "original": "Mas hoje tem amanhã não",
+        "original": "Mas hoje tem, amanhã não",
         "en": "Today we have, but tomorrow no",
-        "ko": "오늘은 있는데 내일은 없어",
-        "ja": "今日はあるけど明日はない"
+        "ko": "오늘은 있는데, 내일은 없어",
+        "ja": "今日はあるけど明日はない",
+        "chorus": false
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/cL8-7F9Cf38?si=PUHFNzcoAaXAzDpB"
+    ]
   },
   {
     "id": "LPhEZAlTs9s",
@@ -82,31 +104,34 @@
         "original": "Agora sim, que mataram o meu Besouro",
         "en": "Now yes, they have killed my Besouro",
         "ko": "이제 정말, 그들이 내 비소우루를 죽였네",
-        "ja": "今そう、彼らは私のベソウロを殺しました"
+        "ja": "今そう、彼らは私のベソウロを殺しました",
+        "chorus": true
       },
       {
         "id": 2,
         "original": "Depois de morto, Besourinho cordão de ouro",
         "en": "After death, little Besouro with a golden cord",
         "ko": "죽은 후에, 황금 끈을 가진 작은 비소우루",
-        "ja": "死後、小さなベソウロは金の紐を持っています"
+        "ja": "死後、小さなベソウロは金の紐を持っています",
+        "chorus": true
       },
       {
         "id": 3,
         "original": "Besouro, Besourinho",
         "en": "Besouro, little Besouro",
         "ko": "비소우루, 작은 비소우루",
-        "ja": "ベソウロ、小さなベソウロ"
+        "ja": "ベソウロ、小さなベソウロ",
+        "chorus": false
       },
       {
         "id": 4,
         "original": "Cordão de Ouro",
         "en": "Golden Cord",
         "ko": "황금 끈",
-        "ja": "金の紐"
+        "ja": "金の紐",
+        "chorus": true
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/LPhEZAlTs9s"
+    ]
   },
   {
     "id": "C_rYxHraOQg",
@@ -118,73 +143,82 @@
         "original": "Bem-te-vi voou, voou",
         "en": "The Bem-te-vi flew, flew",
         "ko": "벤치비가 날아갔네, 날아갔네",
-        "ja": "ベムテヴィが飛んだ、飛んだ"
+        "ja": "ベムテヴィが飛んだ、飛んだ",
+        "chorus": false
       },
       {
         "id": 2,
         "original": "Deixa voar",
         "en": "Let it fly",
         "ko": "날게 두어라",
-        "ja": "飛ばせて"
+        "ja": "飛ばせて",
+        "chorus": false
       },
       {
         "id": 3,
         "original": "Lá lauê lauê lauê laua",
         "en": "Lá lauê lauê lauê laua",
         "ko": "라 라우에 라우에 라우에 라우아",
-        "ja": "ラ ラウエ ラウエ ラウエ ラウア"
+        "ja": "ラ ラウエ ラウエ ラウエ ラウア",
+        "chorus": true
       },
       {
         "id": 4,
         "original": "Que som, o que arte é essa",
         "en": "What sound, what art is this",
         "ko": "이 소리, 이 예술은 무엇인가",
-        "ja": "この音、この芸術は何ですか"
+        "ja": "この音、この芸術は何ですか",
+        "chorus": false
       },
       {
         "id": 5,
         "original": "De luta e brincadeira",
         "en": "Of fight and playfulness",
         "ko": "싸움과 장난의",
-        "ja": "戦いと遊びの"
+        "ja": "戦いと遊びの",
+        "chorus": false
       },
       {
         "id": 6,
         "original": "Que roda maravilhosa é essa",
         "en": "What a wonderful roda is this",
         "ko": "이 얼마나 멋진 호다인가",
-        "ja": "なんて素晴らしいホーダだ"
+        "ja": "なんて素晴らしいホーダだ",
+        "chorus": false
       },
       {
         "id": 7,
         "original": "É o Axé Capoeira",
         "en": "It is Axé Capoeira",
         "ko": "이것이 아셰 카포에라다",
-        "ja": "これはアシェ カポエイラです"
+        "ja": "これはアシェ カポエイラです",
+        "chorus": false
       },
       {
         "id": 8,
         "original": "Em cada som, em cada toque",
         "en": "In each sound, in each beat",
         "ko": "각 소리마다, 각 박자마다",
-        "ja": "各音、各ビートで"
+        "ja": "各音、各ビートで",
+        "chorus": true
       },
       {
         "id": 9,
         "original": "Em cada ginga, tem um estilo de jogo",
         "en": "In each ginga, there is a style of play",
         "ko": "각 진가마다, 하나의 게임 스타일이 있네",
-        "ja": "各ジンガに、それぞれのスタイルがあります"
+        "ja": "各ジンガに、それぞれのスタイルがあります",
+        "chorus": true
       },
       {
         "id": 10,
         "original": "Lauê lauê lá...",
         "en": "Lauê lauê lá...",
         "ko": "라우에 라우에 라...",
-        "ja": "ラウエ ラウエ ラ..."
+        "ja": "ラウエ ラウエ ラ...",
+        "chorus": true
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/C_rYxHraOQg"
+    ]
   },
   {
     "id": "DDeNmEr2GIM",
@@ -196,115 +230,130 @@
         "original": "Quem vem lá - sou eu",
         "en": "Who goes there - it's me",
         "ko": "누구인가 - 나야",
-        "ja": "誰だ - 私です"
+        "ja": "誰だ - 私です",
+        "chorus": true
       },
       {
         "id": 2,
         "original": "Quem vem lá - sou eu",
         "en": "Who goes there - it's me",
         "ko": "누구인가 - 나야",
-        "ja": "誰だ - 私です"
+        "ja": "誰だ - 私です",
+        "chorus": true
       },
       {
         "id": 3,
         "original": "Berimbau bateu",
         "en": "The berimbau played",
         "ko": "베림바우가 울렸네",
-        "ja": "ベリンバウが鳴った"
+        "ja": "ベリンバウが鳴った",
+        "chorus": true
       },
       {
         "id": 4,
         "original": "Capoeira sou eu",
         "en": "I am Capoeira",
         "ko": "나는 카포에라다",
-        "ja": "私はカポエイラです"
+        "ja": "私はカポエイラです",
+        "chorus": true
       },
       {
         "id": 5,
         "original": "La na Terra da Bahia",
         "en": "There in the land of Bahia",
         "ko": "저기 바이아의 땅에서",
-        "ja": "あそこのバイアの地で"
+        "ja": "あそこのバイアの地で",
+        "chorus": false
       },
       {
         "id": 6,
         "original": "Capital de Salvador",
         "en": "Capital of Salvador",
         "ko": "살바도르의 수도",
-        "ja": "サルバドールの首都"
+        "ja": "サルバドールの首都",
+        "chorus": false
       },
       {
         "id": 7,
         "original": "A Capoeira foi Resistencia",
         "en": "Capoeira was resistance",
         "ko": "카포에라는 저항이었다",
-        "ja": "カポエイラは抵抗だった"
+        "ja": "カポエイラは抵抗だった",
+        "chorus": false
       },
       {
         "id": 8,
         "original": "Os Africans nos mostrou",
         "en": "The Africans showed us",
         "ko": "아프리카인들이 우리에게 보여주었다",
-        "ja": "アフリカ人が私たちに示した"
+        "ja": "アフリカ人が私たちに示した",
+        "chorus": false
       },
       {
         "id": 9,
         "original": "Sou eu, sou eu",
         "en": "It's me, it's me",
         "ko": "나야, 나야",
-        "ja": "私だ、私だ"
+        "ja": "私だ、私だ",
+        "chorus": false
       },
       {
         "id": 10,
         "original": "Quem vem lá",
         "en": "Who goes there",
         "ko": "누구인가",
-        "ja": "誰だ"
+        "ja": "誰だ",
+        "chorus": true
       },
       {
         "id": 11,
         "original": "Eu sou bevenuto",
         "en": "I am Bevenuto",
         "ko": "나는 베베누토다",
-        "ja": "私はベベヌートです"
+        "ja": "私はベベヌートです",
+        "chorus": false
       },
       {
         "id": 12,
         "original": "Quem vem lá",
         "en": "Who goes there",
         "ko": "누구인가",
-        "ja": "誰だ"
+        "ja": "誰だ",
+        "chorus": true
       },
       {
         "id": 13,
         "original": "Montado a cavalo",
         "en": "Riding a horse",
         "ko": "말을 타고",
-        "ja": "馬に乗って"
+        "ja": "馬に乗って",
+        "chorus": false
       },
       {
         "id": 14,
         "original": "Quem vem lá",
         "en": "Who goes there",
         "ko": "누구인가",
-        "ja": "誰だ"
+        "ja": "誰だ",
+        "chorus": true
       },
       {
         "id": 15,
         "original": "Fumando a charuto",
         "en": "Smoking a cigar",
         "ko": "시가를 피우며",
-        "ja": "葉巻を吸いながら"
+        "ja": "葉巻を吸いながら",
+        "chorus": false
       },
       {
         "id": 16,
         "original": "Quem vem lá",
         "en": "Who goes there",
         "ko": "누구인가",
-        "ja": "誰だ"
+        "ja": "誰だ",
+        "chorus": true
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/DDeNmEr2GIM?si=_7KlRZBBB2Z2gaV-"
+    ]
   },
   {
     "id": "SOT26ftiZww",
@@ -316,87 +365,98 @@
         "original": "Dona Maria do Camboatá",
         "en": "Ms. Maria of Camboatá",
         "ko": "캄보아타의 마리아 여사",
-        "ja": "カンボアタのマリアさん"
+        "ja": "カンボアタのマリアさん",
+        "chorus": true
       },
       {
         "id": 2,
         "original": "Ela chega na venda ela manda botar",
         "en": "She arrives at the market and starts giving orders",
         "ko": "그녀는 시장에 도착해 명령을 내리기 시작한다",
-        "ja": "彼女は市場に到着し、命令を出し始めます"
+        "ja": "彼女は市場に到着し、命令を出し始めます",
+        "chorus": false
       },
       {
         "id": 3,
         "original": "Dona Maria do Camboatá",
         "en": "Ms. Maria of Camboatá",
         "ko": "캄보아타의 마리아 여사",
-        "ja": "カンボアタのマリアさん"
+        "ja": "カンボアタのマリアさん",
+        "chorus": true
       },
       {
         "id": 4,
         "original": "Ela chega na venda e dá salto mortal",
         "en": "She arrives at the market and does a backflip",
         "ko": "그녀는 시장에 도착해 백플립을 한다",
-        "ja": "彼女は市場に到着してバックフリップをします"
+        "ja": "彼女は市場に到着してバックフリップをします",
+        "chorus": false
       },
       {
         "id": 5,
         "original": "Dona Maria do Camboatá",
         "en": "Ms. Maria of Camboatá",
         "ko": "캄보아타의 마리아 여사",
-        "ja": "カンボアタのマリアさん"
+        "ja": "カンボアタのマリアさん",
+        "chorus": true
       },
       {
         "id": 6,
         "original": "Ela chega na venda e começa a gingar",
         "en": "She arrives at the market and starts to ginga",
-        "ko": "그녀는 시장에 도착해 진가를 시작한다",
-        "ja": "彼女は市場に到着してジンガを始めます"
+        "ko": "그녀는 시장에 도착해 징가를 시작한다",
+        "ja": "彼女は市場に到着してジンガを始めます",
+        "chorus": false
       },
       {
         "id": 7,
         "original": "Dona Maria do Camboatá",
         "en": "Ms. Maria of Camboatá",
         "ko": "캄보아타의 마리아 여사",
-        "ja": "カンボアタのマリアさん"
+        "ja": "カンボアタのマリアさん",
+        "chorus": true
       },
       {
         "id": 8,
         "original": "Ela chama o menino e manda comprar",
         "en": "She calls the boy and sends him to buy",
         "ko": "그녀는 소년을 불러 물건을 사오게 한다",
-        "ja": "彼女は少年を呼んで買い物に行かせます"
+        "ja": "彼女は少年を呼んで買い物に行かせます",
+        "chorus": false
       },
       {
         "id": 9,
         "original": "Dona Maria do Camboatá",
         "en": "Ms. Maria of Camboatá",
         "ko": "캄보아타의 마리아 여사",
-        "ja": "カンボアタのマリアさん"
+        "ja": "カンボアタのマリアさん",
+        "chorus": true
       },
       {
         "id": 10,
         "original": "Se não tem, se não acha ela manda trocar",
         "en": "If it's not there, if he doesn't find it, she demands an exchange",
         "ko": "없으면, 찾지 못하면 그녀는 교환을 요구한다",
-        "ja": "なければ、見つからなければ交換を要求します"
+        "ja": "なければ、見つからなければ交換を要求します",
+        "chorus": false
       },
       {
         "id": 11,
         "original": "Dona Maria do Camboatá",
         "en": "Ms. Maria of Camboatá",
         "ko": "캄보아타의 마리아 여사",
-        "ja": "カンボアタのマリアさん"
+        "ja": "カンボアタのマリアさん",
+        "chorus": true
       },
       {
         "id": 12,
         "original": "É do Camboatá, é do Camboatá",
         "en": "She's from Camboatá, from Camboatá",
         "ko": "그녀는 캄보아타 출신이다, 캄보아타 출신이다",
-        "ja": "彼女はカンボアタ出身です、カンボアタ出身です"
+        "ja": "彼女はカンボアタ出身です、カンボアタ出身です",
+        "chorus": false
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/SOT26ftiZww"
+    ]
   },
   {
     "id": "vCW9NtJC1pY",
@@ -557,8 +617,7 @@
         "ko": "그리고 노는 것을 더 좋아한다",
         "ja": "そして遊ぶことを好む"
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/vCW9NtJC1pY?si=0gu_Mzalh972xqo1"
+    ]
   },
   {
     "id": "WgT001i3eUc",
@@ -570,24 +629,26 @@
         "original": "A hora é essa, a hora é essa",
         "en": "The time is now, the time is now",
         "ko": "지금이 바로 그 시간이다, 지금이 바로 그 시간이다",
-        "ja": "今がその時だ、今がその時だ"
+        "ja": "今がその時だ、今がその時だ",
+        "chorus": true
       },
       {
         "id": 2,
         "original": "Berimbau tocou na capoeira",
         "en": "The berimbau played in capoeira",
         "ko": "카포에라에서 베림바우가 연주되었다",
-        "ja": "カポエイラでベリンバウが演奏された"
+        "ja": "カポエイラでベリンバウが演奏された",
+        "chorus": true
       },
       {
         "id": 3,
         "original": "Berimbau tocou eu vou jogar",
         "en": "The berimbau played, I'm going to play",
         "ko": "베림바우가 연주되었으니, 나는 놀 것이다",
-        "ja": "ベリンバウが演奏された、私は遊びに行く"
+        "ja": "ベリンバウが演奏された、私は遊びに行く",
+        "chorus": true
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/WgT001i3eUc"
+    ]
   },
   {
     "id": "PjTFXiGq8oQ",
@@ -599,115 +660,130 @@
         "original": "Vai você, vai você",
         "en": "Go you, go you",
         "ko": "가라, 가라",
-        "ja": "行け、行け"
+        "ja": "行け、行け",
+        "chorus": false
       },
       {
         "id": 2,
         "original": "Dona Maria, como vai você?",
         "en": "Dona Maria, how are you?",
         "ko": "도나 마리아, 어떻게 지내세요?",
-        "ja": "ドナ・マリア、元気ですか？"
+        "ja": "ドナ・マリア、元気ですか？",
+        "chorus": true
       },
       {
         "id": 3,
         "original": "Joga bonito que eu quero aprender",
         "en": "Play beautifully because I want to learn",
         "ko": "아름답게 플레이해줘요, 배우고 싶어요",
-        "ja": "美しくプレイしてください、学びたいです"
+        "ja": "美しくプレイしてください、学びたいです",
+        "chorus": false
       },
       {
         "id": 4,
         "original": "Dona Maria, como vai você?",
         "en": "Dona Maria, how are you?",
         "ko": "도나 마리아, 어떻게 지내세요?",
-        "ja": "ドナ・マリア、元気ですか？"
+        "ja": "ドナ・マリア、元気ですか？",
+        "chorus": true
       },
       {
         "id": 5,
         "original": "Vai você, como vai você",
         "en": "Go you, how are you",
         "ko": "가라, 어떻게 지내세요",
-        "ja": "行け、元気ですか"
+        "ja": "行け、元気ですか",
+        "chorus": false
       },
       {
         "id": 6,
         "original": "Dona Maria, como vai você?",
         "en": "Dona Maria, how are you?",
         "ko": "도나 마리아, 어떻게 지내세요?",
-        "ja": "ドナ・マリア、元気ですか？"
+        "ja": "ドナ・マリア、元気ですか？",
+        "chorus": true
       },
       {
         "id": 7,
         "original": "Joga bonito que eu quero ver",
         "en": "Play beautifully because I want to see",
         "ko": "아름답게 플레이해줘요, 보고 싶어요",
-        "ja": "美しくプレイしてください、見たいです"
+        "ja": "美しくプレイしてください、見たいです",
+        "chorus": false
       },
       {
         "id": 8,
         "original": "Dona Maria, como vai você?",
         "en": "Dona Maria, how are you?",
         "ko": "도나 마리아, 어떻게 지내세요?",
-        "ja": "ドナ・マリア、元気ですか？"
+        "ja": "ドナ・マリア、元気ですか？",
+        "chorus": true
       },
       {
         "id": 9,
         "original": "Como vai você, como vai você",
         "en": "How are you, how are you",
         "ko": "어떻게 지내세요, 어떻게 지내세요",
-        "ja": "元気ですか、元気ですか"
+        "ja": "元気ですか、元気ですか",
+        "chorus": false
       },
       {
         "id": 10,
         "original": "Dona Maria, como vai você?",
         "en": "Dona Maria, how are you?",
         "ko": "도나 마리아, 어떻게 지내세요?",
-        "ja": "ドナ・マリア、元気ですか？"
+        "ja": "ドナ・マリア、元気ですか？",
+        "chorus": true
       },
       {
         "id": 11,
         "original": "Joga bonito que o mestre quer ver",
         "en": "Play beautifully because the master wants to see",
         "ko": "아름답게 플레이해줘요, 마스터가 보고 싶어해요",
-        "ja": "美しくプレイしてください、マスターが見たいです"
+        "ja": "美しくプレイしてください、マスターが見たいです",
+        "chorus": false
       },
       {
         "id": 12,
         "original": "Dona Maria, como vai você?",
         "en": "Dona Maria, how are you?",
         "ko": "도나 마리아, 어떻게 지내세요?",
-        "ja": "ドナ・マリア、元気ですか？"
+        "ja": "ドナ・マリア、元気ですか？",
+        "chorus": true
       },
       {
         "id": 13,
         "original": "Capoeira não é karaté",
         "en": "Capoeira is not karate",
         "ko": "카포에라는 가라테가 아니에요",
-        "ja": "カポエイラは空手ではありません"
+        "ja": "カポエイラは空手ではありません",
+        "chorus": false
       },
       {
         "id": 14,
         "original": "Dona Maria, como vai você?",
         "en": "Dona Maria, how are you?",
         "ko": "도나 마리아, 어떻게 지내세요?",
-        "ja": "ドナ・マリア、元気ですか？"
+        "ja": "ドナ・マリア、元気ですか？",
+        "chorus": true
       },
       {
         "id": 15,
         "original": "Joga bonito pra mim aprender",
         "en": "Play beautifully so I can learn",
         "ko": "아름답게 플레이해줘요, 제가 배울 수 있게",
-        "ja": "美しくプレイしてください、学べるように"
+        "ja": "美しくプレイしてください、学べるように",
+        "chorus": false
       },
       {
         "id": 16,
         "original": "Dona Maria, como vai você?",
         "en": "Dona Maria, how are you?",
         "ko": "도나 마리아, 어떻게 지내세요?",
-        "ja": "ドナ・マリア、元気ですか？"
+        "ja": "ドナ・マリア、元気ですか？",
+        "chorus": true
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/PjTFXiGq8oQ"
+    ]
   },
   {
     "id": "1R_N4UOfzUw",
@@ -719,150 +795,170 @@
         "original": "Foi na Bahia que eu mandei fazer",
         "en": "It was in Bahia that I had made",
         "ko": "바이아에서 내가 만들게 했네",
-        "ja": "バイーアで作らせた"
+        "ja": "バイーアで作らせた",
+        "chorus": true
       },
       {
         "id": 2,
         "original": "Foi na Bahia que eu mandei preparar",
         "en": "It was in Bahia that I had prepared",
         "ko": "바이아에서 내가 준비하게 했네",
-        "ja": "バイーアで準備させた"
+        "ja": "バイーアで準備させた",
+        "chorus": true
       },
       {
         "id": 3,
         "original": "Meu patuá meu pai, meu patuá",
         "en": "My amulet, my father, my amulet",
         "ko": "내 부적, 내 아버지, 내 부적",
-        "ja": "私のお守り、私の父、私のお守り"
+        "ja": "私のお守り、私の父、私のお守り",
+        "chorus": true
       },
       {
         "id": 4,
         "original": "Meu patuá para me proteger",
         "en": "My amulet to protect me",
         "ko": "나를 보호해줄 내 부적",
-        "ja": "私を守るためのお守り"
+        "ja": "私を守るためのお守り",
+        "chorus": true
       },
       {
         "id": 5,
         "original": "Era domingo, era um dia de oferendas",
         "en": "It was Sunday, it was a day of offerings",
         "ko": "일요일이었네, 제물의 날이었네",
-        "ja": "日曜日、捧げ物の日だった"
+        "ja": "日曜日、捧げ物の日だった",
+        "chorus": false
       },
       {
         "id": 6,
         "original": "E eu levei flores pra Iemanjá",
         "en": "And I took flowers to Iemanjá",
         "ko": "그리고 나는 이만자에게 꽃을 가져갔네",
-        "ja": "そしてイエマンジャに花を持っていった"
+        "ja": "そしてイエマンジャに花を持っていった",
+        "chorus": false
       },
       {
         "id": 7,
         "original": "Fui celebrar Janaína, rainha menina",
         "en": "I went to celebrate Janaína, young queen",
         "ko": "어린 여왕 자나이나를 기리러 갔네",
-        "ja": "若き女王ジャナイナを祝うために行った"
+        "ja": "若き女王ジャナイナを祝うために行った",
+        "chorus": false
       },
       {
         "id": 8,
         "original": "Iemanjá que é a dona do mar",
         "en": "Iemanjá who is the owner of the sea",
         "ko": "바다의 주인인 이만자",
-        "ja": "海の主イエマンジャ"
+        "ja": "海の主イエマンジャ",
+        "chorus": false
       },
       {
         "id": 9,
         "original": "E na Bahia um mestre velho mandingueiro",
         "en": "And in Bahia, an old cunning master",
         "ko": "그리고 바이아에서, 노련한 늙은 마스터가",
-        "ja": "バイーアでの老練な師匠"
+        "ja": "バイーアでの老練な師匠",
+        "chorus": false
       },
       {
         "id": 10,
         "original": "Abriu a roda fazendo uma louvação",
         "en": "Opened the roda making a praise",
         "ko": "찬양하며 호다를 열었네",
-        "ja": "称賛を込めてロダを開いた"
+        "ja": "称賛を込めてロダを開いた",
+        "chorus": false
       },
       {
         "id": 11,
         "original": "Cantou bem forte o lamento",
         "en": "Sang the lament very strongly",
         "ko": "아주 강하게 비탄을 노래했네",
-        "ja": "非常に強く嘆きの歌を歌った"
+        "ja": "非常に強く嘆きの歌を歌った",
+        "chorus": false
       },
       {
         "id": 12,
         "original": "Me dando a benção",
         "en": "Giving me the blessing",
         "ko": "나에게 축복을 주며",
-        "ja": "私に祝福を与えながら"
+        "ja": "私に祝福を与えながら",
+        "chorus": false
       },
       {
         "id": 13,
         "original": "Era a hora de eu sair pra jogar",
         "en": "It was time for me to go out to play",
         "ko": "내가 나가서 놀 시간이었다네",
-        "ja": "遊びに出る時間だった"
+        "ja": "遊びに出る時間だった",
+        "chorus": false
       },
       {
         "id": 14,
         "original": "Fui convidado pra uma roda de gigante",
         "en": "I was invited to a giant roda",
         "ko": "거대한 호다에 초대받았네",
-        "ja": "巨大なロダに招待された"
+        "ja": "巨大なロダに招待された",
+        "chorus": false
       },
       {
         "id": 15,
         "original": "Com dois pandeiros e três berimbaus",
         "en": "With two pandeiros and three berimbaus",
         "ko": "두 개의 판데이루와 세 개의 베림바우와 함께",
-        "ja": "2つのパンデイロと3つのベリンバウとともに"
+        "ja": "2つのパンデイロと3つのベリンバウとともに",
+        "chorus": false
       },
       {
         "id": 16,
         "original": "E um atabaque tocando maneiro e sereno",
         "en": "And an atabaque playing smoothly and serenely",
         "ko": "부드럽고 고요하게 연주하는 아타바케와 함께",
-        "ja": "滑らかで穏やかに演奏するアタバキとともに"
+        "ja": "滑らかで穏やかに演奏するアタバキとともに",
+        "chorus": false
       },
       {
         "id": 17,
         "original": "É a roda que já vai começar",
         "en": "It's the roda that's about to start",
         "ko": "곧 시작될 호다",
-        "ja": "もうすぐ始まるロダ"
+        "ja": "もうすぐ始まるロダ",
+        "chorus": false
       },
       {
         "id": 18,
         "original": "Meu patuá é meu berimbau sagrado",
         "en": "My amulet is my sacred berimbau",
         "ko": "내 부적은 나의 신성한 베림바우",
-        "ja": "私のお守りは神聖なベリンバウ"
+        "ja": "私のお守りは神聖なベリンバウ",
+        "chorus": false
       },
       {
         "id": 19,
         "original": "É minha vida e também o meu cantar",
         "en": "It's my life and also my singing",
         "ko": "그것은 나의 삶이자 나의 노래",
-        "ja": "それは私の人生であり、私の歌でもある"
+        "ja": "それは私の人生であり、私の歌でもある",
+        "chorus": false
       },
       {
         "id": 20,
         "original": "É os meus amigos sorrindo",
         "en": "It's my friends smiling",
         "ko": "미소 짓는 나의 친구들",
-        "ja": "微笑む私の友達"
+        "ja": "微笑む私の友達",
+        "chorus": false
       },
       {
         "id": 21,
         "original": "Sempre junto comigo, na volta que o mundo dá",
         "en": "Always with me, in the turn that the world takes",
         "ko": "세상이 도는 동안 항상 나와 함께",
-        "ja": "世界が回る間、常に私とともに"
+        "ja": "世界が回る間、常に私とともに",
+        "chorus": false
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/1R_N4UOfzUw"
+    ]
   },
   {
     "id": "uGQ_Zl-eI7k",
@@ -874,59 +970,66 @@
         "original": "Sai, sai, Catarina",
         "en": "Come out, come out, Catarina",
         "ko": "나와라, 나와라, 카타리나",
-        "ja": "出ておいで、出ておいで、カタリナ"
+        "ja": "出ておいで、出ておいで、カタリナ",
+        "chorus": true
       },
       {
         "id": 2,
         "original": "Saia do mar, venha ver Idalina",
         "en": "Get out of the sea, come see Idalina",
         "ko": "바다에서 나와, 이달리나를 보러 와",
-        "ja": "海から出て、イダリナを見に来て"
+        "ja": "海から出て、イダリナを見に来て",
+        "chorus": false
       },
       {
         "id": 3,
         "original": "Sai, sai, Catarina",
         "en": "Come out, come out, Catarina",
         "ko": "나와라, 나와라, 카타리나",
-        "ja": "出ておいで、出ておいで、カタリナ"
+        "ja": "出ておいで、出ておいで、カタリナ",
+        "chorus": true
       },
       {
         "id": 4,
         "original": "Saia do mar, venha ver, venha ver",
         "en": "Get out of the sea, come see, come see",
         "ko": "바다에서 나와, 보러 와, 보러 와",
-        "ja": "海から出て、見に来て、見に来て"
+        "ja": "海から出て、見に来て、見に来て",
+        "chorus": false
       },
       {
         "id": 5,
         "original": "Sai, sai, Catarina",
         "en": "Come out, come out, Catarina",
         "ko": "나와라, 나와라, 카타리나",
-        "ja": "出ておいで、出ておいで、カタリナ"
+        "ja": "出ておいで、出ておいで、カタリナ",
+        "chorus": true
       },
       {
         "id": 6,
         "original": "Oh Catarina, meu amor",
         "en": "Oh Catarina, my love",
         "ko": "오 카타리나, 내 사랑",
-        "ja": "ああ、カタリナ、私の愛"
+        "ja": "ああ、カタリナ、私の愛",
+        "chorus": false
       },
       {
         "id": 7,
         "original": "Sai, sai, Catarina",
         "en": "Come out, come out, Catarina",
         "ko": "나와라, 나와라, 카타리나",
-        "ja": "出ておいで、出ておいで、カタリナ"
+        "ja": "出ておいで、出ておいで、カタリナ",
+        "chorus": true
       },
       {
         "id": 8,
         "original": "Saia do mar, saia do mar",
         "en": "Get out of the sea, get out of the sea",
         "ko": "바다에서 나와, 바다에서 나와",
-        "ja": "海から出て、海から出て"
+        "ja": "海から出て、海から出て",
+        "chorus": false
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/uGQ_Zl-eI7k"
+    ]
   },
   {
     "id": "54JRejHOixA",
@@ -938,115 +1041,130 @@
         "original": "Paranauê, paranauê, Paraná",
         "en": "Paranauê, paranauê, Paraná",
         "ko": "파라나우에, 파라나우에, 파라나",
-        "ja": "パラナウエ、パラナウエ、パラナ"
+        "ja": "パラナウエ、パラナウエ、パラナ",
+        "chorus": true
       },
       {
         "id": 2,
         "original": "Vou dizer minha mulher, Paraná",
         "en": "I will tell my wife, Paraná",
         "ko": "내 아내에게 말할 거야, 파라나",
-        "ja": "妻に伝えます、パラナ"
+        "ja": "妻に伝えます、パラナ",
+        "chorus": false
       },
       {
         "id": 3,
         "original": "Capoeira me venceu, Paraná",
         "en": "Capoeira has defeated me, Paraná",
         "ko": "카포에라가 나를 이겼네, 파라나",
-        "ja": "カポエイラに負けました、パラナ"
+        "ja": "カポエイラに負けました、パラナ",
+        "chorus": false
       },
       {
         "id": 4,
         "original": "Vou me embora pra favela, Paraná",
         "en": "I will leave for the favela, Paraná",
         "ko": "파벨라로 떠날 거야, 파라나",
-        "ja": "ファヴェラに向かいます、パラナ"
+        "ja": "ファヴェラに向かいます、パラナ",
+        "chorus": false
       },
       {
         "id": 5,
         "original": "Como já disse que vou, Paraná",
         "en": "As I have already said I will go, Paraná",
         "ko": "내가 이미 떠난다고 말했듯이, 파라나",
-        "ja": "私は行くと言った通り、パラナ"
+        "ja": "私は行くと言った通り、パラナ",
+        "chorus": false
       },
       {
         "id": 6,
         "original": "Vou me embora dessa terra, Paraná",
         "en": "I will leave this land, Paraná",
         "ko": "이 땅을 떠날 거야, 파라나",
-        "ja": "この地を去ります、パラナ"
+        "ja": "この地を去ります、パラナ",
+        "chorus": false
       },
       {
         "id": 7,
         "original": "Eu aqui não sou querido, Paraná",
         "en": "I am not loved here, Paraná",
         "ko": "여기서는 사랑받지 못해, 파라나",
-        "ja": "ここでは愛されていません、パラナ"
+        "ja": "ここでは愛されていません、パラナ",
+        "chorus": false
       },
       {
         "id": 8,
         "original": "Mas na minha terra eu sou, Paraná",
         "en": "But in my homeland, I am, Paraná",
         "ko": "하지만 내 고향에서는 사랑받지, 파라나",
-        "ja": "でも故郷では、パラナ"
+        "ja": "でも故郷では、パラナ",
+        "chorus": false
       },
       {
         "id": 9,
         "original": "Cantando com alegria, Paraná",
         "en": "Singing with joy, Paraná",
         "ko": "기쁨으로 노래하며, 파라나",
-        "ja": "喜びと共に歌い、パラナ"
+        "ja": "喜びと共に歌い、パラナ",
+        "chorus": false
       },
       {
         "id": 10,
         "original": "Mocidade es que mata, Paraná",
         "en": "Youth is what kills, Paraná",
         "ko": "젊음이란 그것이 죽인다, 파라나",
-        "ja": "若さこそが殺す、パラナ"
+        "ja": "若さこそが殺す、パラナ",
+        "chorus": false
       },
       {
         "id": 11,
         "original": "O enfeite de uma mesa, Paraná",
         "en": "The ornament of a table, Paraná",
         "ko": "테이블의 장식은, 파라나",
-        "ja": "テーブルの飾りは、パラナ"
+        "ja": "テーブルの飾りは、パラナ",
+        "chorus": false
       },
       {
         "id": 12,
         "original": "É um garfo e uma colher, Paraná",
         "en": "It's a fork and a spoon, Paraná",
         "ko": "포크와 숟가락, 파라나",
-        "ja": "フォークとスプーン、パラナ"
+        "ja": "フォークとスプーン、パラナ",
+        "chorus": false
       },
       {
         "id": 13,
         "original": "O enfeite de uma cama, Paraná",
         "en": "The ornament of a bed, Paraná",
         "ko": "침대의 장식은, 파라나",
-        "ja": "ベッドの飾りは、パラナ"
+        "ja": "ベッドの飾りは、パラナ",
+        "chorus": false
       },
       {
         "id": 14,
         "original": "É um homem e uma mulher, Paraná",
         "en": "It's a man and a woman, Paraná",
         "ko": "남자와 여자가, 파라나",
-        "ja": "男性と女性、パラナ"
+        "ja": "男性と女性、パラナ",
+        "chorus": false
       },
       {
         "id": 15,
         "original": "Mulher pra ser bonita, Paraná",
         "en": "For a woman to be beautiful, Paraná",
         "ko": "여자가 아름다워지려면, 파라나",
-        "ja": "女性が美しくなるには、パラナ"
+        "ja": "女性が美しくなるには、パラナ",
+        "chorus": false
       },
       {
         "id": 16,
         "original": "Não precisa se pintar, Paraná",
         "en": "She doesn't need makeup, Paraná",
         "ko": "화장할 필요가 없어, 파라나",
-        "ja": "化粧は必要ありません、パラナ"
+        "ja": "化粧は必要ありません、パラナ",
+        "chorus": false
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/54JRejHOixA?si=cxBGMb3UDCq_T98T"
+    ]
   },
   {
     "id": "_aarMYfAkPc",
@@ -1058,31 +1176,34 @@
         "original": "Adeus povo bom adeus",
         "en": "Goodbye good people, goodbye",
         "ko": "안녕히 계세요, 좋은 사람들아, 안녕히 계세요",
-        "ja": "さようなら、良い人々よ、さようなら"
+        "ja": "さようなら、良い人々よ、さようなら",
+        "chorus": true
       },
       {
         "id": 2,
         "original": "Adeus eu já vou me embora",
         "en": "Goodbye, I'm leaving now",
         "ko": "안녕히 계세요, 저는 이제 떠납니다",
-        "ja": "さようなら、私は今出発します"
+        "ja": "さようなら、私は今出発します",
+        "chorus": true
       },
       {
         "id": 3,
         "original": "Pelas ondas do mar eu vim",
         "en": "By the waves of the sea I came",
         "ko": "바다의 파도를 타고 내가 왔네",
-        "ja": "海の波によって私は来ました"
+        "ja": "海の波によって私は来ました",
+        "chorus": true
       },
       {
         "id": 4,
         "original": "Pelas ondas do mar eu vou me embora",
         "en": "By the waves of the sea I'm leaving",
         "ko": "바다의 파도를 타고 나는 떠나네",
-        "ja": "海の波によって私は去ります"
+        "ja": "海の波によって私は去ります",
+        "chorus": true
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/_aarMYfAkPc?si=CGVu7VaS58AoS5qj"
+    ]
   },
   {
     "id": "jnVg5S_mpx4",
@@ -1091,41 +1212,45 @@
     "lyrics": [
       {
         "id": 1,
-        "original": "Zum zum zum, capoeira mata um",
-        "en": "Zum zum zum, capoeira kills one",
-        "ko": "줌 줌 줌, 카포에이라가 한 명을 죽인다",
-        "ja": "ズムズムズム、カポエイラが一人を殺す"
+        "original": "Zum zum zum",
+        "en": "Zoom Zoom Zoom",
+        "ko": "줌 줌 줌",
+        "ja": "ズムズムズム",
+        "chorus": true
       },
       {
         "id": 2,
-        "original": "Zum zum zum, quem matou foi você",
-        "en": "Zum zum zum, it was you who killed",
-        "ko": "줌 줌 줌, 너가 죽였어",
-        "ja": "ズムズムズム、殺したのはあなた"
+        "original": "Capoeira mata um",
+        "en": "Capoeira kills one",
+        "ko": "카포에이라가 한 명을 죽인다",
+        "ja": "カポエイラが一人を殺す",
+        "chorus": true
       },
       {
         "id": 3,
-        "original": "Zum zum zum, capoeira é pra valer",
-        "en": "Zum zum zum, capoeira is for real",
-        "ko": "줌 줌 줌, 카포에이라는 진짜다",
-        "ja": "ズムズムズム、カポエイラは本物だ"
+        "original": "Onde tem marimbondo?",
+        "en": "Where there is the wasp",
+        "ko": "말림본도가 있는 곳",
+        "ja": "ハチがいる場所",
+        "chorus": false
       },
       {
         "id": 4,
-        "original": "Zum zum zum, é luta e brincadeira",
-        "en": "Zum zum zum, it’s a fight and a game",
-        "ko": "줌 줌 줌, 싸움이자 놀이",
-        "ja": "ズムズムズム、戦いと遊び"
+        "original": "O A O A E",
+        "en": "O A O A E",
+        "ko": "오 아 오 아 에",
+        "ja": "オー アー オー アー エー",
+        "chorus": false
       },
       {
         "id": 5,
-        "original": "Zum zum zum, o berimbau tá tocando",
-        "en": "Zum zum zum, the berimbau is playing",
-        "ko": "줌 줌 줌, 베림바우가 연주 중이다",
-        "ja": "ズムズムズム、ベリンバウが演奏中"
+        "original": "Quero ver bater, Quero ver cair",
+        "en": "I wanna see it hit, I wanna see it fall",
+        "ko": "나는 그것이 맞고 떨어지는 것을 보고 싶다",
+        "ja": "当たって落ちるのを見たい",
+        "chorus": true
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/jnVg5S_mpx4"
+    ]
   },
   {
     "id": "VZTD4tQpZXY",
@@ -1137,73 +1262,82 @@
         "original": "Nega, nega, nega ia ia",
         "en": "Dear, dear, dear ia ia",
         "ko": "사랑하는 그대여, 사랑하는 그대여, 사랑하는 그대여 ia ia",
-        "ja": "愛しい人、愛しい人、愛しい人 ia ia"
+        "ja": "愛しい人、愛しい人、愛しい人 ia ia",
+        "chorus": true
       },
       {
         "id": 2,
         "original": "Nega, nega, nega io io",
         "en": "Dear, dear, dear io io",
         "ko": "사랑하는 그대여, 사랑하는 그대여, 사랑하는 그대여 io io",
-        "ja": "愛しい人、愛しい人、愛しい人 io io"
+        "ja": "愛しい人、愛しい人、愛しい人 io io",
+        "chorus": true
       },
       {
         "id": 3,
         "original": "O nega lava o meu abada",
         "en": "Oh dear, wash my abada",
         "ko": "오, 그대여, 내 아바다를 씻어주세요",
-        "ja": "ああ、愛しい人、私のアバダを洗ってください"
+        "ja": "ああ、愛しい人、私のアバダを洗ってください",
+        "chorus": false
       },
       {
         "id": 4,
         "original": "Hoje tem roda, tem roda na beira mar",
         "en": "Today there is a roda, a roda by the sea",
         "ko": "오늘은 해변가에서 호다가 열립니다",
-        "ja": "今日は海辺でホーダがあります"
+        "ja": "今日は海辺でホーダがあります",
+        "chorus": false
       },
       {
         "id": 5,
         "original": "O nega traga o meu berimbau",
         "en": "Oh dear, bring my berimbau",
         "ko": "오, 그대여, 내 베림바우를 가져다주세요",
-        "ja": "ああ、愛しい人、私のベリンバウを持ってきてください"
+        "ja": "ああ、愛しい人、私のベリンバウを持ってきてください",
+        "chorus": false
       },
       {
         "id": 6,
         "original": "Hoje tem roda, meu berimbau se quebrou",
         "en": "Today there is a roda, my berimbau broke",
         "ko": "오늘은 호다가 열립니다, 내 베림바우가 부러졌습니다",
-        "ja": "今日はホーダがあります、私のベリンバウが壊れました"
+        "ja": "今日はホーダがあります、私のベリンバウが壊れました",
+        "chorus": false
       },
       {
         "id": 7,
         "original": "O nega traga o meu agogo",
         "en": "Oh dear, bring my agogo",
         "ko": "오, 그대여, 내 아고고를 가져다주세요",
-        "ja": "ああ、愛しい人、私のアゴゴを持ってきてください"
+        "ja": "ああ、愛しい人、私のアゴゴを持ってきてください",
+        "chorus": false
       },
       {
         "id": 8,
         "original": "Hoje tem roda, Mestre Bimba já chegou",
         "en": "Today there is a roda, Mestre Bimba has already arrived",
         "ko": "오늘은 호다가 열립니다, 빔바 선생님이 이미 도착하셨습니다",
-        "ja": "今日はホーダがあります、ビンバ先生がもう到着しました"
+        "ja": "今日はホーダがあります、ビンバ先生がもう到着しました",
+        "chorus": false
       },
       {
         "id": 9,
         "original": "O nega bate palma por favor",
         "en": "Oh dear, clap your hands please",
         "ko": "오, 그대여, 손뼉을 쳐주세요",
-        "ja": "ああ、愛しい人、手を叩いてください"
+        "ja": "ああ、愛しい人、手を叩いてください",
+        "chorus": false
       },
       {
         "id": 10,
         "original": "Samba de roda, pode me chamar que eu vou",
         "en": "Samba de roda, you can call me and I will go",
         "ko": "삼바 지 호다, 나를 부르면 갈게요",
-        "ja": "サンバ・ジ・ホーダ、呼んでくれたら行きます"
+        "ja": "サンバ・ジ・ホーダ、呼んでくれたら行きます",
+        "chorus": false
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/VZTD4tQpZXY?si=i2Wieet9EwkpvyOW"
+    ]
   },
   {
     "id": "zgfMV9WqJ6k",
@@ -1212,48 +1346,101 @@
     "lyrics": [
       {
         "id": 1,
-        "original": "Tim, tim, tim, lá vai viola",
-        "en": "Tim, tim, tim, there goes the viola",
-        "ko": "팀, 팀, 팀, 비올라가 간다네",
-        "ja": "ティン、ティン、ティン、ビオラが行く"
+        "original": "O moleque chegou lá em casa",
+        "en": "The kid return home",
+        "ko": "그 아이가 집에 돌아왔다",
+        "ja": "その子供が家に戻った",
+        "chorus": false
       },
       {
         "id": 2,
-        "original": "Tim, tim, tim, lá vai berrante",
-        "en": "Tim, tim, tim, there goes the horn",
-        "ko": "팀, 팀, 팀, 나팔이 간다네",
-        "ja": "ティン、ティン、ティン、ホーンが行く"
+        "original": "Perguntando o que eu ia fazer",
+        "en": "Wondering what should I do",
+        "ko": "내가 무엇을 할지 궁금해하며",
+        "ja": "何をすべきかを不思議に思いながら",
+        "chorus": false
       },
       {
         "id": 3,
-        "original": "É na batida do coração",
-        "en": "It's in the beat of the heart",
-        "ko": "그건 심장의 박동 속에 있네",
-        "ja": "それは心臓の鼓動の中にある"
+        "original": "Eu vou no mato, vou pegar biriba",
+        "en": "I’ll go to the jungle, to get beriba",
+        "ko": "나는 정글에 가서 비리바를 가져올 거야",
+        "ja": "ジャングルに行ってビリバを取る",
+        "chorus": false
       },
       {
         "id": 4,
-        "original": "Que capoeira me chamou",
-        "en": "That capoeira called me",
-        "ko": "카포에라가 나를 불렀네",
-        "ja": "カポエイラが私を呼んだ"
+        "original": "Pra minha viola fazer",
+        "en": "To make my viola",
+        "ko": "내 비올라를 만들기 위해",
+        "ja": "自分のビオラを作るために",
+        "chorus": false
       },
       {
         "id": 5,
-        "original": "Tim, tim, tim, lá vai viola",
-        "en": "Tim, tim, tim, there goes the viola",
-        "ko": "팀, 팀, 팀, 비올라가 간다네",
-        "ja": "ティン、ティン、ティン、ビオラが行く"
+        "original": "Tim, tim, tim lá vai viola",
+        "en": "Tim, tim, tim there goes viola",
+        "ko": "팀, 팀, 팀 비올라가 간다",
+        "ja": "ティム、ティム、ティム ビオラが行く",
+        "chorus": true
       },
       {
         "id": 6,
-        "original": "Tim, tim, tim, na roda chegou",
-        "en": "Tim, tim, tim, it arrived in the roda",
-        "ko": "팀, 팀, 팀, 호다에 도착했네",
-        "ja": "ティン、ティン、ティン、ホーダに到着した"
+        "original": "Digue, digue, digue, digue, digue, digue, dom",
+        "en": "Digue, digue, digue, digue, digue, digue, dom",
+        "ko": "디그, 디그, 디그, 디그, 디그, 디그, 돔",
+        "ja": "ディゲ、ディゲ、ディゲ、ディゲ、ディゲ、ディゲ、ドム",
+        "chorus": false
+      },
+      {
+        "id": 7,
+        "original": "Ê mas viola meu bem, mas não é violão",
+        "en": "It’s just viola my honey, but it’s not a big viola",
+        "ko": "그냥 비올라일 뿐이야, 내 사랑, 큰 비올라는 아니야",
+        "ja": "ただのビオラよ、愛しい人、大きなビオラではない",
+        "chorus": false
+      },
+      {
+        "id": 8,
+        "original": "Brrrp! Digue, digue, digue, digue, digue, digue, dom",
+        "en": "Brrrp! Digue, digue, digue, digue, digue, digue, dom",
+        "ko": "브르릅! 디그, 디그, 디그, 디그, 디그, 디그, 돔",
+        "ja": "ブルルプ! ディゲ、ディゲ、ディゲ、ディゲ、ディゲ、ディゲ、ドム",
+        "chorus": false
+      },
+      {
+        "id": 9,
+        "original": "A roda tava desanimada",
+        "en": "The roda had been discouraging",
+        "ko": "로다가 침체된 상태였다",
+        "ja": "ホーダは沈んでいた",
+        "chorus": false
+      },
+      {
+        "id": 10,
+        "original": "O povo mal queria cantar",
+        "en": "The people barely wanted to sing",
+        "ko": "사람들이 거의 노래하고 싶지 않았다",
+        "ja": "人々はほとんど歌いたがらなかった",
+        "chorus": false
+      },
+      {
+        "id": 11,
+        "original": "Foi eu pegar na viola",
+        "en": "I brought in viola",
+        "ko": "내가 비올라를 가져왔다",
+        "ja": "私がビオラを持ち込んだ",
+        "chorus": false
+      },
+      {
+        "id": 12,
+        "original": "A roda inteira começou a joga",
+        "en": "The entire roda started playing",
+        "ko": "전체 로다가 연주를 시작했다",
+        "ja": "ホーダ全体が演奏を始めた",
+        "chorus": false
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/zgfMV9WqJ6k?si=2ymGM-27e9bAkApt"
+    ]
   },
   {
     "id": "44S8D54r4OI",
@@ -1262,48 +1449,149 @@
     "lyrics": [
       {
         "id": 1,
-        "original": "Ê, la lae lae la",
-        "en": "Ê, la lae lae la",
-        "ko": "에, 라 라에 라에 라",
-        "ja": "エ、ラ ラエ ラエ ラ"
+        "original": "la lae lae la",
+        "en": "la lae lae la",
+        "ko": "라 라에 라에 라",
+        "ja": "ラ ラエ ラエ ラ",
+        "chorus": true
       },
       {
         "id": 2,
-        "original": "Ê, la lae lae la",
-        "en": "Ê, la lae lae la",
-        "ko": "에, 라 라에 라에 라",
-        "ja": "エ、ラ ラエ ラエ ラ"
+        "original": "le le le lae la",
+        "en": "le le le lae la",
+        "ko": "레 레 레 라에 라",
+        "ja": "レ レ レ ラエ ラ",
+        "chorus": true
       },
       {
         "id": 3,
-        "original": "Capoeira me chamou",
-        "en": "Capoeira called me",
-        "ko": "카포에라가 나를 불렀네",
-        "ja": "カポエイラが私を呼んだ"
+        "original": "Berimbau chamou pro jogo",
+        "en": "Berimbau called for the game",
+        "ko": "베림바우가 게임을 불렀다",
+        "ja": "ベリンバウがゲームを呼んだ",
+        "chorus": false
       },
       {
         "id": 4,
-        "original": "Ê, la lae lae la",
-        "en": "Ê, la lae lae la",
-        "ko": "에, 라 라에 라에 라",
-        "ja": "エ、ラ ラエ ラエ ラ"
+        "original": "Pandeiro que respondeu",
+        "en": "Pandeiro who answered",
+        "ko": "판데이루가 대답했다",
+        "ja": "パンデイロが応えた",
+        "chorus": false
       },
       {
         "id": 5,
-        "original": "Na roda quero jogar",
-        "en": "In the roda I want to play",
-        "ko": "호다에서 놀고 싶어",
-        "ja": "ホーダで遊びたい"
+        "original": "O atabaque ja entrou",
+        "en": "The atabaque had already entered",
+        "ko": "아타바케가 이미 들어왔다",
+        "ja": "アタバケがすでに入った",
+        "chorus": false
       },
       {
         "id": 6,
-        "original": "Ê, la lae lae la",
-        "en": "Ê, la lae lae la",
-        "ko": "에, 라 라에 라에 라",
-        "ja": "エ、ラ ラエ ラエ ラ"
+        "original": "Mestre Bimba apareceu",
+        "en": "Master Bimba appeared",
+        "ko": "마스터 빔바가 나타났다",
+        "ja": "マスタービンバが現れた",
+        "chorus": false
+      },
+      {
+        "id": 7,
+        "original": "E Capoeira começou",
+        "en": "And Capoeira began",
+        "ko": "그리고 카포에이라가 시작되었다",
+        "ja": "そしてカポエイラが始まった",
+        "chorus": false
+      },
+      {
+        "id": 8,
+        "original": "Como roda tradiçional",
+        "en": "As a traditional roda",
+        "ko": "전통적인 호다로",
+        "ja": "伝統的なホーダとして",
+        "chorus": false
+      },
+      {
+        "id": 9,
+        "original": "Era dança e defesa",
+        "en": "It was dance and defense",
+        "ko": "춤이자 방어였다",
+        "ja": "ダンスと防御だった",
+        "chorus": false
+      },
+      {
+        "id": 10,
+        "original": "Negro no canavial",
+        "en": "Black in the cane field",
+        "ko": "사탕수수밭의 흑인",
+        "ja": "サトウキビ畑の黒人",
+        "chorus": false
+      },
+      {
+        "id": 11,
+        "original": "Manoel dos Reis Machado",
+        "en": "Manoel dos Reis Machado",
+        "ko": "마누엘 도스 레이스 마차도",
+        "ja": "マヌエル・ドス・レイス・マシャド",
+        "chorus": false
+      },
+      {
+        "id": 12,
+        "original": "Estivador na beira do cais",
+        "en": "Longshoreman at the edge of the pier",
+        "ko": "부두 가장자리의 하역 노동자",
+        "ja": "桟橋の端にいる港湾労働者",
+        "chorus": false
+      },
+      {
+        "id": 13,
+        "original": "Encorporou jogo de Angola",
+        "en": "Embedded Angola game",
+        "ko": "앙골라 게임을 통합했다",
+        "ja": "アンゴラのゲームを統合した",
+        "chorus": false
+      },
+      {
+        "id": 14,
+        "original": "Com batuque e muito mais",
+        "en": "With batuque and much more",
+        "ko": "바투케와 더 많은 것들로",
+        "ja": "バトゥケとさらに多くのものと共に",
+        "chorus": false
+      },
+      {
+        "id": 15,
+        "original": "E no cais Bimba criou",
+        "en": "And at the pier Bimba created",
+        "ko": "부두에서 빔바가 창조했다",
+        "ja": "桟橋でビンバが創り出した",
+        "chorus": false
+      },
+      {
+        "id": 16,
+        "original": "A capoeira Regional",
+        "en": "Capoeira Regional",
+        "ko": "카포에이라 리저널",
+        "ja": "カポエイラ・リージョナル",
+        "chorus": false
+      },
+      {
+        "id": 17,
+        "original": "Espalhou pro mundo inteiro",
+        "en": "Spread to the whole world",
+        "ko": "전 세계로 퍼졌다",
+        "ja": "全世界に広がった",
+        "chorus": false
+      },
+      {
+        "id": 18,
+        "original": "Essa arte nacional",
+        "en": "This national art",
+        "ko": "이 국가적인 예술",
+        "ja": "この国家的なアート",
+        "chorus": false
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/44S8D54r4OI?si=q3NWm7Vj8_g1vii9"
+    ]
   },
   {
     "id": "fGNyPfCgzdg",
@@ -1315,87 +1603,58 @@
         "original": "A maré tá cheia ioio, a maré tá cheia iaia",
         "en": "The tide is high ioio, the tide is high iaia",
         "ko": "밀물이 높다 ioio, 밀물이 높다 iaia",
-        "ja": "潮が高い ioio、潮が高い iaia"
+        "ja": "潮が高い ioio、潮が高い iaia",
+        "chorus": true
       },
       {
         "id": 2,
-        "original": "A maré tá cheia ioio, a maré tá cheia iaia",
-        "en": "The tide is high ioio, the tide is high iaia",
-        "ko": "밀물이 높다 ioio, 밀물이 높다 iaia",
-        "ja": "潮が高い ioio、潮が高い iaia"
-      },
-      {
-        "id": 3,
-        "original": "A maré tá cheia ioio, a maré tá cheia iaia",
-        "en": "The tide is high ioio, the tide is high iaia",
-        "ko": "밀물이 높다 ioio, 밀물이 높다 iaia",
-        "ja": "潮が高い ioio、潮が高い iaia"
-      },
-      {
-        "id": 4,
-        "original": "A maré tá cheia ioio, a maré tá cheia iaia",
-        "en": "The tide is high ioio, the tide is high iaia",
-        "ko": "밀물이 높다 ioio, 밀물이 높다 iaia",
-        "ja": "潮が高い ioio、潮が高い iaia"
-      },
-      {
-        "id": 5,
         "original": "A maré subiu",
         "en": "The tide rose",
         "ko": "밀물이 올랐다",
-        "ja": "潮が上がった"
+        "ja": "潮が上がった",
+        "chorus": false
       },
       {
-        "id": 6,
+        "id": 3,
         "original": "Sobe maré",
         "en": "Rise tide",
         "ko": "밀물이 올라",
-        "ja": "潮が上がる"
+        "ja": "潮が上がる",
+        "chorus": true
       },
       {
-        "id": 7,
+        "id": 4,
         "original": "A maré desceu",
         "en": "The tide went down",
         "ko": "밀물이 내렸다",
-        "ja": "潮が下がった"
+        "ja": "潮が下がった",
+        "chorus": false
       },
       {
-        "id": 8,
+        "id": 5,
         "original": "Desce maré",
         "en": "Fall tide",
         "ko": "밀물이 내려",
-        "ja": "潮が下がる"
+        "ja": "潮が下がる",
+        "chorus": true
       },
       {
-        "id": 9,
+        "id": 6,
         "original": "Olha a maré de maré",
         "en": "Look at the tide of the tide",
         "ko": "밀물의 물결을 보아라",
-        "ja": "潮の波を見て"
+        "ja": "潮の波を見て",
+        "chorus": false
       },
       {
-        "id": 10,
+        "id": 7,
         "original": "Fui pra ilha de maré",
         "en": "I went to the tide island",
         "ko": "나는 밀물 섬으로 갔다",
-        "ja": "潮の島に行った"
-      },
-      {
-        "id": 11,
-        "original": "Olha a maré de maré",
-        "en": "Look at the tide of the tide",
-        "ko": "밀물의 물결을 보아라",
-        "ja": "潮の波を見て"
-      },
-      {
-        "id": 12,
-        "original": "Fui pra ilha de maré",
-        "en": "I went to the tide island",
-        "ko": "나는 밀물 섬으로 갔다",
-        "ja": "潮の島に行った"
+        "ja": "潮の島に行った",
+        "chorus": true
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/fGNyPfCgzdg?si=dehSZDqx3cSNVG28"
+    ]
   },
   {
     "id": "jtOaElQDvI0",
@@ -1407,45 +1666,50 @@
         "original": "Manda leco cajue, manda loia",
         "en": "Send the leco cajue, send the loia",
         "ko": "레코 카주에를 보내고, 로이아를 보내",
-        "ja": "レコカジュエを送り、ロイアを送る"
+        "ja": "レコカジュエを送り、ロイアを送る",
+        "chorus": true
       },
       {
         "id": 2,
         "original": "Manda leco cajue, manda loia",
         "en": "Send the leco cajue, send the loia",
         "ko": "레코 카주에를 보내고, 로이아를 보내",
-        "ja": "レコカジュエを送り、ロイアを送る"
+        "ja": "レコカジュエを送り、ロイアを送る",
+        "chorus": true
       },
       {
         "id": 3,
         "original": "Manda leco",
         "en": "Send the leco",
         "ko": "레코를 보내",
-        "ja": "レコを送る"
+        "ja": "レコを送る",
+        "chorus": false
       },
       {
         "id": 4,
         "original": "Cajue",
         "en": "Cajue",
         "ko": "카주에",
-        "ja": "カジュエ"
+        "ja": "カジュエ",
+        "chorus": true
       },
       {
         "id": 5,
         "original": "Manda loia",
         "en": "Send the loia",
         "ko": "로이아를 보내",
-        "ja": "ロイアを送る"
+        "ja": "ロイアを送る",
+        "chorus": false
       },
       {
         "id": 6,
         "original": "Cajue",
         "en": "Cajue",
         "ko": "카주에",
-        "ja": "カジュエ"
+        "ja": "カジュエ",
+        "chorus": true
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/jtOaElQDvI0?si=06s7fMHhJsut4dg2"
+    ]
   },
   {
     "id": "B2c1E2K0rrQ",
@@ -1457,171 +1721,194 @@
         "original": "Eu não sou daqui",
         "en": "I am not from here",
         "ko": "나는 여기 사람이 아니야",
-        "ja": "私はここ出身ではありません"
+        "ja": "私はここ出身ではありません",
+        "chorus": false
       },
       {
         "id": 2,
         "original": "[Marinheiro só]",
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
-        "ja": "[孤独な船乗り]"
+        "ja": "[孤独な船乗り]",
+        "chorus": true
       },
       {
         "id": 3,
         "original": "Eu não tenho amor",
         "en": "I have no love",
         "ko": "나는 사랑이 없어",
-        "ja": "私は愛がありません"
+        "ja": "私は愛がありません",
+        "chorus": false
       },
       {
         "id": 4,
         "original": "[Marinheiro só]",
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
-        "ja": "[孤独な船乗り]"
+        "ja": "[孤独な船乗り]",
+        "chorus": true
       },
       {
         "id": 5,
         "original": "Eu sou da Bahia",
         "en": "I am from Bahia",
         "ko": "나는 바이아 출신이야",
-        "ja": "私はバイア出身です"
+        "ja": "私はバイア出身です",
+        "chorus": false
       },
       {
         "id": 6,
         "original": "[Marinheiro só]",
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
-        "ja": "[孤独な船乗り]"
+        "ja": "[孤独な船乗り]",
+        "chorus": true
       },
       {
         "id": 7,
         "original": "De são salvador",
         "en": "From São Salvador",
         "ko": "상 살바도르 출신이야",
-        "ja": "サン・サルバドール出身です"
+        "ja": "サン・サルバドール出身です",
+        "chorus": false
       },
       {
         "id": 8,
         "original": "[Marinheiro só]",
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
-        "ja": "[孤独な船乗り]"
+        "ja": "[孤独な船乗り]",
+        "chorus": true
       },
       {
         "id": 9,
         "original": "Ô, marinheiro marinheiro",
         "en": "Oh, sailor sailor",
         "ko": "오, 선원 선원",
-        "ja": "ああ、船乗り 船乗り"
+        "ja": "ああ、船乗り 船乗り",
+        "chorus": false
       },
       {
         "id": 10,
         "original": "[Marinheiro só]",
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
-        "ja": "[孤独な船乗り]"
+        "ja": "[孤独な船乗り]",
+        "chorus": true
       },
       {
         "id": 11,
         "original": "Quem te ensinou a nadar",
         "en": "Who taught you to swim",
         "ko": "누가 너에게 수영을 가르쳤니",
-        "ja": "誰があなたに泳ぎを教えましたか"
+        "ja": "誰があなたに泳ぎを教えましたか",
+        "chorus": false
       },
       {
         "id": 12,
         "original": "[Marinheiro só]",
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
-        "ja": "[孤独な船乗り]"
+        "ja": "[孤独な船乗り]",
+        "chorus": true
       },
       {
         "id": 13,
         "original": "Foi o tombo do navio",
         "en": "Was it the ship's fall",
         "ko": "배가 넘어졌던 건가",
-        "ja": "船の転覆でしたか"
+        "ja": "船の転覆でしたか",
+        "chorus": false
       },
       {
         "id": 14,
         "original": "[Marinheiro só]",
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
-        "ja": "[孤独な船乗り]"
+        "ja": "[孤独な船乗り]",
+        "chorus": true
       },
       {
         "id": 15,
         "original": "Ou foi o balanço do mar",
         "en": "Or was it the sway of the sea",
         "ko": "아니면 바다의 흔들림이었나",
-        "ja": "それとも海の揺れでしたか"
+        "ja": "それとも海の揺れでしたか",
+        "chorus": false
       },
       {
         "id": 16,
         "original": "[Marinheiro só]",
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
-        "ja": "[孤独な船乗り]"
+        "ja": "[孤独な船乗り]",
+        "chorus": true
       },
       {
         "id": 17,
         "original": "Lá vem, lá vem",
         "en": "Here he comes, here he comes",
         "ko": "그가 온다, 그가 온다",
-        "ja": "彼が来る、彼が来る"
+        "ja": "彼が来る、彼が来る",
+        "chorus": false
       },
       {
         "id": 18,
         "original": "[Marinheiro só]",
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
-        "ja": "[孤独な船乗り]"
+        "ja": "[孤独な船乗り]",
+        "chorus": true
       },
       {
         "id": 19,
         "original": "Como ele vem faceiro",
         "en": "Look how dashing he comes",
         "ko": "그가 얼마나 멋지게 오는지 봐",
-        "ja": "彼がどれほど華麗に来るか見て"
+        "ja": "彼がどれほど華麗に来るか見て",
+        "chorus": false
       },
       {
         "id": 20,
         "original": "[Marinheiro só]",
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
-        "ja": "[孤独な船乗り]"
+        "ja": "[孤独な船乗り]",
+        "chorus": true
       },
       {
         "id": 21,
         "original": "Todo de branco",
         "en": "All in white",
         "ko": "모두 흰색으로",
-        "ja": "すべて白で"
+        "ja": "すべて白で",
+        "chorus": false
       },
       {
         "id": 22,
         "original": "[Marinheiro só]",
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
-        "ja": "[孤独な船乗り]"
+        "ja": "[孤独な船乗り]",
+        "chorus": true
       },
       {
         "id": 23,
         "original": "Com seu bonezinho",
         "en": "With his little hat",
         "ko": "작은 모자를 쓰고",
-        "ja": "彼の小さな帽子をかぶって"
+        "ja": "彼の小さな帽子をかぶって",
+        "chorus": false
       },
       {
         "id": 24,
         "original": "[Marinheiro só]",
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
-        "ja": "[孤独な船乗り]"
+        "ja": "[孤独な船乗り]",
+        "chorus": true
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/B2c1E2K0rrQ?si=vRIzVfJl3tmBn5eG"
+    ]
   },
   {
     "id": "KmyhSWyTX3o",
@@ -1633,66 +1920,26 @@
         "original": "É de ioiô",
         "en": "It's the master's son's",
         "ko": "주인의 아들의 것",
-        "ja": "主人の息子のもの"
+        "ja": "主人の息子のもの",
+        "chorus": true
       },
       {
         "id": 2,
         "original": "é de iaiá",
         "en": "It's the master's daughter's",
         "ko": "주인의 딸의 것",
-        "ja": "主人の娘のもの"
+        "ja": "主人の娘のもの",
+        "chorus": true
       },
       {
         "id": 3,
         "original": "Capoeira de Angola jogar, na beira do mar",
         "en": "Capoeira Angola played at the seashore",
         "ko": "해변에서 하는 카포에이라 앙골라",
-        "ja": "海辺で行われるカポエイラ・アンゴラ"
-      },
-      {
-        "id": 4,
-        "original": "É de ioiô",
-        "en": "It's the master's son's",
-        "ko": "주인의 아들의 것",
-        "ja": "主人の息子のもの"
-      },
-      {
-        "id": 5,
-        "original": "É de ioiô",
-        "en": "It's the master's son's",
-        "ko": "주인의 아들의 것",
-        "ja": "主人の息子のもの"
-      },
-      {
-        "id": 6,
-        "original": "É de ioiô",
-        "en": "It's the master's son's",
-        "ko": "주인의 아들의 것",
-        "ja": "主人の息子のもの"
-      },
-      {
-        "id": 7,
-        "original": "é de iaiá",
-        "en": "It's the master's daughter's",
-        "ko": "주인의 딸의 것",
-        "ja": "主人の娘のもの"
-      },
-      {
-        "id": 8,
-        "original": "Capoeira",
-        "en": "Capoeira",
-        "ko": "카포에이라",
-        "ja": "カポエイラ"
-      },
-      {
-        "id": 9,
-        "original": "Capoeira de Angola jogar, na beira do mar",
-        "en": "Capoeira Angola played at the seashore",
-        "ko": "해변에서 하는 카포에이라 앙골라",
-        "ja": "海辺で行われるカポエイラ・アンゴラ"
+        "ja": "海辺で行われるカポエイラ・アンゴラ",
+        "chorus": true
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/KmyhSWyTX3o?si=mTw_x0RpzEpNN4V4"
+    ]
   },
   {
     "id": "w5t71QK-eqw",
@@ -1704,87 +1951,50 @@
         "original": "Santo Antônio quero água",
         "en": "Saint Anthony, I want water",
         "ko": "성 안토니오, 물을 주세요",
-        "ja": "聖アントニオ、水が欲しいです"
+        "ja": "聖アントニオ、水が欲しいです",
+        "chorus": true
       },
       {
         "id": 2,
         "original": "Santo Antônio quero água",
         "en": "Saint Anthony, I want water",
         "ko": "성 안토니오, 물을 주세요",
-        "ja": "聖アントニオ、水が欲しいです"
+        "ja": "聖アントニオ、水が欲しいです",
+        "chorus": true
       },
       {
         "id": 3,
-        "original": "Santo Antônio quero água",
-        "en": "Saint Anthony, I want water",
-        "ko": "성 안토니오, 물을 주세요",
-        "ja": "聖アントニオ、水が欲しいです"
+        "original": "Quero água pra beber",
+        "en": "I want water to drink",
+        "ko": "마실 물이 필요해요",
+        "ja": "飲むための水が欲しいです",
+        "chorus": true
       },
       {
         "id": 4,
-        "original": "Santo Antônio quero água",
-        "en": "Saint Anthony, I want water",
-        "ko": "성 안토니오, 물을 주세요",
-        "ja": "聖アントニオ、水が欲しいです"
+        "original": "Quero água pra lavar",
+        "en": "I want water to wash",
+        "ko": "씻을 물이 필요해요",
+        "ja": "洗うための水が欲しいです",
+        "chorus": true
       },
       {
         "id": 5,
-        "original": "Quero água pra beber",
-        "en": "I want water to drink",
-        "ko": "마실 물이 필요해요",
-        "ja": "飲むための水が欲しいです"
+        "original": "Quero água pra benzer",
+        "en": "I want water to bless",
+        "ko": "축복할 물이 필요해요",
+        "ja": "祝福するための水が欲しいです",
+        "chorus": true
       },
       {
         "id": 6,
-        "original": "Quero água pra lavar",
-        "en": "I want water to wash",
-        "ko": "씻을 물이 필요해요",
-        "ja": "洗うための水が欲しいです"
-      },
-      {
-        "id": 7,
-        "original": "Quero água pra benzer",
-        "en": "I want water to bless",
-        "ko": "축복할 물이 필요해요",
-        "ja": "祝福するための水が欲しいです"
-      },
-      {
-        "id": 8,
         "original": "Quero água",
         "en": "I want water",
         "ko": "물을 원해요",
-        "ja": "水が欲しいです"
-      },
-      {
-        "id": 9,
-        "original": "Quero água pra beber",
-        "en": "I want water to drink",
-        "ko": "마실 물이 필요해요",
-        "ja": "飲むための水が欲しいです"
-      },
-      {
-        "id": 10,
-        "original": "Quero água pra lavar",
-        "en": "I want water to wash",
-        "ko": "씻을 물이 필요해요",
-        "ja": "洗うための水が欲しいです"
-      },
-      {
-        "id": 11,
-        "original": "Quero água pra benzer",
-        "en": "I want water to bless",
-        "ko": "축복할 물이 필요해요",
-        "ja": "祝福するための水が欲しいです"
-      },
-      {
-        "id": 12,
-        "original": "Quero água",
-        "en": "I want water",
-        "ko": "물을 원해요",
-        "ja": "水が欲しいです"
+        "ja": "水が欲しいです",
+        "chorus": true
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/w5t71QK-eqw?si=0bD6Azn8SofJ5Exr"
+    ]
   },
   {
     "id": "X7fhNlAOu_c",
@@ -1794,124 +2004,188 @@
       {
         "id": 1,
         "original": "Muitos batuques e tambores tocavam",
-        "en": "Many drums and tambourines were playing",
-        "ko": "많은 북과 탬버린이 연주되었다",
-        "ja": "多くの太鼓とタンバリンが演奏されていた"
+        "en": "Many beats and drums were playing",
+        "ko": "많은 북소리와 드럼 소리가 연주되었다",
+        "ja": "多くのビートと太鼓が鳴り響いていた",
+        "chorus": false
       },
       {
         "id": 2,
         "original": "Ai que saudade meu povo minha nação",
-        "en": "Oh, I miss my people, my nation",
-        "ko": "오, 내 민족, 내 나라가 그립다",
-        "ja": "ああ、私の人々、私の国が恋しい"
+        "en": "Oh how I miss my people, my nation",
+        "ko": "오, 내 사람들, 내 나라가 그립다",
+        "ja": "ああ、私の人々、私の国が恋しい",
+        "chorus": false
       },
       {
         "id": 3,
         "original": "Caboclo de lança guerreiro de Zambi",
         "en": "Caboclo with a spear, warrior of Zambi",
-        "ko": "창을 든 카보클루, 잠비의 전사",
-        "ja": "槍を持つカボクロ、ザンビの戦士"
+        "ko": "창을 든 카복로, 잠비의 전사",
+        "ja": "槍を持つカボクロ、ザンビの戦士",
+        "chorus": false
       },
       {
         "id": 4,
         "original": "Abra o caminho pra que eu possa caminhar",
         "en": "Open the path so I can walk",
-        "ko": "내가 걸어갈 수 있도록 길을 열어줘",
-        "ja": "私が歩けるように道を開いてください"
+        "ko": "내가 걸을 수 있도록 길을 열어줘",
+        "ja": "私が歩けるように道を開いてください",
+        "chorus": false
       },
       {
         "id": 5,
-        "original": "Santo Antônio de batalha faz de mim batalhador",
+        "original": "Santo Antônio de batalha, faz de mim batalhador",
         "en": "Saint Anthony of battle, make me a fighter",
-        "ko": "전투의 성 안토니오여, 나를 전사로 만들어주소서",
-        "ja": "戦いの聖アントニオ、私を戦士にしてください"
+        "ko": "전투의 성 안토니오여, 나를 전사로 만들어 주십시오",
+        "ja": "戦いの聖アンソニーよ、私を戦士にしてください",
+        "chorus": false
       },
       {
         "id": 6,
         "original": "Para que o senhor feitor não possa me escravizar",
-        "en": "So that the overseer cannot enslave me",
-        "ko": "감독관이 나를 노예로 만들지 못하도록",
-        "ja": "監督者が私を奴隷にできないように"
+        "en": "So that the master overseer cannot enslave me",
+        "ko": "감독관이 나를 노예로 삼지 못하도록",
+        "ja": "監督者が私を奴隷にできないように",
+        "chorus": false
       },
       {
         "id": 7,
         "original": "Valha-me Nossa Senhora!",
         "en": "Help me, Our Lady!",
-        "ko": "나를 도와주소서, 성모님!",
-        "ja": "助けてください、聖母様！"
+        "ko": "도와주세요, 성모님!",
+        "ja": "助けてください、聖母様！",
+        "chorus": false
       },
       {
         "id": 8,
-        "original": "Na mandinga de Angola ô iaiá, pra que eu possa vadiar",
-        "en": "In the mandinga of Angola, oh iaiá, so I can play",
-        "ko": "앙골라의 만딩가여, 내가 놀 수 있도록",
-        "ja": "アンゴラのマンディンガで、私が遊べるように"
+        "original": "Na mandinga de Angola ô iaiá",
+        "en": "In the magic of Angola, oh iaiá",
+        "ko": "앙골라의 마법 속에서, 오 아이아",
+        "ja": "アンゴラの魔法の中で、オー イアイア",
+        "chorus": false
       },
       {
         "id": 9,
-        "original": "Oh! No toque de urucungo que é um arco musical, camará",
-        "en": "Oh! In the sound of urucungo, which is a musical bow, friend",
-        "ko": "오! 악기 활인 우루쿵구의 소리에서, 친구여",
-        "ja": "おお！音楽弓のウルクングの音で、仲間よ"
+        "original": "Pra que eu possa vadiar",
+        "en": "So I can roam",
+        "ko": "내가 떠돌 수 있도록",
+        "ja": "私がさまよえるように",
+        "chorus": false
       },
       {
         "id": 10,
-        "original": "Viva meu Deus!",
-        "en": "Long live my God!",
-        "ko": "나의 신을 찬양하라!",
-        "ja": "私の神に栄光を！"
+        "original": "Oh! No toque de urucungo",
+        "en": "Oh! In the sound of the urucungo",
+        "ko": "오! 우루쿵고의 소리에서",
+        "ja": "オー！ ウルクンゴの音で",
+        "chorus": false
       },
       {
         "id": 11,
-        "original": "Iê viva meu mestre!",
-        "en": "Long live my master!",
-        "ko": "나의 스승을 찬양하라!",
-        "ja": "私の師に栄光を！"
+        "original": "Que é um arco 'musicar' camará",
+        "en": "Which is a musical bow, comrade",
+        "ko": "음악 활인 카마라",
+        "ja": "音楽の弓であるカマラ",
+        "chorus": false
       },
       {
         "id": 12,
-        "original": "Iê quem me ensinou!",
-        "en": "Long live the one who taught me!",
-        "ko": "나를 가르쳐준 이를 찬양하라!",
-        "ja": "私に教えてくれた人に栄光を！"
+        "original": "Viva meu Deus!",
+        "en": "Hail my God!",
+        "ko": "내 하나님 만세!",
+        "ja": "私の神を称えよ！",
+        "chorus": false
       },
       {
         "id": 13,
-        "original": "Iê mestre Meinha!",
-        "en": "Long live Master Meinha!",
-        "ko": "메이냐 스승을 찬양하라!",
-        "ja": "メイーニャ師に栄光を！"
+        "original": "Iê viva meu Deus camará!",
+        "en": "Long live my God, camará!",
+        "ko": "나의 신이여 영원하소서, 카마라!",
+        "ja": "私の神よ、永遠に続け、カマラ！",
+        "chorus": true
       },
       {
         "id": 14,
-        "original": "Angolê, angolê iaiá, angolê ioiô",
-        "en": "Angolê, angolê oh iaiá, angolê oh ioiô",
-        "ko": "앙골레, 앙골레 오 이아야, 앙골레 오 이오요",
-        "ja": "アンゴレー、アンゴレーおイアヤ、アンゴレーおイオヨ"
+        "original": "Iê viva meu mestre!",
+        "en": "Hail my master!",
+        "ko": "내 스승 만세!",
+        "ja": "私の師匠を称えよ！",
+        "chorus": false
       },
       {
         "id": 15,
-        "original": "Sou escravo meu senhor, angolê",
-        "en": "I am a slave, my lord, angolê",
-        "ko": "나는 노예입니다, 나의 주인, 앙골레",
-        "ja": "私は奴隷です、私の主人、アンゴレー"
+        "original": "Iê viva meu mestre camará!",
+        "en": "Hail my master!",
+        "ko": "나의 스승이여 영원하소서, 카마라!",
+        "ja": "私の師匠よ、友よ、永遠に続け！",
+        "chorus": true
       },
       {
         "id": 16,
-        "original": "A história que conto de negro sofrido",
-        "en": "The story I tell of a suffering black man",
-        "ko": "내가 이야기하는 고통받는 흑인의 이야기",
-        "ja": "私が語る苦しむ黒人の物語"
+        "original": "Iê quem me ensinou!",
+        "en": "Hail who taught me!",
+        "ko": "나를 가르쳐 준 분 만세!",
+        "ja": "私を教えてくれた人を称えよ！",
+        "chorus": false
       },
       {
         "id": 17,
+        "original": "Iê quem me ensinou camará!",
+        "en": "Hail the one who taught me, my friend!",
+        "ko": "나를 가르쳐 준 분이여, 친구여!",
+        "ja": "私に教えてくれた人よ、友よ、永遠に続け！",
+        "chorus": true
+      },
+      {
+        "id": 18,
+        "original": "Angolê, angolê iaiá, angolê ioiô",
+        "en": "Angolê, angolê iaiá, angolê ioiô",
+        "ko": "앙골레, 앙골레 아이아, 앙골레 이오요",
+        "ja": "アンゴレ、アンゴレ イアイア、アンゴレ イオヨ",
+        "chorus": true
+      },
+      {
+        "id": 19,
+        "original": "Sou escravo meu senhor, angolê",
+        "en": "I am a slave, my lord, angolê",
+        "ko": "나는 노예입니다, 주인님, 앙골레",
+        "ja": "私は奴隷です、主人様、アンゴレ",
+        "chorus": false
+      },
+      {
+        "id": 20,
+        "original": "A história que conto de negro sofrido",
+        "en": "The story I tell of the suffering black",
+        "ko": "내가 들려주는 고통받는 흑인의 이야기",
+        "ja": "私が語る苦しむ黒人の物語",
+        "chorus": false
+      },
+      {
+        "id": 21,
         "original": "De tristes engenhos venho aclamar",
-        "en": "Of sad mills I come to proclaim",
-        "ko": "슬픈 제분소를 내가 선언하러 왔다",
-        "ja": "悲しい工場を私は宣言しに来た"
+        "en": "I come to acclaim the sad mills",
+        "ko": "슬픈 제분소를 찬양하러 왔습니다",
+        "ja": "悲しい製粉所を称賛しに来ました",
+        "chorus": false
+      },
+      {
+        "id": 22,
+        "original": "Deportados da terra viviam unidos",
+        "en": "Deported from the land, they lived united",
+        "ko": "땅에서 추방되어, 그들은 단결해서 살았습니다",
+        "ja": "土地から追放され、彼らは団結して暮らしていました",
+        "chorus": false
+      },
+      {
+        "id": 23,
+        "original": "Jogado em porões para sofrer e sangrar",
+        "en": "Thrown into basements to suffer and bleed",
+        "ko": "고통과 피 흘림을 위해 지하실로 던져졌다",
+        "ja": "苦しみ、血を流すために地下室に投げ込まれた",
+        "chorus": false
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/X7fhNlAOu_c?si=xAvE5dQSGrfOicBQ"
+    ]
   },
   {
     "id": "8slE1UskRS4",
@@ -1923,80 +2197,90 @@
         "original": "Maranhão Maranhão, o o",
         "en": "Maranhão Maranhão, o o",
         "ko": "마란양 마란양, 오 오",
-        "ja": "マランヨン マランヨン、オ オ"
+        "ja": "マランヨン マランヨン、オ オ",
+        "chorus": true
       },
       {
         "id": 2,
         "original": "Que saudades do meu Maranhão, o o",
         "en": "Oh, I miss my Maranhão, o o",
         "ko": "오, 나의 마란양이 그립다, 오 오",
-        "ja": "ああ、私のマランヨンが恋しい、オ オ"
+        "ja": "ああ、私のマランヨンが恋しい、オ オ",
+        "chorus": true
       },
       {
         "id": 3,
         "original": "Menina solta os cabelos por baixo do limoeiro",
         "en": "Girl lets her hair down under the lemon tree",
         "ko": "소녀가 레몬나무 아래에서 머리를 풀었다",
-        "ja": "少女がレモンの木の下で髪をほどく"
+        "ja": "少女がレモンの木の下で髪をほどく",
+        "chorus": false
       },
       {
         "id": 4,
         "original": "Se o limoeiro morrer, o o",
         "en": "If the lemon tree dies, o o",
         "ko": "레몬나무가 죽으면, 오 오",
-        "ja": "レモンの木が枯れたら、オ オ"
+        "ja": "レモンの木が枯れたら、オ オ",
+        "chorus": false
       },
       {
         "id": 5,
         "original": "Eu pago com meu dinheiro, o o",
         "en": "I will pay with my money, o o",
         "ko": "나는 내 돈으로 지불하리라, 오 오",
-        "ja": "私は自分のお金で払います、オ オ"
+        "ja": "私は自分のお金で払います、オ オ",
+        "chorus": false
       },
       {
         "id": 6,
         "original": "No fundo do mar tem um peixe dourado",
         "en": "In the deep sea, there's a golden fish",
         "ko": "깊은 바다에는 황금 물고기가 있다",
-        "ja": "深い海には金色の魚がいる"
+        "ja": "深い海には金色の魚がいる",
+        "chorus": false
       },
       {
         "id": 7,
         "original": "Menina bonita sou seu namorado",
         "en": "Beautiful girl, I am your boyfriend",
         "ko": "아름다운 소녀여, 나는 너의 연인이야",
-        "ja": "美しい少女よ、私はあなたの恋人です"
+        "ja": "美しい少女よ、私はあなたの恋人です",
+        "chorus": false
       },
       {
         "id": 8,
         "original": "No fundo do mar tem um peixe de escama",
         "en": "In the deep sea, there's a scaled fish",
         "ko": "깊은 바다에는 비늘 달린 물고기가 있다",
-        "ja": "深い海にはウロコのある魚がいる"
+        "ja": "深い海にはウロコのある魚がいる",
+        "chorus": false
       },
       {
         "id": 9,
         "original": "Menina bonita sou eu quem te ama",
         "en": "Beautiful girl, it's me who loves you",
         "ko": "아름다운 소녀여, 내가 널 사랑하는 사람이야",
-        "ja": "美しい少女よ、あなたを愛しているのは私です"
+        "ja": "美しい少女よ、あなたを愛しているのは私です",
+        "chorus": false
       },
       {
         "id": 10,
         "original": "Penteando seus cabelos com pente de barbatana",
         "en": "Combing her hair with a fin comb",
         "ko": "그녀의 머리를 지느러미 빗으로 빗는다",
-        "ja": "彼女の髪をヒレの櫛でとかす"
+        "ja": "彼女の髪をヒレの櫛でとかす",
+        "chorus": false
       },
       {
         "id": 11,
         "original": "Que me dera ser candeia que alumia sua cama",
         "en": "I wish I were the lamp that lights up your bed",
         "ko": "나는 너의 침대를 비추는 등불이 되고 싶다",
-        "ja": "あなたのベッドを照らすランプになりたい"
+        "ja": "あなたのベッドを照らすランプになりたい",
+        "chorus": false
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/8slE1UskRS4?si=XlEr4WbQiV6Y_tyk"
+    ]
   },
   {
     "id": "-D-en8X-Gao",
@@ -2008,30 +2292,33 @@
         "original": "Maracangalha ê ê",
         "en": "Maracangalha ê ê",
         "ko": "마라칸갈랴 ê ê",
-        "ja": "マラカンガリャ ê ê"
+        "ja": "マラカンガリャ ê ê",
+        "chorus": true
       },
       {
         "id": 2,
         "original": "Maracangalha ê a",
         "en": "Maracangalha ê a",
         "ko": "마라칸갈랴 ê a",
-        "ja": "マラカンガリャ ê a"
+        "ja": "マラカンガリャ ê a",
+        "chorus": true
       },
       {
         "id": 3,
         "original": "Maracangalha ê ê",
         "en": "Maracangalha ê ê",
         "ko": "마라칸갈랴 ê ê",
-        "ja": "マラカンガリャ ê ê"
+        "ja": "マラカンガリャ ê ê",
+        "chorus": true
       },
       {
         "id": 4,
         "original": "Maracangalha ê a",
         "en": "Maracangalha ê a",
         "ko": "마라칸갈랴 ê a",
-        "ja": "マラカンガリャ ê a"
+        "ja": "マラカンガリャ ê a",
+        "chorus": true
       }
-    ],
-    "youtubeLink": "https://www.youtube.com/embed/-D-en8X-Gao?si=NreDyMCb04tY2_k5"
+    ]
   }
 ]
