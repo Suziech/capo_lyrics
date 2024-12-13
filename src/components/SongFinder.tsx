@@ -8,7 +8,7 @@ import { IoClose } from "react-icons/io5";
 import Image from "next/image";
 
 type Song = {
-  id: number | string;
+  id: string;
   title: string;
   slug: string;
 };

@@ -16,9 +16,10 @@ export default function Lyrics({
   return (
     <div className='container mx-auto p-4 flex flex-col justify-center items-center pt-[120px]'>
       <iframe
-        src={song?.youtubeLink}
+        // src={song?.youtubeLink}
+        src={`https://www.youtube.com/embed/${song?.id}?loop=1&playlist=${song?.id}&modestbranding=1&fs=0&rel=0`}
         title='YouTube video player'
-        allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
+        allow={`accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; `}
         referrerPolicy='strict-origin-when-cross-origin'
         allowFullScreen></iframe>
       <h1 className='text-2xl font-bold py-5'>{song?.title}</h1>
