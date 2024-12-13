@@ -25,10 +25,8 @@ export default function SongFinder({
   notFound: string;
 }) {
   const [searchTerm, setSearchTerm] = useState("");
-  const [visibleGroups, setVisibleGroups] = useState<Record<string, boolean>>(
-    {}
-  );
 
+  // 그룹핑된 노래
   const filteredSongs = songs
     .sort((a, b) => a.title.localeCompare(b.title))
     .filter((song) =>
@@ -45,6 +43,14 @@ export default function SongFinder({
       return groups;
     },
     {}
+  );
+
+  // 초기 상태를 모든 그룹 열림으로 설정
+  const [visibleGroups, setVisibleGroups] = useState<Record<string, boolean>>(
+    Object.keys(groupedSongs).reduce(
+      (acc, letter) => ({ ...acc, [letter]: true }),
+      {}
+    )
   );
 
   const relatedSearches = songs
@@ -91,7 +97,6 @@ export default function SongFinder({
                 key={index}
                 onClick={() => {
                   setSearchTerm(search);
-                  toggleGroupVisibility(search[0].toUpperCase());
                 }}
                 className='p-2 hover:bg-gray-100 cursor-pointer text-[#117554]'>
                 {search}
@@ -118,12 +123,12 @@ export default function SongFinder({
                   )}
                 </button>
               </div>
-              {!visibleGroups[letter] && (
+              {visibleGroups[letter] && (
                 <ul>
                   {groupedSongs[letter].map((song) => (
                     <li
                       key={song.id}
-                      className='py-2 text-[14px] border-b-[0.1px] border-[#8B5DFF]  rounded-md m-2 px-2 flex'>
+                      className='py-2 text-[14px] border-b-[0.1px] border-[#8B5DFF] rounded-md m-2 px-2 flex'>
                       <Image
                         src={`https://img.youtube.com/vi/${song.id}/0.jpg`}
                         alt='image'
