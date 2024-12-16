@@ -2320,5 +2320,116 @@
         "chorus": true
       }
     ]
+  },
+  {
+    "id": "MXsmsmBMbPY",
+    "title": "Quando eu venho de Luanda",
+    "slug": "quando-eu-venho-de-luanda",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Quando eu venho de Luanda eu não venho só",
+        "en": "When I come from Luanda, I do not come alone",
+        "ko": "나는 루안다에서 올 때 혼자가 아니야",
+        "ja": "ルアンダから来るとき、一人ではありません",
+        "chorus": true
+      },
+      {
+        "id": 2,
+        "original": "O trago meu corpo cansado, coração amargurado",
+        "en": "I bring my tired body, a bitter heart",
+        "ko": "피곤한 몸과 쓰라린 마음을 가져와요",
+        "ja": "疲れた体と苦い心を持ってきます",
+        "chorus": false
+      },
+      {
+        "id": 3,
+        "original": "Saudade de fazer dó",
+        "en": "A longing that evokes pity",
+        "ko": "안타까움을 불러일으키는 그리움",
+        "ja": "哀れみを誘う郷愁",
+        "chorus": false
+      },
+      {
+        "id": 4,
+        "original": "Quando eu venho de Luanda eu não venho só",
+        "en": "When I come from Luanda, I do not come alone",
+        "ko": "나는 루안다에서 올 때 혼자가 아니야",
+        "ja": "ルアンダから来るとき、一人ではありません",
+        "chorus": true
+      },
+      {
+        "id": 5,
+        "original": "Eu fui preso à traição trazido na covardia",
+        "en": "I was betrayed and brought by cowardice",
+        "ko": "나는 배신당했고 비겁함으로 끌려왔어",
+        "ja": "裏切られ、臆病さにより連れてこられた",
+        "chorus": false
+      },
+      {
+        "id": 6,
+        "original": "Que se fosse luta honesta de lá ninguém me trazia",
+        "en": "If it were an honest fight, no one would have brought me from there",
+        "ko": "정직한 싸움이었다면 아무도 날 거기서 데려오지 못했을 거야",
+        "ja": "正々堂々とした戦いなら、誰も私をそこから連れてこれなかっただろう",
+        "chorus": false
+      },
+      {
+        "id": 7,
+        "original": "Na pele eu trouxe a noite na boca brilha o luar",
+        "en": "On my skin, I brought the night; in my mouth, the moonlight shines",
+        "ko": "내 피부에는 밤을, 내 입에는 달빛이 빛나",
+        "ja": "肌には夜を、口には月明かりを持ってきた",
+        "chorus": false
+      },
+      {
+        "id": 8,
+        "original": "Trago a força e a magia presente dos orixás",
+        "en": "I bring the strength and magic of the orixás",
+        "ko": "오리샤들의 힘과 마법을 가져와요",
+        "ja": "オリシャの力と魔法を持ってきました",
+        "chorus": false
+      },
+      {
+        "id": 9,
+        "original": "Eu trago ardendo nas costas o peso dessa maldade",
+        "en": "I carry the burning weight of this evil on my back",
+        "ko": "내 등에 이 악의 무거운 짐이 타오르고 있어",
+        "ja": "背中にはこの悪の重みが燃えています",
+        "chorus": false
+      },
+      {
+        "id": 10,
+        "original": "Trago ecoando no peito o grito de liberdade",
+        "en": "I bring echoing in my chest the cry of freedom",
+        "ko": "내 가슴에 자유의 외침이 울려 퍼져요",
+        "ja": "胸に自由の叫びがこだまする",
+        "chorus": false
+      },
+      {
+        "id": 11,
+        "original": "Que é grito de raça nobre grito de raça guerreira",
+        "en": "A cry of a noble race, a cry of a warrior race",
+        "ko": "고귀한 민족의 외침, 전사 민족의 외침",
+        "ja": "高貴な種族の叫び、戦士の種族の叫び",
+        "chorus": false
+      },
+      {
+        "id": 12,
+        "original": "Que é grito da raça negra, é grito de capoeira",
+        "en": "A cry of the black race, a cry of capoeira",
+        "ko": "흑인 민족의 외침, 카포에라의 외침",
+        "ja": "黒人種の叫び、カポエイラの叫び",
+        "chorus": false
+      },
+      {
+        "id": 13,
+        "original": "Quando eu venho de Luanda eu não venho só",
+        "en": "When I come from Luanda, I do not come alone",
+        "ko": "나는 루안다에서 올 때 혼자가 아니야",
+        "ja": "ルアンダから来るとき、一人ではありません",
+        "chorus": true
+      }
+    ]
   }
 ]
