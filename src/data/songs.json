@@ -2431,5 +2431,133 @@
         "chorus": true
       }
     ]
+  },
+  {
+    "id": "vKWy88fbpJE",
+    "title": "Bahia Axé",
+    "slug": "bahia-axe",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Que bom estar com você",
+        "en": "It’s so good to be with you",
+        "ko": "당신과 함께 있어서 정말 좋아요",
+        "ja": "あなたと一緒にいられて本当に幸せです",
+        "chorus": false
+      },
+      {
+        "id": 2,
+        "original": "Aqui nessa roda",
+        "en": "Here in this Roda",
+        "ko": "이 원 안에서",
+        "ja": "この輪の中で",
+        "chorus": false
+      },
+      {
+        "id": 3,
+        "original": "Com esse conjunto",
+        "en": "With this crowd",
+        "ko": "이 무리와 함께",
+        "ja": "このグループと一緒に",
+        "chorus": false
+      },
+      {
+        "id": 4,
+        "original": "Bahia axé axé Bahia",
+        "en": "Bahia Axe, Axe Bahia",
+        "ko": "바이아 아쉐, 아쉐 바이아",
+        "ja": "バイーア・アシェ、アシェ・バイーア",
+        "chorus": true
+      },
+      {
+        "id": 5,
+        "original": "Bahia axé axé Bahia",
+        "en": "Bahia Axe, Axe Bahia",
+        "ko": "바이아 아쉐, 아쉐 바이아",
+        "ja": "バイーア・アシェ、アシェ・バイーア",
+        "chorus": true
+      },
+      {
+        "id": 6,
+        "original": "io io io io io io io io",
+        "en": "io io io io io io io io",
+        "ko": "이오 이오 이오 이오 이오 이오 이오 이오",
+        "ja": "イオ イオ イオ イオ イオ イオ イオ イオ",
+        "chorus": true
+      },
+      {
+        "id": 7,
+        "original": "io io io io io io io io",
+        "en": "io io io io io io io io",
+        "ko": "이오 이오 이오 이오 이오 이오 이오 이오",
+        "ja": "イオ イオ イオ イオ イオ イオ イオ イオ",
+        "chorus": true
+      },
+      {
+        "id": 8,
+        "original": "Os ventos",
+        "en": "The winds",
+        "ko": "바람",
+        "ja": "風",
+        "chorus": false
+      },
+      {
+        "id": 9,
+        "original": "que sopram taõ lindos",
+        "en": "Blowing so beautiful",
+        "ko": "아름답게 불어오는",
+        "ja": "美しく吹いている",
+        "chorus": false
+      },
+      {
+        "id": 10,
+        "original": "sombre os coqueirais",
+        "en": "Moving the trees",
+        "ko": "야자수를 흔들며",
+        "ja": "ヤシの木を揺らして",
+        "chorus": false
+      },
+      {
+        "id": 11,
+        "original": "isso é demais",
+        "en": "This is the best",
+        "ko": "정말 멋져요",
+        "ja": "本当に素晴らしい",
+        "chorus": false
+      },
+      {
+        "id": 12,
+        "original": "Bahia axé axé Bahia",
+        "en": "Bahia axé axé Bahia",
+        "ko": "바이아 아쉐, 아쉐 바이아",
+        "ja": "バイーア・アシェ、アシェ・バイーア",
+        "chorus": true
+      },
+      {
+        "id": 13,
+        "original": "Bahia axé axé Bahia",
+        "en": "Bahia axé axé Bahia",
+        "ko": "바이아 아쉐, 아쉐 바이아",
+        "ja": "バイーア・アシェ、アシェ・バイーア",
+        "chorus": true
+      },
+      {
+        "id": 14,
+        "original": "io io io io io io io io",
+        "en": "io io io io io io io io",
+        "ko": "이오 이오 이오 이오 이오 이오 이오 이오",
+        "ja": "イオ イオ イオ イオ イオ イオ イオ イオ",
+        "chorus": true
+      },
+      {
+        "id": 15,
+        "original": "io io io io io io io io",
+        "en": "io io io io io io io io",
+        "ko": "이오 이오 이오 이오 이오 이오 이오 이오",
+        "ja": "イオ イオ イオ イオ イオ イオ イオ イオ",
+        "chorus": true
+      }
+    ],
+    "styles": ["Angola", "Regional"]
   }
 ]
