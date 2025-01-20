@@ -2559,5 +2559,93 @@
       }
     ],
     "styles": ["Angola", "Regional"]
+  },
+  {
+    "id": "LfSDdbLLKbQ",
+    "title": "Santo Antonio meu pai",
+    "slug": "santo_antonio_meu_pai",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Santo Antonio meu pai",
+        "en": "Saint Anthony my father",
+        "ko": "성 안토니오, 나의 아버지",
+        "ja": "聖アントニオ、私の父",
+        "chorus": true
+      },
+      {
+        "id": 2,
+        "original": "cadê a rasteira",
+        "en": "where is the rasteira",
+        "ko": "하스테이라는 어디에 있나요",
+        "ja": "ラステイラはどこですか",
+        "chorus": true
+      },
+      {
+        "id": 3,
+        "original": "que não sai",
+        "en": "that doesn't come out",
+        "ko": "나오지 않는",
+        "ja": "出てこない",
+        "chorus": true
+      }
+    ],
+    "styles": ["Angola", "Regional"]
+  },
+  {
+    "id": "dlemB2GnC0s",
+    "title": "Jatobá boia na lagoa",
+    "slug": "jatoba_boia_na_lagoa",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Jatobá boia na lagoa.",
+        "en": "Jatobá floats in the lagoon.",
+        "ko": "자토바는 연못에 뜬다.",
+        "ja": "ジャトバは池に浮かぶ。",
+        "chorus": true
+      },
+      {
+        "id": 2,
+        "original": "é madeira de lei pau",
+        "en": "it’s hardwood timber",
+        "ko": "그것은 견고한 목재다",
+        "ja": "それは硬材です。",
+        "chorus": true
+      },
+      {
+        "id": 3,
+        "original": "pra fazer canoa",
+        "en": "to make a canoe",
+        "ko": "카누를 만들기 위해",
+        "ja": "カヌーを作るために",
+        "chorus": true
+      }
+    ],
+    "styles": ["Angola", "Regional"]
+  },
+  {
+    "id": "gfL7PvcMxu8",
+    "title": "No Brasil da capoeira a cobra levou rasteira",
+    "slug": "no_brasil_da_capoeira_a_cobra_levou_rasteira",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "No Brasil da capoeira",
+        "en": "In the Brazil of capoeira",
+        "ko": "카포에이라의 브라질에서",
+        "ja": "カポエイラのブラジルで",
+        "chorus": true
+      },
+      {
+        "id": 2,
+        "original": "a cobra levou rasteira",
+        "en": "the snake took a sweep",
+        "ko": "뱀이 하스테이라를 당했어",
+        "ja": "ヘビがスイープを受けた",
+        "chorus": true
+      }
+    ],
+    "styles": ["Angola", "Regional"]
   }
 ]
