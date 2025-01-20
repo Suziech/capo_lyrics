@@ -17,31 +17,44 @@ export default function Header() {
 
   const [showHeader, setShowHeader] = useState(true);
   const [lastScrollY, setLastScrollY] = useState(0);
+  const [isScrollingUp, setIsScrollingUp] = useState(false);
 
   useEffect(() => {
+    let timer: NodeJS.Timeout;
+
     const handleScroll = () => {
       const currentScrollY = window.scrollY;
 
-      if (currentScrollY > lastScrollY) {
-        setShowHeader(false); // 스크롤을 내릴 때 헤더 숨김
-      } else {
-        setShowHeader(true); // 스크롤을 올릴 때 헤더 표시
+      // 빠르게 스크롤 올릴 때도 헤더가 사라지지 않도록 딜레이 적용
+      if (currentScrollY < lastScrollY - 10) {
+        setIsScrollingUp(true);
+        setShowHeader(true);
+      } else if (currentScrollY > lastScrollY + 10) {
+        setIsScrollingUp(false);
+        setShowHeader(false);
       }
 
       setLastScrollY(currentScrollY);
+
+      // 모바일에서의 스크롤 딜레이 해결 (스크롤 이벤트 최적화)
+      clearTimeout(timer);
+      timer = setTimeout(() => {
+        setShowHeader(true);
+      }, 150);
     };
 
     window.addEventListener("scroll", handleScroll);
 
     return () => {
       window.removeEventListener("scroll", handleScroll);
+      clearTimeout(timer);
     };
   }, [lastScrollY]);
 
   return (
     <div
       className={`w-full flex justify-center ${
-        showHeader ? "top-0" : "-top-[80px]"
+        showHeader ? "top-[0px]" : "-top-[80px]"
       } transition-all duration-300 ease-in-out fixed z-[9999]`}>
       {" "}
       <header
