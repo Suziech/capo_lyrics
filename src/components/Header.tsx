@@ -55,8 +55,9 @@ export default function Header() {
     <div
       className={`w-full flex justify-center ${
         showHeader ? "top-[0px]" : "-top-[80px]"
-      } transition-all duration-300 ease-in-out fixed z-[9999]`}>
-      {" "}
+      } transition-all duration-300 ease-in-out fixed z-[9999] ${
+        isScrollingUp ? "bg-opacity-100" : "bg-opacity-50"
+      }`}>
       <header
         className={`flex items-center max-w-[1440px] mx-auto py-[20px] px-[16px] fixed w-full bg-[#000] z-[9999]`}>
         <nav className={`flex justify-between w-full `}>
