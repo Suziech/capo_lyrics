@@ -9,6 +9,7 @@ interface LyricItem {
   en: string;
   ko: string;
   ja: string;
+  fr: string;
   chorus?: boolean;
 }
 
