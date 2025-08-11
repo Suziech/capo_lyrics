@@ -1,5 +1,6 @@
 {
   "title": "Capoeira Song Finder 🔍",
   "description": "Search for the title of a Capoeira song.",
-  "not_found": "No songs found."
+  "not_found": "No songs found.",
+  "Favourites": "Favourites"
 }

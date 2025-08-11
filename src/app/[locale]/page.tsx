@@ -14,6 +14,7 @@ export default async function Page({
       title={t("title")}
       description={t("description")}
       notFound={t("not_found")}
+      Favourites={t("Favourites")}
     />
   );
 }
