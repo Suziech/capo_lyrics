@@ -10,6 +10,7 @@
         "en": "I'll tell my master",
         "ko": "주인님에게 말할 거야",
         "ja": "主人に伝えます",
+        "fr": "Je vais dire à mon maître",
         "chorus": true
       },
       {
@@ -18,6 +19,7 @@
         "en": "That I've spilt the butter",
         "ko": "버터가 쏟아졌다고",
         "ja": "バターがこぼれたことを",
+        "fr": "Que j'ai renversé le beurre",
         "chorus": true
       },
       {
@@ -26,6 +28,7 @@
         "en": "The butter is not mine",
         "ko": "그 버터는 내 것이 아니야",
         "ja": "そのバターは私のものではありません",
+        "fr": "Et le beurre n'est pas à moi",
         "chorus": false
       },
       {
@@ -34,6 +37,7 @@
         "en": "It belongs to my master's son",
         "ko": "그것은 주인의 아들의 것이야",
         "ja": "それは主人の息子のものです",
+        "fr": "Il appartient au fils de mon maître",
         "chorus": false
       },
       {
@@ -42,6 +46,7 @@
         "en": "The boss's butter",
         "ko": "버터는 주인의 것이야",
         "ja": "バターは主人のものです",
+        "fr": "Le beurre est celui du patron",
         "chorus": false
       },
       {
@@ -50,6 +55,7 @@
         "en": "Fell to the ground and spilled",
         "ko": "바닥에 떨어져 쏟아졌어",
         "ja": "床に落ちてこぼれました",
+        "fr": "Il est tombé par terre et s'est renversé",
         "chorus": false
       }
     ],
@@ -66,6 +72,7 @@
         "en": "Oh yes yes yes",
         "ko": "오 예 예 예",
         "ja": "ああ はい はい はい",
+        "fr": "Oh oui oui oui",
         "chorus": true
       },
       {
@@ -74,6 +81,7 @@
         "en": "Oh no no no",
         "ko": "오 아니 아니 아니",
         "ja": "ああ いいえ いいえ いいえ",
+        "fr": "Oh non non non",
         "chorus": true
       },
       {
@@ -82,6 +90,7 @@
         "en": "Today we have, but tomorrow no",
         "ko": "오늘은 있는데, 내일은 없어",
         "ja": "今日はあるけど明日はない",
+        "fr": "Mais aujourd'hui il y en a, demain non",
         "chorus": false
       },
       {
@@ -90,6 +99,7 @@
         "en": "Today we have, but tomorrow no",
         "ko": "오늘은 있는데, 내일은 없어",
         "ja": "今日はあるけど明日はない",
+        "fr": "Mais aujourd'hui il y en a, demain non",
         "chorus": false
       }
     ]
@@ -105,6 +115,7 @@
         "en": "Now yes, they have killed my Besouro",
         "ko": "이제 정말, 그들이 내 비소우루를 죽였네",
         "ja": "今そう、彼らは私のベソウロを殺しました",
+        "fr": "Maintenant oui, ils ont tué mon Besouro",
         "chorus": true
       },
       {
@@ -113,6 +124,7 @@
         "en": "After death, little Besouro with a golden cord",
         "ko": "죽은 후에, 황금 끈을 가진 작은 비소우루",
         "ja": "死後、小さなベソウロは金の紐を持っています",
+        "fr": "Après la mort, petit Besouro avec un cordon d'or",
         "chorus": true
       },
       {
@@ -121,6 +133,7 @@
         "en": "Besouro, little Besouro",
         "ko": "비소우루, 작은 비소우루",
         "ja": "ベソウロ、小さなベソウロ",
+        "fr": "Besouro, petit Besouro",
         "chorus": false
       },
       {
@@ -129,6 +142,7 @@
         "en": "Golden Cord",
         "ko": "황금 끈",
         "ja": "金の紐",
+        "fr": "Cordon d'Or",
         "chorus": true
       }
     ]
@@ -144,6 +158,7 @@
         "en": "The Bem-te-vi flew, flew",
         "ko": "벤치비가 날아갔네, 날아갔네",
         "ja": "ベムテヴィが飛んだ、飛んだ",
+        "fr": "Le Bem-te-vi a volé, volé",
         "chorus": false
       },
       {
@@ -152,6 +167,7 @@
         "en": "Let it fly",
         "ko": "날게 두어라",
         "ja": "飛ばせて",
+        "fr": "Laisse-le voler",
         "chorus": false
       },
       {
@@ -160,6 +176,7 @@
         "en": "Lá lauê lauê lauê laua",
         "ko": "라 라우에 라우에 라우에 라우아",
         "ja": "ラ ラウエ ラウエ ラウエ ラウア",
+        "fr": "Lá lauê lauê lauê laua",
         "chorus": true
       },
       {
@@ -168,6 +185,7 @@
         "en": "What sound, what art is this",
         "ko": "이 소리, 이 예술은 무엇인가",
         "ja": "この音、この芸術は何ですか",
+        "fr": "Quel son, quel art est-ce",
         "chorus": false
       },
       {
@@ -176,6 +194,7 @@
         "en": "Of fight and playfulness",
         "ko": "싸움과 장난의",
         "ja": "戦いと遊びの",
+        "fr": "De lutte et de jeu",
         "chorus": false
       },
       {
@@ -184,6 +203,7 @@
         "en": "What a wonderful roda is this",
         "ko": "이 얼마나 멋진 호다인가",
         "ja": "なんて素晴らしいホーダだ",
+        "fr": "Quelle roda merveilleuse est-ce",
         "chorus": false
       },
       {
@@ -192,6 +212,7 @@
         "en": "It is Axé Capoeira",
         "ko": "이것이 아셰 카포에라다",
         "ja": "これはアシェ カポエイラです",
+        "fr": "C'est l'Axé Capoeira",
         "chorus": false
       },
       {
@@ -200,6 +221,7 @@
         "en": "In each sound, in each beat",
         "ko": "각 소리마다, 각 박자마다",
         "ja": "各音、各ビートで",
+        "fr": "Dans chaque son, dans chaque touche",
         "chorus": true
       },
       {
@@ -208,6 +230,7 @@
         "en": "In each ginga, there is a style of play",
         "ko": "각 진가마다, 하나의 게임 스타일이 있네",
         "ja": "各ジンガに、それぞれのスタイルがあります",
+        "fr": "Dans chaque ginga, il y a un style de jeu",
         "chorus": true
       },
       {
@@ -216,6 +239,7 @@
         "en": "Lauê lauê lá...",
         "ko": "라우에 라우에 라...",
         "ja": "ラウエ ラウエ ラ...",
+        "fr": "Lauê lauê là...",
         "chorus": true
       }
     ]
@@ -231,6 +255,7 @@
         "en": "Who goes there - it's me",
         "ko": "누구인가 - 나야",
         "ja": "誰だ - 私です",
+        "fr": "Qui vient là - c'est moi",
         "chorus": true
       },
       {
@@ -239,6 +264,7 @@
         "en": "Who goes there - it's me",
         "ko": "누구인가 - 나야",
         "ja": "誰だ - 私です",
+        "fr": "Qui vient là - c'est moi",
         "chorus": true
       },
       {
@@ -247,6 +273,7 @@
         "en": "The berimbau played",
         "ko": "베림바우가 울렸네",
         "ja": "ベリンバウが鳴った",
+        "fr": "Le berimbau a joué",
         "chorus": true
       },
       {
@@ -255,6 +282,7 @@
         "en": "I am Capoeira",
         "ko": "나는 카포에라다",
         "ja": "私はカポエイラです",
+        "fr": "Je suis Capoeira",
         "chorus": true
       },
       {
@@ -263,6 +291,7 @@
         "en": "There in the land of Bahia",
         "ko": "저기 바이아의 땅에서",
         "ja": "あそこのバイアの地で",
+        "fr": "Là, dans la terre de Bahia",
         "chorus": false
       },
       {
@@ -271,6 +300,7 @@
         "en": "Capital of Salvador",
         "ko": "살바도르의 수도",
         "ja": "サルバドールの首都",
+        "fr": "Capitale de Salvador",
         "chorus": false
       },
       {
@@ -279,6 +309,7 @@
         "en": "Capoeira was resistance",
         "ko": "카포에라는 저항이었다",
         "ja": "カポエイラは抵抗だった",
+        "fr": "La Capoeira était une résistance",
         "chorus": false
       },
       {
@@ -287,6 +318,7 @@
         "en": "The Africans showed us",
         "ko": "아프리카인들이 우리에게 보여주었다",
         "ja": "アフリカ人が私たちに示した",
+        "fr": "Les Africains nous ont montré",
         "chorus": false
       },
       {
@@ -295,6 +327,7 @@
         "en": "It's me, it's me",
         "ko": "나야, 나야",
         "ja": "私だ、私だ",
+        "fr": "C'est moi, c'est moi",
         "chorus": false
       },
       {
@@ -303,6 +336,7 @@
         "en": "Who goes there",
         "ko": "누구인가",
         "ja": "誰だ",
+        "fr": "Qui vient là",
         "chorus": true
       },
       {
@@ -311,6 +345,7 @@
         "en": "I am Bevenuto",
         "ko": "나는 베베누토다",
         "ja": "私はベベヌートです",
+        "fr": "Je suis Bevenuto",
         "chorus": false
       },
       {
@@ -319,6 +354,7 @@
         "en": "Who goes there",
         "ko": "누구인가",
         "ja": "誰だ",
+        "fr": "Qui vient là",
         "chorus": true
       },
       {
@@ -327,6 +363,7 @@
         "en": "Riding a horse",
         "ko": "말을 타고",
         "ja": "馬に乗って",
+        "fr": "Monté à cheval",
         "chorus": false
       },
       {
@@ -335,6 +372,7 @@
         "en": "Who goes there",
         "ko": "누구인가",
         "ja": "誰だ",
+        "fr": "Qui vient là",
         "chorus": true
       },
       {
@@ -343,6 +381,7 @@
         "en": "Smoking a cigar",
         "ko": "시가를 피우며",
         "ja": "葉巻を吸いながら",
+        "fr": "Fumant un cigare",
         "chorus": false
       },
       {
@@ -351,6 +390,7 @@
         "en": "Who goes there",
         "ko": "누구인가",
         "ja": "誰だ",
+        "fr": "Qui vient là",
         "chorus": true
       }
     ]
@@ -366,6 +406,7 @@
         "en": "Ms. Maria of Camboatá",
         "ko": "캄보아타의 마리아 여사",
         "ja": "カンボアタのマリアさん",
+        "fr": "Madame Maria de Camboatá",
         "chorus": true
       },
       {
@@ -374,6 +415,7 @@
         "en": "She arrives at the market and starts giving orders",
         "ko": "그녀는 시장에 도착해 명령을 내리기 시작한다",
         "ja": "彼女は市場に到着し、命令を出し始めます",
+        "fr": "Elle arrive au marché et commence à donner des ordres",
         "chorus": false
       },
       {
@@ -382,6 +424,7 @@
         "en": "Ms. Maria of Camboatá",
         "ko": "캄보아타의 마리아 여사",
         "ja": "カンボアタのマリアさん",
+        "fr": "Madame Maria de Camboatá",
         "chorus": true
       },
       {
@@ -390,6 +433,7 @@
         "en": "She arrives at the market and does a backflip",
         "ko": "그녀는 시장에 도착해 백플립을 한다",
         "ja": "彼女は市場に到着してバックフリップをします",
+        "fr": "Elle arrive au marché et fait un salto arrière",
         "chorus": false
       },
       {
@@ -398,6 +442,7 @@
         "en": "Ms. Maria of Camboatá",
         "ko": "캄보아타의 마리아 여사",
         "ja": "カンボアタのマリアさん",
+        "fr": "Madame Maria de Camboatá",
         "chorus": true
       },
       {
@@ -406,6 +451,7 @@
         "en": "She arrives at the market and starts to ginga",
         "ko": "그녀는 시장에 도착해 징가를 시작한다",
         "ja": "彼女は市場に到着してジンガを始めます",
+        "fr": "Elle arrive au marché et commence à faire la ginga",
         "chorus": false
       },
       {
@@ -414,6 +460,7 @@
         "en": "Ms. Maria of Camboatá",
         "ko": "캄보아타의 마리아 여사",
         "ja": "カンボアタのマリアさん",
+        "fr": "Madame Maria de Camboatá",
         "chorus": true
       },
       {
@@ -422,6 +469,7 @@
         "en": "She calls the boy and sends him to buy",
         "ko": "그녀는 소년을 불러 물건을 사오게 한다",
         "ja": "彼女は少年を呼んで買い物に行かせます",
+        "fr": "Elle appelle le garçon et lui demande d'acheter",
         "chorus": false
       },
       {
@@ -430,6 +478,7 @@
         "en": "Ms. Maria of Camboatá",
         "ko": "캄보아타의 마리아 여사",
         "ja": "カンボアタのマリアさん",
+        "fr": "Madame Maria de Camboatá",
         "chorus": true
       },
       {
@@ -438,6 +487,7 @@
         "en": "If it's not there, if he doesn't find it, she demands an exchange",
         "ko": "없으면, 찾지 못하면 그녀는 교환을 요구한다",
         "ja": "なければ、見つからなければ交換を要求します",
+        "fr": "S'il n'y en a pas, s'il ne trouve pas, elle demande un échange",
         "chorus": false
       },
       {
@@ -446,6 +496,7 @@
         "en": "Ms. Maria of Camboatá",
         "ko": "캄보아타의 마리아 여사",
         "ja": "カンボアタのマリアさん",
+        "fr": "Madame Maria de Camboatá",
         "chorus": true
       },
       {
@@ -454,6 +505,7 @@
         "en": "She's from Camboatá, from Camboatá",
         "ko": "그녀는 캄보아타 출신이다, 캄보아타 출신이다",
         "ja": "彼女はカンボアタ出身です、カンボアタ出身です",
+        "fr": "Elle est de Camboatá, de Camboatá",
         "chorus": false
       }
     ]
@@ -468,154 +520,176 @@
         "original": "Sou capoeira, olha eu sei que sou",
         "en": "I'm capoeira, look I know I am",
         "ko": "나는 카포에라다, 내가 누군지 보라",
-        "ja": "私はカポエイラだ、見て、私は知っている"
+        "ja": "私はカポエイラだ、見て、私は知っている",
+        "fr": "Je suis capoeira, regarde je sais que je le suis"
       },
       {
         "id": 2,
         "original": "Eu vim aqui foi para jogar",
         "en": "I came here to play",
         "ko": "나는 여기 놀러 왔다",
-        "ja": "私はここに遊びに来た"
+        "ja": "私はここに遊びに来た",
+        "fr": "Je suis venu ici pour jouer"
       },
       {
         "id": 3,
         "original": "Faço bonito só porque tenho talento",
         "en": "I make it beautiful just because I have talent",
         "ko": "나는 재능이 있어 아름답게 만든다",
-        "ja": "才能があるから美しく作る"
+        "ja": "才能があるから美しく作る",
+        "fr": "Je fais beau juste parce que j'ai du talent"
       },
       {
         "id": 4,
         "original": "E solto meus movimentos",
         "en": "And let go of my moves",
         "ko": "그리고 내 동작을 펼친다",
-        "ja": "そして自分の動きを解き放つ"
+        "ja": "そして自分の動きを解き放つ",
+        "fr": "Et je lâche mes mouvements"
       },
       {
         "id": 5,
         "original": "Com uma voz no coração",
         "en": "With a voice in the heart",
         "ko": "마음속의 목소리와 함께",
-        "ja": "心の中の声とともに"
+        "ja": "心の中の声とともに",
+        "fr": "Avec une voix dans le cœur"
       },
       {
         "id": 6,
         "original": "Que amor é esse que trago no coração",
         "en": "What is this love that I carry in my heart?",
         "ko": "내 마음에 담긴 이 사랑은 무엇인가?",
-        "ja": "私の心にあるこの愛は何ですか？"
+        "ja": "私の心にあるこの愛は何ですか？",
+        "fr": "Quel amour est-ce que je porte dans mon cœur ?"
       },
       {
         "id": 7,
         "original": "Uma alegria, uma vontade de gingar",
         "en": "A joy, a desire to ginga",
         "ko": "기쁨, 진가에 대한 열망",
-        "ja": "喜び、ジンガへの渇望"
+        "ja": "喜び、ジンガへの渇望",
+        "fr": "Une joie, un désir de gingar"
       },
       {
         "id": 8,
         "original": "São Bento Grande, Iuna, Cavalaria",
         "en": "São Bento Grande, Iúna, Cavalaria",
         "ko": "상 벤투 그란지, 이우나, 카발라리아",
-        "ja": "サンベントグランデ、イウナ、カバラリア"
+        "ja": "サンベントグランデ、イウナ、カバラリア",
+        "fr": "São Bento Grande, Iúna, Cavalaria"
       },
       {
         "id": 9,
         "original": "Quando toca me arrepia",
         "en": "When it plays, I get goosebumps",
         "ko": "연주될 때 소름이 돋는다",
-        "ja": "演奏されると鳥肌が立つ"
+        "ja": "演奏されると鳥肌が立つ",
+        "fr": "Quand ça joue, j'ai des frissons"
       },
       {
         "id": 10,
         "original": "Hoje é dia de jogar",
         "en": "Today is the day to play",
         "ko": "오늘은 노는 날이다",
-        "ja": "今日は遊ぶ日だ"
+        "ja": "今日は遊ぶ日だ",
+        "fr": "Aujourd'hui c'est le jour pour jouer"
       },
       {
         "id": 11,
         "original": "E o cantador solta a voz",
         "en": "And the singer lets his voice loose",
         "ko": "가수가 목소리를 풀어놓는다",
-        "ja": "歌手が声を解き放つ"
+        "ja": "歌手が声を解き放つ",
+        "fr": "Et le chanteur lâche sa voix"
       },
       {
         "id": 12,
         "original": "Para o povo ouvir",
         "en": "For the people to hear",
         "ko": "사람들이 들을 수 있도록",
-        "ja": "人々が聞けるように"
+        "ja": "人々が聞けるように",
+        "fr": "Pour que le peuple entende"
       },
       {
         "id": 13,
         "original": "Berimbau, viola, arma a roda e",
         "en": "Berimbau, viola, set the roda and",
         "ko": "베림바우, 비올라, 호다를 준비하고",
-        "ja": "ベリンバウ、ビオラ、ホーダを準備して"
+        "ja": "ベリンバウ、ビオラ、ホーダを準備して",
+        "fr": "Berimbau, viola, prépare la roda et"
       },
       {
         "id": 14,
         "original": "Marca o som",
         "en": "Mark the sound",
         "ko": "소리를 표시한다",
-        "ja": "音をマークする"
+        "ja": "音をマークする",
+        "fr": "Marque le son"
       },
       {
         "id": 15,
         "original": "A meia lua é ligeira e corta o vento",
         "en": "The meia lua is swift and cuts the wind",
         "ko": "메이아 루아는 빠르고 바람을 가른다",
-        "ja": "メイアルアは速く、風を切る"
+        "ja": "メイアルアは速く、風を切る",
+        "fr": "La meia lua est rapide et coupe le vent"
       },
       {
         "id": 16,
         "original": "Capoeira joga dentro",
         "en": "Capoeira plays inside",
         "ko": "카포에라는 안에서 논다",
-        "ja": "カポエイラは内側で遊ぶ"
+        "ja": "カポエイラは内側で遊ぶ",
+        "fr": "La capoeira joue à l'intérieur"
       },
       {
         "id": 17,
         "original": "Como meu mestre me ensinou",
         "en": "As my master taught me",
         "ko": "내 스승이 가르쳐준 대로",
-        "ja": "私の師匠が教えてくれたように"
+        "ja": "私の師匠が教えてくれたように",
+        "fr": "Comme mon maître m'a enseigné"
       },
       {
         "id": 18,
         "original": "E o capoeira é astuto e velhaco",
         "en": "And the capoeirista is cunning and sly",
         "ko": "카포에리스타는 교활하고 약삭빠르다",
-        "ja": "カポエイリスタは狡猾でずる賢い"
+        "ja": "カポエイリスタは狡猾でずる賢い",
+        "fr": "Et le capoeiriste est rusé et sournois"
       },
       {
         "id": 19,
         "original": "É inimigo do perigo e confusão",
         "en": "He is the enemy of danger and confusion",
         "ko": "그는 위험과 혼란의 적이다",
-        "ja": "彼は危険と混乱の敵だ"
+        "ja": "彼は危険と混乱の敵だ",
+        "fr": "Il est l'ennemi du danger et de la confusion"
       },
       {
         "id": 20,
         "original": "Mas ele sabe o valor de uma vida",
         "en": "But he knows the value of a life",
         "ko": "그러나 그는 생명의 가치를 안다",
-        "ja": "しかし彼は命の価値を知っている"
+        "ja": "しかし彼は命の価値を知っている",
+        "fr": "Mais il connaît la valeur d'une vie"
       },
       {
         "id": 21,
         "original": "Por isso corre de briga",
         "en": "Therefore he avoids fights",
         "ko": "그래서 그는 싸움을 피한다",
-        "ja": "だから彼は喧嘩を避ける"
+        "ja": "だから彼は喧嘩を避ける",
+        "fr": "C'est pourquoi il évite les bagarres"
       },
       {
         "id": 22,
         "original": "E quer mais é vadiar",
         "en": "And prefers to play around",
         "ko": "그리고 노는 것을 더 좋아한다",
-        "ja": "そして遊ぶことを好む"
+        "ja": "そして遊ぶことを好む",
+        "fr": "Et il préfère flâner"
       }
     ]
   },
@@ -630,6 +704,7 @@
         "en": "The time is now, the time is now",
         "ko": "지금이 바로 그 시간이다, 지금이 바로 그 시간이다",
         "ja": "今がその時だ、今がその時だ",
+        "fr": "Le moment est venu, le moment est venu",
         "chorus": true
       },
       {
@@ -638,6 +713,7 @@
         "en": "The berimbau played in capoeira",
         "ko": "카포에라에서 베림바우가 연주되었다",
         "ja": "カポエイラでベリンバウが演奏された",
+        "fr": "Le berimbau a joué dans la capoeira",
         "chorus": true
       },
       {
@@ -646,6 +722,7 @@
         "en": "The berimbau played, I'm going to play",
         "ko": "베림바우가 연주되었으니, 나는 놀 것이다",
         "ja": "ベリンバウが演奏された、私は遊びに行く",
+        "fr": "Le berimbau a joué, je vais jouer",
         "chorus": true
       }
     ]
@@ -661,6 +738,7 @@
         "en": "Go you, go you",
         "ko": "가라, 가라",
         "ja": "行け、行け",
+        "fr": "Vas-y, vas-y",
         "chorus": false
       },
       {
@@ -669,6 +747,7 @@
         "en": "Dona Maria, how are you?",
         "ko": "도나 마리아, 어떻게 지내세요?",
         "ja": "ドナ・マリア、元気ですか？",
+        "fr": "Dona Maria, comment vas-tu ?",
         "chorus": true
       },
       {
@@ -677,6 +756,7 @@
         "en": "Play beautifully because I want to learn",
         "ko": "아름답게 플레이해줘요, 배우고 싶어요",
         "ja": "美しくプレイしてください、学びたいです",
+        "fr": "Joue bien car je veux apprendre",
         "chorus": false
       },
       {
@@ -685,6 +765,7 @@
         "en": "Dona Maria, how are you?",
         "ko": "도나 마리아, 어떻게 지내세요?",
         "ja": "ドナ・マリア、元気ですか？",
+        "fr": "Dona Maria, comment vas-tu ?",
         "chorus": true
       },
       {
@@ -693,6 +774,7 @@
         "en": "Go you, how are you",
         "ko": "가라, 어떻게 지내세요",
         "ja": "行け、元気ですか",
+        "fr": "Vas-y, comment vas-tu ?",
         "chorus": false
       },
       {
@@ -701,6 +783,7 @@
         "en": "Dona Maria, how are you?",
         "ko": "도나 마리아, 어떻게 지내세요?",
         "ja": "ドナ・マリア、元気ですか？",
+        "fr": "Dona Maria, comment vas-tu ?",
         "chorus": true
       },
       {
@@ -709,6 +792,7 @@
         "en": "Play beautifully because I want to see",
         "ko": "아름답게 플레이해줘요, 보고 싶어요",
         "ja": "美しくプレイしてください、見たいです",
+        "fr": "Joue bien car je veux voir",
         "chorus": false
       },
       {
@@ -717,6 +801,7 @@
         "en": "Dona Maria, how are you?",
         "ko": "도나 마리아, 어떻게 지내세요?",
         "ja": "ドナ・マリア、元気ですか？",
+        "fr": "Dona Maria, comment vas-tu ?",
         "chorus": true
       },
       {
@@ -725,6 +810,7 @@
         "en": "How are you, how are you",
         "ko": "어떻게 지내세요, 어떻게 지내세요",
         "ja": "元気ですか、元気ですか",
+        "fr": "Comment vas-tu, comment vas-tu",
         "chorus": false
       },
       {
@@ -733,6 +819,7 @@
         "en": "Dona Maria, how are you?",
         "ko": "도나 마리아, 어떻게 지내세요?",
         "ja": "ドナ・マリア、元気ですか？",
+        "fr": "Dona Maria, comment vas-tu ?",
         "chorus": true
       },
       {
@@ -741,6 +828,7 @@
         "en": "Play beautifully because the master wants to see",
         "ko": "아름답게 플레이해줘요, 마스터가 보고 싶어해요",
         "ja": "美しくプレイしてください、マスターが見たいです",
+        "fr": "Joue bien car le mestre veut voir",
         "chorus": false
       },
       {
@@ -749,6 +837,7 @@
         "en": "Dona Maria, how are you?",
         "ko": "도나 마리아, 어떻게 지내세요?",
         "ja": "ドナ・マリア、元気ですか？",
+        "fr": "Dona Maria, comment vas-tu ?",
         "chorus": true
       },
       {
@@ -757,6 +846,7 @@
         "en": "Capoeira is not karate",
         "ko": "카포에라는 가라테가 아니에요",
         "ja": "カポエイラは空手ではありません",
+        "fr": "La capoeira n'est pas du karaté",
         "chorus": false
       },
       {
@@ -765,6 +855,7 @@
         "en": "Dona Maria, how are you?",
         "ko": "도나 마리아, 어떻게 지내세요?",
         "ja": "ドナ・マリア、元気ですか？",
+        "fr": "Dona Maria, comment vas-tu ?",
         "chorus": true
       },
       {
@@ -773,6 +864,7 @@
         "en": "Play beautifully so I can learn",
         "ko": "아름답게 플레이해줘요, 제가 배울 수 있게",
         "ja": "美しくプレイしてください、学べるように",
+        "fr": "Joue bien pour que je puisse apprendre",
         "chorus": false
       },
       {
@@ -781,6 +873,7 @@
         "en": "Dona Maria, how are you?",
         "ko": "도나 마리아, 어떻게 지내세요?",
         "ja": "ドナ・マリア、元気ですか？",
+        "fr": "Dona Maria, comment vas-tu ?",
         "chorus": true
       }
     ]
@@ -796,6 +889,7 @@
         "en": "It was in Bahia that I had made",
         "ko": "바이아에서 내가 만들게 했네",
         "ja": "バイーアで作らせた",
+        "fr": "C'est en Bahia que j'ai fait faire",
         "chorus": true
       },
       {
@@ -804,6 +898,7 @@
         "en": "It was in Bahia that I had prepared",
         "ko": "바이아에서 내가 준비하게 했네",
         "ja": "バイーアで準備させた",
+        "fr": "C'est en Bahia que j'ai fait préparer",
         "chorus": true
       },
       {
@@ -812,6 +907,7 @@
         "en": "My amulet, my father, my amulet",
         "ko": "내 부적, 내 아버지, 내 부적",
         "ja": "私のお守り、私の父、私のお守り",
+        "fr": "Mon patuá mon père, mon patuá",
         "chorus": true
       },
       {
@@ -820,6 +916,7 @@
         "en": "My amulet to protect me",
         "ko": "나를 보호해줄 내 부적",
         "ja": "私を守るためのお守り",
+        "fr": "Mon patuá pour me protéger",
         "chorus": true
       },
       {
@@ -828,6 +925,7 @@
         "en": "It was Sunday, it was a day of offerings",
         "ko": "일요일이었네, 제물의 날이었네",
         "ja": "日曜日、捧げ物の日だった",
+        "fr": "C'était dimanche, c'était un jour d'offrandes",
         "chorus": false
       },
       {
@@ -836,6 +934,7 @@
         "en": "And I took flowers to Iemanjá",
         "ko": "그리고 나는 이만자에게 꽃을 가져갔네",
         "ja": "そしてイエマンジャに花を持っていった",
+        "fr": "Et j'ai apporté des fleurs à Iemanjá",
         "chorus": false
       },
       {
@@ -844,6 +943,7 @@
         "en": "I went to celebrate Janaína, young queen",
         "ko": "어린 여왕 자나이나를 기리러 갔네",
         "ja": "若き女王ジャナイナを祝うために行った",
+        "fr": "Je suis allé célébrer Janaína, jeune reine",
         "chorus": false
       },
       {
@@ -852,6 +952,7 @@
         "en": "Iemanjá who is the owner of the sea",
         "ko": "바다의 주인인 이만자",
         "ja": "海の主イエマンジャ",
+        "fr": "Iemanjá qui est la maîtresse de la mer",
         "chorus": false
       },
       {
@@ -860,6 +961,7 @@
         "en": "And in Bahia, an old cunning master",
         "ko": "그리고 바이아에서, 노련한 늙은 마스터가",
         "ja": "バイーアでの老練な師匠",
+        "fr": "Et en Bahia un vieux mestre mandingueiro",
         "chorus": false
       },
       {
@@ -868,6 +970,7 @@
         "en": "Opened the roda making a praise",
         "ko": "찬양하며 호다를 열었네",
         "ja": "称賛を込めてロダを開いた",
+        "fr": "Il a ouvert la roda en faisant une louange",
         "chorus": false
       },
       {
@@ -876,6 +979,7 @@
         "en": "Sang the lament very strongly",
         "ko": "아주 강하게 비탄을 노래했네",
         "ja": "非常に強く嘆きの歌を歌った",
+        "fr": "Il a chanté fort la lamentation",
         "chorus": false
       },
       {
@@ -884,6 +988,7 @@
         "en": "Giving me the blessing",
         "ko": "나에게 축복을 주며",
         "ja": "私に祝福を与えながら",
+        "fr": "Me donnant la bénédiction",
         "chorus": false
       },
       {
@@ -892,6 +997,7 @@
         "en": "It was time for me to go out to play",
         "ko": "내가 나가서 놀 시간이었다네",
         "ja": "遊びに出る時間だった",
+        "fr": "C'était l'heure pour moi de sortir pour jouer",
         "chorus": false
       },
       {
@@ -900,6 +1006,7 @@
         "en": "I was invited to a giant roda",
         "ko": "거대한 호다에 초대받았네",
         "ja": "巨大なロダに招待された",
+        "fr": "J'ai été invité à une roda géante",
         "chorus": false
       },
       {
@@ -908,6 +1015,7 @@
         "en": "With two pandeiros and three berimbaus",
         "ko": "두 개의 판데이루와 세 개의 베림바우와 함께",
         "ja": "2つのパンデイロと3つのベリンバウとともに",
+        "fr": "Avec deux pandeiros et trois berimbaus",
         "chorus": false
       },
       {
@@ -916,6 +1024,7 @@
         "en": "And an atabaque playing smoothly and serenely",
         "ko": "부드럽고 고요하게 연주하는 아타바케와 함께",
         "ja": "滑らかで穏やかに演奏するアタバキとともに",
+        "fr": "Et un atabaque jouant doucement et sereinement",
         "chorus": false
       },
       {
@@ -924,6 +1033,7 @@
         "en": "It's the roda that's about to start",
         "ko": "곧 시작될 호다",
         "ja": "もうすぐ始まるロダ",
+        "fr": "C'est la roda qui va bientôt commencer",
         "chorus": false
       },
       {
@@ -932,6 +1042,7 @@
         "en": "My amulet is my sacred berimbau",
         "ko": "내 부적은 나의 신성한 베림바우",
         "ja": "私のお守りは神聖なベリンバウ",
+        "fr": "Mon patuá est mon berimbau sacré",
         "chorus": false
       },
       {
@@ -940,6 +1051,7 @@
         "en": "It's my life and also my singing",
         "ko": "그것은 나의 삶이자 나의 노래",
         "ja": "それは私の人生であり、私の歌でもある",
+        "fr": "C'est ma vie et aussi mon chant",
         "chorus": false
       },
       {
@@ -948,6 +1060,7 @@
         "en": "It's my friends smiling",
         "ko": "미소 짓는 나의 친구들",
         "ja": "微笑む私の友達",
+        "fr": "Ce sont mes amis qui sourient",
         "chorus": false
       },
       {
@@ -956,6 +1069,7 @@
         "en": "Always with me, in the turn that the world takes",
         "ko": "세상이 도는 동안 항상 나와 함께",
         "ja": "世界が回る間、常に私とともに",
+        "fr": "Toujours avec moi, dans le tour que le monde fait",
         "chorus": false
       }
     ]
@@ -971,6 +1085,7 @@
         "en": "Come out, come out, Catarina",
         "ko": "나와라, 나와라, 카타리나",
         "ja": "出ておいで、出ておいで、カタリナ",
+        "fr": "Sors, sors, Catarina",
         "chorus": true
       },
       {
@@ -979,6 +1094,7 @@
         "en": "Get out of the sea, come see Idalina",
         "ko": "바다에서 나와, 이달리나를 보러 와",
         "ja": "海から出て、イダリナを見に来て",
+        "fr": "Sors de la mer, viens voir Idalina",
         "chorus": false
       },
       {
@@ -987,6 +1103,7 @@
         "en": "Come out, come out, Catarina",
         "ko": "나와라, 나와라, 카타리나",
         "ja": "出ておいで、出ておいで、カタリナ",
+        "fr": "Sors, sors, Catarina",
         "chorus": true
       },
       {
@@ -995,6 +1112,7 @@
         "en": "Get out of the sea, come see, come see",
         "ko": "바다에서 나와, 보러 와, 보러 와",
         "ja": "海から出て、見に来て、見に来て",
+        "fr": "Sors de la mer, viens voir, viens voir",
         "chorus": false
       },
       {
@@ -1003,6 +1121,7 @@
         "en": "Come out, come out, Catarina",
         "ko": "나와라, 나와라, 카타리나",
         "ja": "出ておいで、出ておいで、カタリナ",
+        "fr": "Sors, sors, Catarina",
         "chorus": true
       },
       {
@@ -1011,6 +1130,7 @@
         "en": "Oh Catarina, my love",
         "ko": "오 카타리나, 내 사랑",
         "ja": "ああ、カタリナ、私の愛",
+        "fr": "Oh Catarina, mon amour",
         "chorus": false
       },
       {
@@ -1019,6 +1139,7 @@
         "en": "Come out, come out, Catarina",
         "ko": "나와라, 나와라, 카타리나",
         "ja": "出ておいで、出ておいで、カタリナ",
+        "fr": "Sors, sors, Catarina",
         "chorus": true
       },
       {
@@ -1027,6 +1148,7 @@
         "en": "Get out of the sea, get out of the sea",
         "ko": "바다에서 나와, 바다에서 나와",
         "ja": "海から出て、海から出て",
+        "fr": "Sors de la mer, sors de la mer",
         "chorus": false
       }
     ]
@@ -1042,6 +1164,7 @@
         "en": "Paranauê, paranauê, Paraná",
         "ko": "파라나우에, 파라나우에, 파라나",
         "ja": "パラナウエ、パラナウエ、パラナ",
+        "fr": "Paranauê, paranauê, Paraná",
         "chorus": true
       },
       {
@@ -1050,6 +1173,7 @@
         "en": "I will tell my wife, Paraná",
         "ko": "내 아내에게 말할 거야, 파라나",
         "ja": "妻に伝えます、パラナ",
+        "fr": "Je vais dire à ma femme, Paraná",
         "chorus": false
       },
       {
@@ -1058,6 +1182,7 @@
         "en": "Capoeira has defeated me, Paraná",
         "ko": "카포에라가 나를 이겼네, 파라나",
         "ja": "カポエイラに負けました、パラナ",
+        "fr": "La capoeira m'a vaincu, Paraná",
         "chorus": false
       },
       {
@@ -1066,6 +1191,7 @@
         "en": "I will leave for the favela, Paraná",
         "ko": "파벨라로 떠날 거야, 파라나",
         "ja": "ファヴェラに向かいます、パラナ",
+        "fr": "Je vais partir pour la favela, Paraná",
         "chorus": false
       },
       {
@@ -1074,6 +1200,7 @@
         "en": "As I have already said I will go, Paraná",
         "ko": "내가 이미 떠난다고 말했듯이, 파라나",
         "ja": "私は行くと言った通り、パラナ",
+        "fr": "Comme j'ai déjà dit, je vais y aller, Paraná",
         "chorus": false
       },
       {
@@ -1082,6 +1209,7 @@
         "en": "I will leave this land, Paraná",
         "ko": "이 땅을 떠날 거야, 파라나",
         "ja": "この地を去ります、パラナ",
+        "fr": "Je vais quitter cette terre, Paraná",
         "chorus": false
       },
       {
@@ -1090,6 +1218,7 @@
         "en": "I am not loved here, Paraná",
         "ko": "여기서는 사랑받지 못해, 파라나",
         "ja": "ここでは愛されていません、パラナ",
+        "fr": "Je ne suis pas aimé ici, Paraná",
         "chorus": false
       },
       {
@@ -1098,6 +1227,7 @@
         "en": "But in my homeland, I am, Paraná",
         "ko": "하지만 내 고향에서는 사랑받지, 파라나",
         "ja": "でも故郷では、パラナ",
+        "fr": "Mais dans ma terre, je le suis, Paraná",
         "chorus": false
       },
       {
@@ -1106,6 +1236,7 @@
         "en": "Singing with joy, Paraná",
         "ko": "기쁨으로 노래하며, 파라나",
         "ja": "喜びと共に歌い、パラナ",
+        "fr": "Chantant avec joie, Paraná",
         "chorus": false
       },
       {
@@ -1114,6 +1245,7 @@
         "en": "Youth is what kills, Paraná",
         "ko": "젊음이란 그것이 죽인다, 파라나",
         "ja": "若さこそが殺す、パラナ",
+        "fr": "La jeunesse est ce qui tue, Paraná",
         "chorus": false
       },
       {
@@ -1122,6 +1254,7 @@
         "en": "The ornament of a table, Paraná",
         "ko": "테이블의 장식은, 파라나",
         "ja": "テーブルの飾りは、パラナ",
+        "fr": "L'ornement d'une table, Paraná",
         "chorus": false
       },
       {
@@ -1130,6 +1263,7 @@
         "en": "It's a fork and a spoon, Paraná",
         "ko": "포크와 숟가락, 파라나",
         "ja": "フォークとスプーン、パラナ",
+        "fr": "C'est une fourchette et une cuillère, Paraná",
         "chorus": false
       },
       {
@@ -1138,6 +1272,7 @@
         "en": "The ornament of a bed, Paraná",
         "ko": "침대의 장식은, 파라나",
         "ja": "ベッドの飾りは、パラナ",
+        "fr": "L'ornement d'un lit, Paraná",
         "chorus": false
       },
       {
@@ -1146,6 +1281,7 @@
         "en": "It's a man and a woman, Paraná",
         "ko": "남자와 여자가, 파라나",
         "ja": "男性と女性、パラナ",
+        "fr": "C'est un homme et une femme, Paraná",
         "chorus": false
       },
       {
@@ -1154,6 +1290,7 @@
         "en": "For a woman to be beautiful, Paraná",
         "ko": "여자가 아름다워지려면, 파라나",
         "ja": "女性が美しくなるには、パラナ",
+        "fr": "Pour qu'une femme soit belle, Paraná",
         "chorus": false
       },
       {
@@ -1162,6 +1299,7 @@
         "en": "She doesn't need makeup, Paraná",
         "ko": "화장할 필요가 없어, 파라나",
         "ja": "化粧は必要ありません、パラナ",
+        "fr": "Elle n'a pas besoin de se maquiller, Paraná",
         "chorus": false
       }
     ]
@@ -1177,6 +1315,7 @@
         "en": "Goodbye good people, goodbye",
         "ko": "안녕히 계세요, 좋은 사람들아, 안녕히 계세요",
         "ja": "さようなら、良い人々よ、さようなら",
+        "fr": "Adieu, bon peuple, adieu",
         "chorus": true
       },
       {
@@ -1185,6 +1324,7 @@
         "en": "Goodbye, I'm leaving now",
         "ko": "안녕히 계세요, 저는 이제 떠납니다",
         "ja": "さようなら、私は今出発します",
+        "fr": "Adieu, je m'en vais maintenant",
         "chorus": true
       },
       {
@@ -1193,6 +1333,7 @@
         "en": "By the waves of the sea I came",
         "ko": "바다의 파도를 타고 내가 왔네",
         "ja": "海の波によって私は来ました",
+        "fr": "Par les vagues de la mer je suis venu",
         "chorus": true
       },
       {
@@ -1201,6 +1342,7 @@
         "en": "By the waves of the sea I'm leaving",
         "ko": "바다의 파도를 타고 나는 떠나네",
         "ja": "海の波によって私は去ります",
+        "fr": "Par les vagues de la mer je vais partir",
         "chorus": true
       }
     ]
@@ -1216,6 +1358,7 @@
         "en": "Zoom Zoom Zoom",
         "ko": "줌 줌 줌",
         "ja": "ズムズムズム",
+        "fr": "Zoum zoum zoum",
         "chorus": true
       },
       {
@@ -1224,6 +1367,7 @@
         "en": "Capoeira kills one",
         "ko": "카포에이라가 한 명을 죽인다",
         "ja": "カポエイラが一人を殺す",
+        "fr": "La capoeira tue un",
         "chorus": true
       },
       {
@@ -1232,6 +1376,7 @@
         "en": "Where there is the wasp",
         "ko": "말림본도가 있는 곳",
         "ja": "ハチがいる場所",
+        "fr": "Où est le marimbondo ?",
         "chorus": false
       },
       {
@@ -1240,6 +1385,7 @@
         "en": "O A O A E",
         "ko": "오 아 오 아 에",
         "ja": "オー アー オー アー エー",
+        "fr": "O A O A E",
         "chorus": false
       },
       {
@@ -1248,6 +1394,7 @@
         "en": "I wanna see it hit, I wanna see it fall",
         "ko": "나는 그것이 맞고 떨어지는 것을 보고 싶다",
         "ja": "当たって落ちるのを見たい",
+        "fr": "Je veux voir frapper, je veux voir tomber",
         "chorus": true
       }
     ]
@@ -1263,6 +1410,7 @@
         "en": "Dear, dear, dear ia ia",
         "ko": "사랑하는 그대여, 사랑하는 그대여, 사랑하는 그대여 ia ia",
         "ja": "愛しい人、愛しい人、愛しい人 ia ia",
+        "fr": "Chérie, chérie, chérie ia ia",
         "chorus": true
       },
       {
@@ -1271,6 +1419,7 @@
         "en": "Dear, dear, dear io io",
         "ko": "사랑하는 그대여, 사랑하는 그대여, 사랑하는 그대여 io io",
         "ja": "愛しい人、愛しい人、愛しい人 io io",
+        "fr": "Chérie, chérie, chérie io io",
         "chorus": true
       },
       {
@@ -1279,6 +1428,7 @@
         "en": "Oh dear, wash my abada",
         "ko": "오, 그대여, 내 아바다를 씻어주세요",
         "ja": "ああ、愛しい人、私のアバダを洗ってください",
+        "fr": "Oh chérie, lave mon abada",
         "chorus": false
       },
       {
@@ -1287,6 +1437,7 @@
         "en": "Today there is a roda, a roda by the sea",
         "ko": "오늘은 해변가에서 호다가 열립니다",
         "ja": "今日は海辺でホーダがあります",
+        "fr": "Aujourd'hui il y a une roda, une roda au bord de la mer",
         "chorus": false
       },
       {
@@ -1295,6 +1446,7 @@
         "en": "Oh dear, bring my berimbau",
         "ko": "오, 그대여, 내 베림바우를 가져다주세요",
         "ja": "ああ、愛しい人、私のベリンバウを持ってきてください",
+        "fr": "Oh chérie, apporte mon berimbau",
         "chorus": false
       },
       {
@@ -1303,6 +1455,7 @@
         "en": "Today there is a roda, my berimbau broke",
         "ko": "오늘은 호다가 열립니다, 내 베림바우가 부러졌습니다",
         "ja": "今日はホーダがあります、私のベリンバウが壊れました",
+        "fr": "Aujourd'hui il y a une roda, mon berimbau est cassé",
         "chorus": false
       },
       {
@@ -1311,6 +1464,7 @@
         "en": "Oh dear, bring my agogo",
         "ko": "오, 그대여, 내 아고고를 가져다주세요",
         "ja": "ああ、愛しい人、私のアゴゴを持ってきてください",
+        "fr": "Oh chérie, apporte mon agogô",
         "chorus": false
       },
       {
@@ -1319,6 +1473,7 @@
         "en": "Today there is a roda, Mestre Bimba has already arrived",
         "ko": "오늘은 호다가 열립니다, 빔바 선생님이 이미 도착하셨습니다",
         "ja": "今日はホーダがあります、ビンバ先生がもう到着しました",
+        "fr": "Aujourd'hui il y a une roda, Mestre Bimba est déjà arrivé",
         "chorus": false
       },
       {
@@ -1327,6 +1482,7 @@
         "en": "Oh dear, clap your hands please",
         "ko": "오, 그대여, 손뼉을 쳐주세요",
         "ja": "ああ、愛しい人、手を叩いてください",
+        "fr": "Oh chérie, frappe des mains s'il te plaît",
         "chorus": false
       },
       {
@@ -1335,6 +1491,7 @@
         "en": "Samba de roda, you can call me and I will go",
         "ko": "삼바 지 호다, 나를 부르면 갈게요",
         "ja": "サンバ・ジ・ホーダ、呼んでくれたら行きます",
+        "fr": "Samba de roda, tu peux m'appeler, j'y vais",
         "chorus": false
       }
     ]
@@ -1350,6 +1507,7 @@
         "en": "The kid return home",
         "ko": "그 아이가 집에 돌아왔다",
         "ja": "その子供が家に戻った",
+        "fr": "Le gamin est arrivé à la maison",
         "chorus": false
       },
       {
@@ -1358,6 +1516,7 @@
         "en": "Wondering what should I do",
         "ko": "내가 무엇을 할지 궁금해하며",
         "ja": "何をすべきかを不思議に思いながら",
+        "fr": "Demandant ce que j'allais faire",
         "chorus": false
       },
       {
@@ -1366,6 +1525,7 @@
         "en": "I’ll go to the jungle, to get beriba",
         "ko": "나는 정글에 가서 비리바를 가져올 거야",
         "ja": "ジャングルに行ってビリバを取る",
+        "fr": "Je vais dans la jungle, je vais chercher du biriba",
         "chorus": false
       },
       {
@@ -1374,6 +1534,7 @@
         "en": "To make my viola",
         "ko": "내 비올라를 만들기 위해",
         "ja": "自分のビオラを作るために",
+        "fr": "Pour faire ma viola",
         "chorus": false
       },
       {
@@ -1382,6 +1543,7 @@
         "en": "Tim, tim, tim there goes viola",
         "ko": "팀, 팀, 팀 비올라가 간다",
         "ja": "ティム、ティム、ティム ビオラが行く",
+        "fr": "Tim, tim, tim voilà la viola",
         "chorus": true
       },
       {
@@ -1390,6 +1552,7 @@
         "en": "Digue, digue, digue, digue, digue, digue, dom",
         "ko": "디그, 디그, 디그, 디그, 디그, 디그, 돔",
         "ja": "ディゲ、ディゲ、ディゲ、ディゲ、ディゲ、ディゲ、ドム",
+        "fr": "Digue, digue, digue, digue, digue, digue, dom",
         "chorus": false
       },
       {
@@ -1398,6 +1561,7 @@
         "en": "It’s just viola my honey, but it’s not a big viola",
         "ko": "그냥 비올라일 뿐이야, 내 사랑, 큰 비올라는 아니야",
         "ja": "ただのビオラよ、愛しい人、大きなビオラではない",
+        "fr": "C’est juste une viola mon amour, mais ce n’est pas une guitare",
         "chorus": false
       },
       {
@@ -1406,14 +1570,16 @@
         "en": "Brrrp! Digue, digue, digue, digue, digue, digue, dom",
         "ko": "브르릅! 디그, 디그, 디그, 디그, 디그, 디그, 돔",
         "ja": "ブルルプ! ディゲ、ディゲ、ディゲ、ディゲ、ディゲ、ディゲ、ドム",
+        "fr": "Brrrp ! Digue, digue, digue, digue, digue, digue, dom",
         "chorus": false
       },
       {
         "id": 9,
         "original": "A roda tava desanimada",
         "en": "The roda had been discouraging",
-        "ko": "로다가 침체된 상태였다",
+        "ko": "호다가 침체된 상태였다",
         "ja": "ホーダは沈んでいた",
+        "fr": "La roda était découragée",
         "chorus": false
       },
       {
@@ -1422,6 +1588,7 @@
         "en": "The people barely wanted to sing",
         "ko": "사람들이 거의 노래하고 싶지 않았다",
         "ja": "人々はほとんど歌いたがらなかった",
+        "fr": "Le peuple ne voulait presque pas chanter",
         "chorus": false
       },
       {
@@ -1430,14 +1597,16 @@
         "en": "I brought in viola",
         "ko": "내가 비올라를 가져왔다",
         "ja": "私がビオラを持ち込んだ",
+        "fr": "C’est moi qui ai pris la viola",
         "chorus": false
       },
       {
         "id": 12,
         "original": "A roda inteira começou a joga",
         "en": "The entire roda started playing",
-        "ko": "전체 로다가 연주를 시작했다",
+        "ko": "전체 호다가 연주를 시작했다",
         "ja": "ホーダ全体が演奏を始めた",
+        "fr": "Toute la roda a commencé à jouer",
         "chorus": false
       }
     ]
@@ -1453,6 +1622,7 @@
         "en": "la lae lae la",
         "ko": "라 라에 라에 라",
         "ja": "ラ ラエ ラエ ラ",
+        "fr": "la laé laé la",
         "chorus": true
       },
       {
@@ -1461,6 +1631,7 @@
         "en": "le le le lae la",
         "ko": "레 레 레 라에 라",
         "ja": "レ レ レ ラエ ラ",
+        "fr": "le le le laé la",
         "chorus": true
       },
       {
@@ -1469,6 +1640,7 @@
         "en": "Berimbau called for the game",
         "ko": "베림바우가 게임을 불렀다",
         "ja": "ベリンバウがゲームを呼んだ",
+        "fr": "Le berimbau a appelé pour le jeu",
         "chorus": false
       },
       {
@@ -1477,6 +1649,7 @@
         "en": "Pandeiro who answered",
         "ko": "판데이루가 대답했다",
         "ja": "パンデイロが応えた",
+        "fr": "Le pandeiro qui a répondu",
         "chorus": false
       },
       {
@@ -1485,6 +1658,7 @@
         "en": "The atabaque had already entered",
         "ko": "아타바케가 이미 들어왔다",
         "ja": "アタバケがすでに入った",
+        "fr": "L'atabaque est déjà entré",
         "chorus": false
       },
       {
@@ -1493,6 +1667,7 @@
         "en": "Master Bimba appeared",
         "ko": "마스터 빔바가 나타났다",
         "ja": "マスタービンバが現れた",
+        "fr": "Le Mestre Bimba est apparu",
         "chorus": false
       },
       {
@@ -1501,6 +1676,7 @@
         "en": "And Capoeira began",
         "ko": "그리고 카포에이라가 시작되었다",
         "ja": "そしてカポエイラが始まった",
+        "fr": "Et la capoeira a commencé",
         "chorus": false
       },
       {
@@ -1509,6 +1685,7 @@
         "en": "As a traditional roda",
         "ko": "전통적인 호다로",
         "ja": "伝統的なホーダとして",
+        "fr": "Comme une roda traditionnelle",
         "chorus": false
       },
       {
@@ -1517,6 +1694,7 @@
         "en": "It was dance and defense",
         "ko": "춤이자 방어였다",
         "ja": "ダンスと防御だった",
+        "fr": "C'était danse et défense",
         "chorus": false
       },
       {
@@ -1525,6 +1703,7 @@
         "en": "Black in the cane field",
         "ko": "사탕수수밭의 흑인",
         "ja": "サトウキビ畑の黒人",
+        "fr": "Noir dans la canne à sucre",
         "chorus": false
       },
       {
@@ -1533,6 +1712,7 @@
         "en": "Manoel dos Reis Machado",
         "ko": "마누엘 도스 레이스 마차도",
         "ja": "マヌエル・ドス・レイス・マシャド",
+        "fr": "Manoel dos Reis Machado",
         "chorus": false
       },
       {
@@ -1541,6 +1721,7 @@
         "en": "Longshoreman at the edge of the pier",
         "ko": "부두 가장자리의 하역 노동자",
         "ja": "桟橋の端にいる港湾労働者",
+        "fr": "Docker au bord du quai",
         "chorus": false
       },
       {
@@ -1549,6 +1730,7 @@
         "en": "Embedded Angola game",
         "ko": "앙골라 게임을 통합했다",
         "ja": "アンゴラのゲームを統合した",
+        "fr": "Incorpora le jeu d'Angola",
         "chorus": false
       },
       {
@@ -1557,6 +1739,7 @@
         "en": "With batuque and much more",
         "ko": "바투케와 더 많은 것들로",
         "ja": "バトゥケとさらに多くのものと共に",
+        "fr": "Avec batuque et bien plus",
         "chorus": false
       },
       {
@@ -1565,6 +1748,7 @@
         "en": "And at the pier Bimba created",
         "ko": "부두에서 빔바가 창조했다",
         "ja": "桟橋でビンバが創り出した",
+        "fr": "Et au quai Bimba a créé",
         "chorus": false
       },
       {
@@ -1573,6 +1757,7 @@
         "en": "Capoeira Regional",
         "ko": "카포에이라 리저널",
         "ja": "カポエイラ・リージョナル",
+        "fr": "La Capoeira Régionale",
         "chorus": false
       },
       {
@@ -1581,6 +1766,7 @@
         "en": "Spread to the whole world",
         "ko": "전 세계로 퍼졌다",
         "ja": "全世界に広がった",
+        "fr": "Réparti dans le monde entier",
         "chorus": false
       },
       {
@@ -1589,6 +1775,7 @@
         "en": "This national art",
         "ko": "이 국가적인 예술",
         "ja": "この国家的なアート",
+        "fr": "Cet art national",
         "chorus": false
       }
     ]
@@ -1604,6 +1791,7 @@
         "en": "The tide is high ioio, the tide is high iaia",
         "ko": "밀물이 높다 ioio, 밀물이 높다 iaia",
         "ja": "潮が高い ioio、潮が高い iaia",
+        "fr": "La marée est haute ioio, la marée est haute iaia",
         "chorus": true
       },
       {
@@ -1612,6 +1800,7 @@
         "en": "The tide rose",
         "ko": "밀물이 올랐다",
         "ja": "潮が上がった",
+        "fr": "La marée est montée",
         "chorus": false
       },
       {
@@ -1620,6 +1809,7 @@
         "en": "Rise tide",
         "ko": "밀물이 올라",
         "ja": "潮が上がる",
+        "fr": "Monte marée",
         "chorus": true
       },
       {
@@ -1628,6 +1818,7 @@
         "en": "The tide went down",
         "ko": "밀물이 내렸다",
         "ja": "潮が下がった",
+        "fr": "La marée est descendue",
         "chorus": false
       },
       {
@@ -1636,6 +1827,7 @@
         "en": "Fall tide",
         "ko": "밀물이 내려",
         "ja": "潮が下がる",
+        "fr": "Descend marée",
         "chorus": true
       },
       {
@@ -1644,6 +1836,7 @@
         "en": "Look at the tide of the tide",
         "ko": "밀물의 물결을 보아라",
         "ja": "潮の波を見て",
+        "fr": "Regarde la marée de la marée",
         "chorus": false
       },
       {
@@ -1652,6 +1845,7 @@
         "en": "I went to the tide island",
         "ko": "나는 밀물 섬으로 갔다",
         "ja": "潮の島に行った",
+        "fr": "Je suis allé à l'île de la marée",
         "chorus": true
       }
     ]
@@ -1667,6 +1861,7 @@
         "en": "Send the leco cajue, send the loia",
         "ko": "레코 카주에를 보내고, 로이아를 보내",
         "ja": "レコカジュエを送り、ロイアを送る",
+        "fr": "Envoie le leco cajue, envoie le loia",
         "chorus": true
       },
       {
@@ -1675,6 +1870,7 @@
         "en": "Send the leco cajue, send the loia",
         "ko": "레코 카주에를 보내고, 로이아를 보내",
         "ja": "レコカジュエを送り、ロイアを送る",
+        "fr": "Envoie le leco cajue, envoie le loia",
         "chorus": true
       },
       {
@@ -1683,6 +1879,7 @@
         "en": "Send the leco",
         "ko": "레코를 보내",
         "ja": "レコを送る",
+        "fr": "Envoie le leco",
         "chorus": false
       },
       {
@@ -1691,6 +1888,7 @@
         "en": "Cajue",
         "ko": "카주에",
         "ja": "カジュエ",
+        "fr": "Cajue",
         "chorus": true
       },
       {
@@ -1699,6 +1897,7 @@
         "en": "Send the loia",
         "ko": "로이아를 보내",
         "ja": "ロイアを送る",
+        "fr": "Envoie le loia",
         "chorus": false
       },
       {
@@ -1707,6 +1906,7 @@
         "en": "Cajue",
         "ko": "카주에",
         "ja": "カジュエ",
+        "fr": "Cajue",
         "chorus": true
       }
     ]
@@ -1722,6 +1922,7 @@
         "en": "I am not from here",
         "ko": "나는 여기 사람이 아니야",
         "ja": "私はここ出身ではありません",
+        "fr": "Je ne suis pas d'ici",
         "chorus": false
       },
       {
@@ -1730,6 +1931,7 @@
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
         "ja": "[孤独な船乗り]",
+        "fr": "[Marin solitaire]",
         "chorus": true
       },
       {
@@ -1738,6 +1940,7 @@
         "en": "I have no love",
         "ko": "나는 사랑이 없어",
         "ja": "私は愛がありません",
+        "fr": "Je n'ai pas d'amour",
         "chorus": false
       },
       {
@@ -1746,6 +1949,7 @@
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
         "ja": "[孤独な船乗り]",
+        "fr": "[Marin solitaire]",
         "chorus": true
       },
       {
@@ -1754,6 +1958,7 @@
         "en": "I am from Bahia",
         "ko": "나는 바이아 출신이야",
         "ja": "私はバイア出身です",
+        "fr": "Je viens de Bahia",
         "chorus": false
       },
       {
@@ -1762,6 +1967,7 @@
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
         "ja": "[孤独な船乗り]",
+        "fr": "[Marin solitaire]",
         "chorus": true
       },
       {
@@ -1770,6 +1976,7 @@
         "en": "From São Salvador",
         "ko": "상 살바도르 출신이야",
         "ja": "サン・サルバドール出身です",
+        "fr": "De São Salvador",
         "chorus": false
       },
       {
@@ -1778,6 +1985,7 @@
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
         "ja": "[孤独な船乗り]",
+        "fr": "[Marin solitaire]",
         "chorus": true
       },
       {
@@ -1786,6 +1994,7 @@
         "en": "Oh, sailor sailor",
         "ko": "오, 선원 선원",
         "ja": "ああ、船乗り 船乗り",
+        "fr": "Oh, marin marin",
         "chorus": false
       },
       {
@@ -1794,6 +2003,7 @@
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
         "ja": "[孤独な船乗り]",
+        "fr": "[Marin solitaire]",
         "chorus": true
       },
       {
@@ -1802,6 +2012,7 @@
         "en": "Who taught you to swim",
         "ko": "누가 너에게 수영을 가르쳤니",
         "ja": "誰があなたに泳ぎを教えましたか",
+        "fr": "Qui t'a appris à nager",
         "chorus": false
       },
       {
@@ -1810,6 +2021,7 @@
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
         "ja": "[孤独な船乗り]",
+        "fr": "[Marin solitaire]",
         "chorus": true
       },
       {
@@ -1818,6 +2030,7 @@
         "en": "Was it the ship's fall",
         "ko": "배가 넘어졌던 건가",
         "ja": "船の転覆でしたか",
+        "fr": "Était-ce le naufrage du navire",
         "chorus": false
       },
       {
@@ -1826,6 +2039,7 @@
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
         "ja": "[孤独な船乗り]",
+        "fr": "[Marin solitaire]",
         "chorus": true
       },
       {
@@ -1834,6 +2048,7 @@
         "en": "Or was it the sway of the sea",
         "ko": "아니면 바다의 흔들림이었나",
         "ja": "それとも海の揺れでしたか",
+        "fr": "Ou était-ce le balancement de la mer",
         "chorus": false
       },
       {
@@ -1842,6 +2057,7 @@
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
         "ja": "[孤独な船乗り]",
+        "fr": "[Marin solitaire]",
         "chorus": true
       },
       {
@@ -1850,6 +2066,7 @@
         "en": "Here he comes, here he comes",
         "ko": "그가 온다, 그가 온다",
         "ja": "彼が来る、彼が来る",
+        "fr": "Le voilà, le voilà",
         "chorus": false
       },
       {
@@ -1858,6 +2075,7 @@
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
         "ja": "[孤独な船乗り]",
+        "fr": "[Marin solitaire]",
         "chorus": true
       },
       {
@@ -1866,6 +2084,7 @@
         "en": "Look how dashing he comes",
         "ko": "그가 얼마나 멋지게 오는지 봐",
         "ja": "彼がどれほど華麗に来るか見て",
+        "fr": "Regarde comme il vient élégant",
         "chorus": false
       },
       {
@@ -1874,6 +2093,7 @@
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
         "ja": "[孤独な船乗り]",
+        "fr": "[Marin solitaire]",
         "chorus": true
       },
       {
@@ -1882,6 +2102,7 @@
         "en": "All in white",
         "ko": "모두 흰색으로",
         "ja": "すべて白で",
+        "fr": "Tout en blanc",
         "chorus": false
       },
       {
@@ -1890,6 +2111,7 @@
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
         "ja": "[孤独な船乗り]",
+        "fr": "[Marin solitaire]",
         "chorus": true
       },
       {
@@ -1898,6 +2120,7 @@
         "en": "With his little hat",
         "ko": "작은 모자를 쓰고",
         "ja": "彼の小さな帽子をかぶって",
+        "fr": "Avec son petit chapeau",
         "chorus": false
       },
       {
@@ -1906,6 +2129,7 @@
         "en": "[Lonely Sailor]",
         "ko": "[외로운 선원]",
         "ja": "[孤独な船乗り]",
+        "fr": "[Marin solitaire]",
         "chorus": true
       }
     ]
@@ -1921,6 +2145,7 @@
         "en": "It's the master's son's",
         "ko": "주인의 아들의 것",
         "ja": "主人の息子のもの",
+        "fr": "C'est au fils du maître",
         "chorus": true
       },
       {
@@ -1929,6 +2154,7 @@
         "en": "It's the master's daughter's",
         "ko": "주인의 딸의 것",
         "ja": "主人の娘のもの",
+        "fr": "C'est à la fille du maître",
         "chorus": true
       },
       {
@@ -1937,6 +2163,7 @@
         "en": "Capoeira Angola played at the seashore",
         "ko": "해변에서 하는 카포에이라 앙골라",
         "ja": "海辺で行われるカポエイラ・アンゴラ",
+        "fr": "Capoeira Angola jouée au bord de la mer",
         "chorus": true
       }
     ]
@@ -1952,6 +2179,7 @@
         "en": "Saint Anthony, I want water",
         "ko": "성 안토니오, 물을 주세요",
         "ja": "聖アントニオ、水が欲しいです",
+        "fr": "Saint Antoine, je veux de l'eau",
         "chorus": true
       },
       {
@@ -1960,6 +2188,7 @@
         "en": "Saint Anthony, I want water",
         "ko": "성 안토니오, 물을 주세요",
         "ja": "聖アントニオ、水が欲しいです",
+        "fr": "Saint Antoine, je veux de l'eau",
         "chorus": true
       },
       {
@@ -1968,6 +2197,7 @@
         "en": "I want water to drink",
         "ko": "마실 물이 필요해요",
         "ja": "飲むための水が欲しいです",
+        "fr": "Je veux de l'eau pour boire",
         "chorus": true
       },
       {
@@ -1976,6 +2206,7 @@
         "en": "I want water to wash",
         "ko": "씻을 물이 필요해요",
         "ja": "洗うための水が欲しいです",
+        "fr": "Je veux de l'eau pour laver",
         "chorus": true
       },
       {
@@ -1984,6 +2215,7 @@
         "en": "I want water to bless",
         "ko": "축복할 물이 필요해요",
         "ja": "祝福するための水が欲しいです",
+        "fr": "Je veux de l'eau pour bénir",
         "chorus": true
       },
       {
@@ -1992,6 +2224,7 @@
         "en": "I want water",
         "ko": "물을 원해요",
         "ja": "水が欲しいです",
+        "fr": "Je veux de l'eau",
         "chorus": true
       }
     ]
@@ -2007,6 +2240,7 @@
         "en": "Many beats and drums were playing",
         "ko": "많은 북소리와 드럼 소리가 연주되었다",
         "ja": "多くのビートと太鼓が鳴り響いていた",
+        "fr": "Beaucoup de battements et de tambours jouaient",
         "chorus": false
       },
       {
@@ -2015,6 +2249,7 @@
         "en": "Oh how I miss my people, my nation",
         "ko": "오, 내 사람들, 내 나라가 그립다",
         "ja": "ああ、私の人々、私の国が恋しい",
+        "fr": "Oh comme mon peuple, ma nation me manque",
         "chorus": false
       },
       {
@@ -2023,6 +2258,7 @@
         "en": "Caboclo with a spear, warrior of Zambi",
         "ko": "창을 든 카복로, 잠비의 전사",
         "ja": "槍を持つカボクロ、ザンビの戦士",
+        "fr": "Caboclo avec une lance, guerrier de Zambi",
         "chorus": false
       },
       {
@@ -2031,6 +2267,7 @@
         "en": "Open the path so I can walk",
         "ko": "내가 걸을 수 있도록 길을 열어줘",
         "ja": "私が歩けるように道を開いてください",
+        "fr": "Ouvre le chemin pour que je puisse marcher",
         "chorus": false
       },
       {
@@ -2039,6 +2276,7 @@
         "en": "Saint Anthony of battle, make me a fighter",
         "ko": "전투의 성 안토니오여, 나를 전사로 만들어 주십시오",
         "ja": "戦いの聖アンソニーよ、私を戦士にしてください",
+        "fr": "Saint Antoine de bataille, fais de moi un combattant",
         "chorus": false
       },
       {
@@ -2047,6 +2285,7 @@
         "en": "So that the master overseer cannot enslave me",
         "ko": "감독관이 나를 노예로 삼지 못하도록",
         "ja": "監督者が私を奴隷にできないように",
+        "fr": "Pour que le maître surveillant ne puisse pas m'asservir",
         "chorus": false
       },
       {
@@ -2055,6 +2294,7 @@
         "en": "Help me, Our Lady!",
         "ko": "도와주세요, 성모님!",
         "ja": "助けてください、聖母様！",
+        "fr": "Aide-moi, Notre-Dame !",
         "chorus": false
       },
       {
@@ -2063,6 +2303,7 @@
         "en": "In the magic of Angola, oh iaiá",
         "ko": "앙골라의 마법 속에서, 오 아이아",
         "ja": "アンゴラの魔法の中で、オー イアイア",
+        "fr": "Dans la mandinga d'Angola ô iaiá",
         "chorus": false
       },
       {
@@ -2071,6 +2312,7 @@
         "en": "So I can roam",
         "ko": "내가 떠돌 수 있도록",
         "ja": "私がさまよえるように",
+        "fr": "Pour que je puisse errer",
         "chorus": false
       },
       {
@@ -2079,6 +2321,7 @@
         "en": "Oh! In the sound of the urucungo",
         "ko": "오! 우루쿵고의 소리에서",
         "ja": "オー！ ウルクンゴの音で",
+        "fr": "Oh ! Au son de l'urucungo",
         "chorus": false
       },
       {
@@ -2087,6 +2330,7 @@
         "en": "Which is a musical bow, comrade",
         "ko": "음악 활인 카마라",
         "ja": "音楽の弓であるカマラ",
+        "fr": "Qui est un arc musical, camarade",
         "chorus": false
       },
       {
@@ -2095,6 +2339,7 @@
         "en": "Hail my God!",
         "ko": "내 하나님 만세!",
         "ja": "私の神を称えよ！",
+        "fr": "Vive mon Dieu !",
         "chorus": false
       },
       {
@@ -2103,6 +2348,7 @@
         "en": "Long live my God, camará!",
         "ko": "나의 신이여 영원하소서, 카마라!",
         "ja": "私の神よ、永遠に続け、カマラ！",
+        "fr": "Iê vive mon Dieu, camarade !",
         "chorus": true
       },
       {
@@ -2111,6 +2357,7 @@
         "en": "Hail my master!",
         "ko": "내 스승 만세!",
         "ja": "私の師匠を称えよ！",
+        "fr": "Iê vive mon maître !",
         "chorus": false
       },
       {
@@ -2119,6 +2366,7 @@
         "en": "Hail my master!",
         "ko": "나의 스승이여 영원하소서, 카마라!",
         "ja": "私の師匠よ、友よ、永遠に続け！",
+        "fr": "Iê vive mon maître, camarade !",
         "chorus": true
       },
       {
@@ -2127,6 +2375,7 @@
         "en": "Hail who taught me!",
         "ko": "나를 가르쳐 준 분 만세!",
         "ja": "私を教えてくれた人を称えよ！",
+        "fr": "Iê à celui qui m'a enseigné !",
         "chorus": false
       },
       {
@@ -2135,6 +2384,7 @@
         "en": "Hail the one who taught me, my friend!",
         "ko": "나를 가르쳐 준 분이여, 친구여!",
         "ja": "私に教えてくれた人よ、友よ、永遠に続け！",
+        "fr": "Iê à celui qui m'a enseigné, camarade !",
         "chorus": true
       },
       {
@@ -2143,6 +2393,7 @@
         "en": "Angolê, angolê iaiá, angolê ioiô",
         "ko": "앙골레, 앙골레 아이아, 앙골레 이오요",
         "ja": "アンゴレ、アンゴレ イアイア、アンゴレ イオヨ",
+        "fr": "Angolê, angolê iaiá, angolê ioiô",
         "chorus": true
       },
       {
@@ -2151,6 +2402,7 @@
         "en": "I am a slave, my lord, angolê",
         "ko": "나는 노예입니다, 주인님, 앙골레",
         "ja": "私は奴隷です、主人様、アンゴレ",
+        "fr": "Je suis esclave, mon seigneur, angolê",
         "chorus": false
       },
       {
@@ -2159,6 +2411,7 @@
         "en": "The story I tell of the suffering black",
         "ko": "내가 들려주는 고통받는 흑인의 이야기",
         "ja": "私が語る苦しむ黒人の物語",
+        "fr": "L'histoire que je raconte du noir souffrant",
         "chorus": false
       },
       {
@@ -2167,6 +2420,7 @@
         "en": "I come to acclaim the sad mills",
         "ko": "슬픈 제분소를 찬양하러 왔습니다",
         "ja": "悲しい製粉所を称賛しに来ました",
+        "fr": "Je viens acclamer les tristes moulins",
         "chorus": false
       },
       {
@@ -2175,6 +2429,7 @@
         "en": "Deported from the land, they lived united",
         "ko": "땅에서 추방되어, 그들은 단결해서 살았습니다",
         "ja": "土地から追放され、彼らは団結して暮らしていました",
+        "fr": "Déportés de la terre, ils vivaient unis",
         "chorus": false
       },
       {
@@ -2183,13 +2438,14 @@
         "en": "Thrown into basements to suffer and bleed",
         "ko": "고통과 피 흘림을 위해 지하실로 던져졌다",
         "ja": "苦しみ、血を流すために地下室に投げ込まれた",
+        "fr": "Jetés dans les caves pour souffrir et saigner",
         "chorus": false
       }
     ]
   },
   {
     "id": "8slE1UskRS4",
-    "title": "Maranhão",
+    "title": "Maranhão",
     "slug": "maranhao",
     "lyrics": [
       {
@@ -2198,6 +2454,7 @@
         "en": "Maranhão Maranhão, o o",
         "ko": "마란양 마란양, 오 오",
         "ja": "マランヨン マランヨン、オ オ",
+        "fr": "Maranhão Maranhão, o o",
         "chorus": true
       },
       {
@@ -2206,6 +2463,7 @@
         "en": "Oh, I miss my Maranhão, o o",
         "ko": "오, 나의 마란양이 그립다, 오 오",
         "ja": "ああ、私のマランヨンが恋しい、オ オ",
+        "fr": "Oh, comme mon Maranhão me manque, o o",
         "chorus": true
       },
       {
@@ -2214,6 +2472,7 @@
         "en": "Girl lets her hair down under the lemon tree",
         "ko": "소녀가 레몬나무 아래에서 머리를 풀었다",
         "ja": "少女がレモンの木の下で髪をほどく",
+        "fr": "La fille laisse tomber ses cheveux sous le citronnier",
         "chorus": false
       },
       {
@@ -2222,6 +2481,7 @@
         "en": "If the lemon tree dies, o o",
         "ko": "레몬나무가 죽으면, 오 오",
         "ja": "レモンの木が枯れたら、オ オ",
+        "fr": "Si le citronnier meurt, o o",
         "chorus": false
       },
       {
@@ -2230,6 +2490,7 @@
         "en": "I will pay with my money, o o",
         "ko": "나는 내 돈으로 지불하리라, 오 오",
         "ja": "私は自分のお金で払います、オ オ",
+        "fr": "Je paierai avec mon argent, o o",
         "chorus": false
       },
       {
@@ -2238,6 +2499,7 @@
         "en": "In the deep sea, there's a golden fish",
         "ko": "깊은 바다에는 황금 물고기가 있다",
         "ja": "深い海には金色の魚がいる",
+        "fr": "Au fond de la mer, il y a un poisson doré",
         "chorus": false
       },
       {
@@ -2246,6 +2508,7 @@
         "en": "Beautiful girl, I am your boyfriend",
         "ko": "아름다운 소녀여, 나는 너의 연인이야",
         "ja": "美しい少女よ、私はあなたの恋人です",
+        "fr": "Belle fille, je suis ton petit ami",
         "chorus": false
       },
       {
@@ -2254,6 +2517,7 @@
         "en": "In the deep sea, there's a scaled fish",
         "ko": "깊은 바다에는 비늘 달린 물고기가 있다",
         "ja": "深い海にはウロコのある魚がいる",
+        "fr": "Au fond de la mer, il y a un poisson écailleux",
         "chorus": false
       },
       {
@@ -2262,6 +2526,7 @@
         "en": "Beautiful girl, it's me who loves you",
         "ko": "아름다운 소녀여, 내가 널 사랑하는 사람이야",
         "ja": "美しい少女よ、あなたを愛しているのは私です",
+        "fr": "Belle fille, c'est moi qui t'aime",
         "chorus": false
       },
       {
@@ -2270,6 +2535,7 @@
         "en": "Combing her hair with a fin comb",
         "ko": "그녀의 머리를 지느러미 빗으로 빗는다",
         "ja": "彼女の髪をヒレの櫛でとかす",
+        "fr": "Peignant ses cheveux avec un peigne en nageoire",
         "chorus": false
       },
       {
@@ -2278,6 +2544,7 @@
         "en": "I wish I were the lamp that lights up your bed",
         "ko": "나는 너의 침대를 비추는 등불이 되고 싶다",
         "ja": "あなたのベッドを照らすランプになりたい",
+        "fr": "J'aimerais être la lampe qui éclaire ton lit",
         "chorus": false
       }
     ]
@@ -2293,6 +2560,7 @@
         "en": "Maracangalha ê ê",
         "ko": "마라칸갈랴 ê ê",
         "ja": "マラカンガリャ ê ê",
+        "fr": "Maracangalha ê ê",
         "chorus": true
       },
       {
@@ -2301,6 +2569,7 @@
         "en": "Maracangalha ê a",
         "ko": "마라칸갈랴 ê a",
         "ja": "マラカンガリャ ê a",
+        "fr": "Maracangalha ê a",
         "chorus": true
       },
       {
@@ -2309,6 +2578,7 @@
         "en": "Maracangalha ê ê",
         "ko": "마라칸갈랴 ê ê",
         "ja": "マラカンガリャ ê ê",
+        "fr": "Maracangalha ê ê",
         "chorus": true
       },
       {
@@ -2317,6 +2587,7 @@
         "en": "Maracangalha ê a",
         "ko": "마라칸갈랴 ê a",
         "ja": "マラカンガリャ ê a",
+        "fr": "Maracangalha ê a",
         "chorus": true
       }
     ]
@@ -2332,6 +2603,7 @@
         "en": "When I come from Luanda, I do not come alone",
         "ko": "나는 루안다에서 올 때 혼자가 아니야",
         "ja": "ルアンダから来るとき、一人ではありません",
+        "fr": "Quand je viens de Luanda, je ne viens pas seul",
         "chorus": true
       },
       {
@@ -2340,6 +2612,7 @@
         "en": "I bring my tired body, a bitter heart",
         "ko": "피곤한 몸과 쓰라린 마음을 가져와요",
         "ja": "疲れた体と苦い心を持ってきます",
+        "fr": "J'apporte mon corps fatigué, un cœur amer",
         "chorus": false
       },
       {
@@ -2348,6 +2621,7 @@
         "en": "A longing that evokes pity",
         "ko": "안타까움을 불러일으키는 그리움",
         "ja": "哀れみを誘う郷愁",
+        "fr": "Une nostalgie qui suscite la pitié",
         "chorus": false
       },
       {
@@ -2356,6 +2630,7 @@
         "en": "When I come from Luanda, I do not come alone",
         "ko": "나는 루안다에서 올 때 혼자가 아니야",
         "ja": "ルアンダから来るとき、一人ではありません",
+        "fr": "Quand je viens de Luanda, je ne viens pas seul",
         "chorus": true
       },
       {
@@ -2364,6 +2639,7 @@
         "en": "I was betrayed and brought by cowardice",
         "ko": "나는 배신당했고 비겁함으로 끌려왔어",
         "ja": "裏切られ、臆病さにより連れてこられた",
+        "fr": "J'ai été emprisonné par trahison, amené par lâcheté",
         "chorus": false
       },
       {
@@ -2372,6 +2648,7 @@
         "en": "If it were an honest fight, no one would have brought me from there",
         "ko": "정직한 싸움이었다면 아무도 날 거기서 데려오지 못했을 거야",
         "ja": "正々堂々とした戦いなら、誰も私をそこから連れてこれなかっただろう",
+        "fr": "Si c'était un combat honnête, personne ne m'aurait amené de là-bas",
         "chorus": false
       },
       {
@@ -2380,6 +2657,7 @@
         "en": "On my skin, I brought the night; in my mouth, the moonlight shines",
         "ko": "내 피부에는 밤을, 내 입에는 달빛이 빛나",
         "ja": "肌には夜を、口には月明かりを持ってきた",
+        "fr": "Sur ma peau j'ai apporté la nuit; dans ma bouche brille le clair de lune",
         "chorus": false
       },
       {
@@ -2388,6 +2666,7 @@
         "en": "I bring the strength and magic of the orixás",
         "ko": "오리샤들의 힘과 마법을 가져와요",
         "ja": "オリシャの力と魔法を持ってきました",
+        "fr": "J'apporte la force et la magie présentes des orixás",
         "chorus": false
       },
       {
@@ -2396,6 +2675,7 @@
         "en": "I carry the burning weight of this evil on my back",
         "ko": "내 등에 이 악의 무거운 짐이 타오르고 있어",
         "ja": "背中にはこの悪の重みが燃えています",
+        "fr": "Je porte sur mon dos le poids brûlant de ce mal",
         "chorus": false
       },
       {
@@ -2404,6 +2684,7 @@
         "en": "I bring echoing in my chest the cry of freedom",
         "ko": "내 가슴에 자유의 외침이 울려 퍼져요",
         "ja": "胸に自由の叫びがこだまする",
+        "fr": "Je porte en écho dans ma poitrine le cri de liberté",
         "chorus": false
       },
       {
@@ -2412,6 +2693,7 @@
         "en": "A cry of a noble race, a cry of a warrior race",
         "ko": "고귀한 민족의 외침, 전사 민족의 외침",
         "ja": "高貴な種族の叫び、戦士の種族の叫び",
+        "fr": "C'est le cri d'une race noble, le cri d'une race guerrière",
         "chorus": false
       },
       {
@@ -2420,6 +2702,7 @@
         "en": "A cry of the black race, a cry of capoeira",
         "ko": "흑인 민족의 외침, 카포에라의 외침",
         "ja": "黒人種の叫び、カポエイラの叫び",
+        "fr": "C'est le cri de la race noire, c'est le cri de la capoeira",
         "chorus": false
       },
       {
@@ -2428,6 +2711,7 @@
         "en": "When I come from Luanda, I do not come alone",
         "ko": "나는 루안다에서 올 때 혼자가 아니야",
         "ja": "ルアンダから来るとき、一人ではありません",
+        "fr": "Quand je viens de Luanda, je ne viens pas seul",
         "chorus": true
       }
     ]
@@ -2443,6 +2727,7 @@
         "en": "It’s so good to be with you",
         "ko": "당신과 함께 있어서 정말 좋아요",
         "ja": "あなたと一緒にいられて本当に幸せです",
+        "fr": "Comme c'est bon d'être avec toi",
         "chorus": false
       },
       {
@@ -2451,6 +2736,7 @@
         "en": "Here in this Roda",
         "ko": "이 원 안에서",
         "ja": "この輪の中で",
+        "fr": "Ici dans cette roda",
         "chorus": false
       },
       {
@@ -2459,6 +2745,7 @@
         "en": "With this crowd",
         "ko": "이 무리와 함께",
         "ja": "このグループと一緒に",
+        "fr": "Avec ce groupe",
         "chorus": false
       },
       {
@@ -2467,6 +2754,7 @@
         "en": "Bahia Axe, Axe Bahia",
         "ko": "바이아 아쉐, 아쉐 바이아",
         "ja": "バイーア・アシェ、アシェ・バイーア",
+        "fr": "Bahia axé axé Bahia",
         "chorus": true
       },
       {
@@ -2475,6 +2763,7 @@
         "en": "Bahia Axe, Axe Bahia",
         "ko": "바이아 아쉐, 아쉐 바이아",
         "ja": "バイーア・アシェ、アシェ・バイーア",
+        "fr": "Bahia axé axé Bahia",
         "chorus": true
       },
       {
@@ -2483,6 +2772,7 @@
         "en": "io io io io io io io io",
         "ko": "이오 이오 이오 이오 이오 이오 이오 이오",
         "ja": "イオ イオ イオ イオ イオ イオ イオ イオ",
+        "fr": "io io io io io io io io",
         "chorus": true
       },
       {
@@ -2491,6 +2781,7 @@
         "en": "io io io io io io io io",
         "ko": "이오 이오 이오 이오 이오 이오 이오 이오",
         "ja": "イオ イオ イオ イオ イオ イオ イオ イオ",
+        "fr": "io io io io io io io io",
         "chorus": true
       },
       {
@@ -2499,6 +2790,7 @@
         "en": "The winds",
         "ko": "바람",
         "ja": "風",
+        "fr": "Les vents",
         "chorus": false
       },
       {
@@ -2507,6 +2799,7 @@
         "en": "Blowing so beautiful",
         "ko": "아름답게 불어오는",
         "ja": "美しく吹いている",
+        "fr": "qui soufflent si beaux",
         "chorus": false
       },
       {
@@ -2515,6 +2808,7 @@
         "en": "Moving the trees",
         "ko": "야자수를 흔들며",
         "ja": "ヤシの木を揺らして",
+        "fr": "qui agitent les cocotiers",
         "chorus": false
       },
       {
@@ -2523,6 +2817,7 @@
         "en": "This is the best",
         "ko": "정말 멋져요",
         "ja": "本当に素晴らしい",
+        "fr": "c'est trop beau",
         "chorus": false
       },
       {
@@ -2531,6 +2826,7 @@
         "en": "Bahia axé axé Bahia",
         "ko": "바이아 아쉐, 아쉐 바이아",
         "ja": "バイーア・アシェ、アシェ・バイーア",
+        "fr": "Bahia axé axé Bahia",
         "chorus": true
       },
       {
@@ -2539,6 +2835,7 @@
         "en": "Bahia axé axé Bahia",
         "ko": "바이아 아쉐, 아쉐 바이아",
         "ja": "バイーア・アシェ、アシェ・バイーア",
+        "fr": "Bahia axé axé Bahia",
         "chorus": true
       },
       {
@@ -2547,6 +2844,7 @@
         "en": "io io io io io io io io",
         "ko": "이오 이오 이오 이오 이오 이오 이오 이오",
         "ja": "イオ イオ イオ イオ イオ イオ イオ イオ",
+        "fr": "io io io io io io io io",
         "chorus": true
       },
       {
@@ -2555,6 +2853,7 @@
         "en": "io io io io io io io io",
         "ko": "이오 이오 이오 이오 이오 이오 이오 이오",
         "ja": "イオ イオ イオ イオ イオ イオ イオ イオ",
+        "fr": "io io io io io io io io",
         "chorus": true
       }
     ],
@@ -2571,6 +2870,7 @@
         "en": "Saint Anthony my father",
         "ko": "성 안토니오, 나의 아버지",
         "ja": "聖アントニオ、私の父",
+        "fr": "Saint Antoine mon père",
         "chorus": true
       },
       {
@@ -2579,6 +2879,7 @@
         "en": "where is the rasteira",
         "ko": "하스테이라는 어디에 있나요",
         "ja": "ラステイラはどこですか",
+        "fr": "où est la rasteira",
         "chorus": true
       },
       {
@@ -2587,6 +2888,7 @@
         "en": "that doesn't come out",
         "ko": "나오지 않는",
         "ja": "出てこない",
+        "fr": "qui ne sort pas",
         "chorus": true
       }
     ],
@@ -2603,6 +2905,7 @@
         "en": "Jatobá floats in the lagoon.",
         "ko": "자토바는 연못에 뜬다.",
         "ja": "ジャトバは池に浮かぶ。",
+        "fr": "Le jatobá flotte dans la lagune.",
         "chorus": true
       },
       {
@@ -2611,6 +2914,7 @@
         "en": "it’s hardwood timber",
         "ko": "그것은 견고한 목재다",
         "ja": "それは硬材です。",
+        "fr": "C'est du bois dur.",
         "chorus": true
       },
       {
@@ -2619,6 +2923,7 @@
         "en": "to make a canoe",
         "ko": "카누를 만들기 위해",
         "ja": "カヌーを作るために",
+        "fr": "Pour faire une pirogue.",
         "chorus": true
       }
     ],
@@ -2635,6 +2940,7 @@
         "en": "In the Brazil of capoeira",
         "ko": "카포에이라의 브라질에서",
         "ja": "カポエイラのブラジルで",
+        "fr": "Dans le Brésil de la capoeira",
         "chorus": true
       },
       {
@@ -2643,6 +2949,7 @@
         "en": "the snake took a sweep",
         "ko": "뱀이 하스테이라를 당했어",
         "ja": "ヘビがスイープを受けた",
+        "fr": "le serpent a pris une balayette",
         "chorus": true
       }
     ],

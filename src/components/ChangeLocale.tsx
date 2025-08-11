@@ -58,6 +58,10 @@ export default function ChangeLocale() {
           <div onClick={() => handleLocaleChange("ja")} className='p-2'>
             🇯🇵 日本語
           </div>
+          <div className='border-t'></div>
+          <div onClick={() => handleLocaleChange("fr")} className='p-2'>
+            🇫🇷 Français
+          </div>
         </div>
       )}
     </div>

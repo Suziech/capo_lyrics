@@ -50,6 +50,7 @@ export default function Lyrics({
                 {locale === "en" && <p className='text-gray-500'>{item.en}</p>}
                 {locale === "ko" && <p className='text-gray-500'>{item.ko}</p>}
                 {locale === "ja" && <p className='text-gray-500'>{item.ja}</p>}
+                {locale === "fr" && <p className='text-gray-500'>{item.fr}</p>}
               </li>
             ))}
           </ul>
