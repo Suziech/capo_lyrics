@@ -47,19 +47,27 @@ export default function ChangeLocale() {
       </div>
       {isOpen && (
         <div className='absolute top-10 right-0 bg-white border rounded-md w-[110px] text-black p-1 z-10'>
-          <div onClick={() => handleLocaleChange("en")} className='p-2'>
+          <div
+            onClick={() => handleLocaleChange("en")}
+            className='p-2 whitespace-nowrap'>
             🇬🇧 English
           </div>
           <div className='border-t'></div>
-          <div onClick={() => handleLocaleChange("ko")} className='p-2'>
+          <div
+            onClick={() => handleLocaleChange("ko")}
+            className='p-2 whitespace-nowrap'>
             🇰🇷 한국어
           </div>
           <div className='border-t'></div>
-          <div onClick={() => handleLocaleChange("ja")} className='p-2'>
+          <div
+            onClick={() => handleLocaleChange("ja")}
+            className='p-2 whitespace-nowrap'>
             🇯🇵 日本語
           </div>
           <div className='border-t'></div>
-          <div onClick={() => handleLocaleChange("fr")} className='p-2'>
+          <div
+            onClick={() => handleLocaleChange("fr")}
+            className='p-2 whitespace-nowrap'>
             🇫🇷 Français
           </div>
         </div>
