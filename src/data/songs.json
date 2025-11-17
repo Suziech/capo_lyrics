@@ -2954,5 +2954,139 @@
       }
     ],
     "styles": ["Angola", "Regional"]
+  },
+  {
+    "id": "4VCxTZC-nMM",
+    "title": "Umida Senzala",
+    "slug": "umida_senzala",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Lá na úmida senzala, êÊÊÊ",
+        "en": "There in the damp slave quarters, êÊÊÊ",
+        "ko": "저기 축축한 센살라에서, êÊÊÊ",
+        "ja": "湿ったセンザラで、 êÊÊÊ",
+        "fr": "Là dans la senzala humide, êÊÊÊ",
+        "chorus": true
+      },
+      {
+        "id": 2,
+        "original": "Sentado na estreita sala, aáááá",
+        "en": "Sitting in the narrow room, aáááá",
+        "ko": "좁은 방에 앉아, aáááá",
+        "ja": "狭い部屋に座り、 aáááá",
+        "fr": "Assis dans la salle étroite, aáááá",
+        "chorus": true
+      },
+      {
+        "id": 3,
+        "original": "Junto ao braseiro, no chão,",
+        "en": "Beside the brazier, on the floor,",
+        "ko": "바닥의 화덕 옆에서,",
+        "ja": "床の火鉢のそばで、",
+        "fr": "Près du brasero, sur le sol,",
+        "chorus": false
+      },
+      {
+        "id": 4,
+        "original": "Entoa o escravo o seu canto,",
+        "en": "The slave intones his song,",
+        "ko": "노예가 자신의 노래를 읊조리고,",
+        "ja": "奴隷が自分の歌を口ずさみ、",
+        "fr": "L’esclave entonne son chant,",
+        "chorus": false
+      },
+      {
+        "id": 5,
+        "original": "E ao cantar correm-lhe em pranto",
+        "en": "And as he sings, tears run from him",
+        "ko": "노래하며 그의 눈에 눈물이 흐르고",
+        "ja": "歌うと、涙が流れ、",
+        "fr": "Et en chantant, des larmes lui coulent",
+        "chorus": false
+      },
+      {
+        "id": 6,
+        "original": "Saudades do seu torrão ... **",
+        "en": "Longing for his homeland...",
+        "ko": "그의 고향에 대한 그리움이…",
+        "ja": "彼の故郷への郷愁が…",
+        "fr": "La nostalgie de sa terre natale…",
+        "chorus": false
+      },
+      {
+        "id": 7,
+        "original": "O sol faz lá tudo em fogo,",
+        "en": "There the sun makes everything burn,",
+        "ko": "그곳에서 태양은 모든 것을 불처럼 만들고,",
+        "ja": "あそこでは太陽がすべてを燃えるようにし、",
+        "fr": "Là-bas, le soleil met tout en feu,",
+        "chorus": false
+      },
+      {
+        "id": 8,
+        "original": "Faz em brasa toda a areia;",
+        "en": "It turns all the sand into embers;",
+        "ko": "모래 전체를 뜨거운 불씨처럼 만들고;",
+        "ja": "砂をすべて炭火のようにし、",
+        "fr": "Il fait de tout le sable des braises ;",
+        "chorus": false
+      },
+      {
+        "id": 9,
+        "original": "Ninguém sabe como é belo",
+        "en": "No one knows how beautiful it is",
+        "ko": "아무도 모른다, 얼마나 아름다운지",
+        "ja": "誰も知らない、その美しさを",
+        "fr": "Personne ne sait comme il est beau",
+        "chorus": false
+      },
+      {
+        "id": 10,
+        "original": "O cair da lua cheia! **",
+        "en": "When the full moon descends!",
+        "ko": "보름달이 지는 순간을!",
+        "ja": "満月が沈む瞬間を！",
+        "fr": "Le coucher de la pleine lune !",
+        "chorus": false
+      },
+      {
+        "id": 11,
+        "original": "Minha terra é lá bem longe,",
+        "en": "My land is far away,",
+        "ko": "내 고향은 아주 먼 곳에 있고,",
+        "ja": "私の故郷は遥か遠く、",
+        "fr": "Ma terre est là-bas, bien loin,",
+        "chorus": false
+      },
+      {
+        "id": 12,
+        "original": "Das bandas de onde o sol vem;",
+        "en": "From the place where the sun rises;",
+        "ko": "태양이 떠오르는 그쪽에서 온 곳이야;",
+        "ja": "太陽が昇る方角から来た場所だ；",
+        "fr": "Du côté d'où vient le soleil ;",
+        "chorus": false
+      },
+      {
+        "id": 13,
+        "original": "Esta terra é mais bonita,",
+        "en": "This land is more beautiful,",
+        "ko": "여기가 더 아름답지만,",
+        "ja": "この土地の方が美しいけれど、",
+        "fr": "Cette terre est plus belle,",
+        "chorus": false
+      },
+      {
+        "id": 14,
+        "original": "Mas à outra eu quero bem! **",
+        "en": "But it is the other one I truly love!",
+        "ko": "하지만 내가 진정 사랑하는 곳은 다른 곳이야!",
+        "ja": "でも本当に愛しているのはあの故郷だ！",
+        "fr": "Mais c'est l’autre que j’aime vraiment !",
+        "chorus": false
+      }
+    ],
+    "styles": ["Angola", "Ladainha"]
   }
 ]
