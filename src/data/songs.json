@@ -3088,5 +3088,95 @@
       }
     ],
     "styles": ["Angola", "Ladainha"]
+  },
+  {
+    "id": "tlThM8WixIg",
+    "title": "Ê Maré da Beira Mar",
+    "slug": "e_mare_da_beira_mar",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "Ê maré Ê da beira mar",
+        "en": "Ê tide, ê from the seaside",
+        "ko": "에 마레, 에 바닷가의 물결이여",
+        "ja": "エー・マレー、エー・海辺の潮よ",
+        "fr": "Ê marée, ê du bord de la mer",
+        "chorus": true
+      },  
+      {
+        "id": 2,
+        "original": "O maré subiu o maré desceu",
+        "en": "The tide rose, the tide fell",
+        "ko": "물결이 올라갔다 내려왔네",
+        "ja": "潮が満ちて、潮が引いた",
+        "fr": "La marée est montée, la marée est descendue",
+        "chorus": false
+      },
+      {
+        "id": 3,
+        "original": "Maré da beira mar",
+        "en": "Tide from the seaside",
+        "ko": "바닷가의 물결",
+        "ja": "海辺の潮",
+        "fr": "Marée du bord de la mer",
+        "chorus": true
+      },
+      {
+        "id": 4,
+        "original": "Subiu subiu maré desceu",
+        "en": "It rose, it rose, the tide fell",
+        "ko": "올라가고 올라가다 다시 내려왔네",
+        "ja": "満ちて満ちて、潮が引いた",
+        "fr": "Elle est montée, montée, puis la marée est descendue",
+        "chorus": false
+      },
+      {
+        "id": 5,
+        "original": "Maré da beira mar",
+        "en": "Tide from the seaside",
+        "ko": "바닷가의 물결",
+        "ja": "海辺の潮",
+        "fr": "Marée du bord de la mer",
+        "chorus": true
+      },
+      {
+        "id": 6,
+        "original": "Subiu subiu desceu desceu",
+        "en": "It rose, it rose, it fell, it fell",
+        "ko": "올라가고 또 올라갔다가 내려오고 내려왔네",
+        "ja": "満ちて満ちて、引いて引いた",
+        "fr": "Elle est montée, montée, puis descendue, descendue",
+        "chorus": false
+      },
+      {
+        "id": 7,
+        "original": "Maré da beira mar",
+        "en": "Tide from the seaside",
+        "ko": "바닷가의 물결",
+        "ja": "海辺の潮",
+        "fr": "Marée du bord de la mer",
+        "chorus": true
+      },
+      {
+        "id": 8,
+        "original": "O maré subiu o maré desceu",
+        "en": "The tide rose, the tide fell",
+        "ko": "물결이 올라갔다가 내려왔네",
+        "ja": "潮が満ちて、潮が引いた",
+        "fr": "La marée est montée, la marée est descendue",
+        "chorus": false
+      },
+      {
+        "id": 9,
+        "original": "Maré da beira mar",
+        "en": "Tide from the seaside",
+        "ko": "바닷가의 물결",
+        "ja": "海辺の潮",
+        "fr": "Marée du bord de la mer",
+        "chorus": true
+      }
+    ],
+    "styles": ["Capoeira", "Ladainha", "Traditional"]
   }
+  
 ]
