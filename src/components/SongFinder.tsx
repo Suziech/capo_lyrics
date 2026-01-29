@@ -50,9 +50,11 @@ export default function SongFinder({
     localStorage.setItem("pinnedSongs", JSON.stringify(newPinned));
   };
 
+  const normalizeText = (text: string) => text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+
   // 검색된 노래 필터링
   const filteredSongs = songs.filter((song) =>
-    song.title.toLowerCase().includes(searchTerm.toLowerCase())
+    normalizeText(song.title).includes(normalizeText(searchTerm))
   );
 
   // 즐겨찾기 노래 목록 (검색결과에 해당하는 것만)
