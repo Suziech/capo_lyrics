@@ -51,6 +51,13 @@ export default function SongFinder({
   };
 
   const normalizeText = (text: string) => text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  const normalizeFirstLetter = (text: string) =>
+    text
+      .normalize("NFD")                 // 유니코드 분해
+      .replace(/[\u0300-\u036f]/g, "") // 악센트 제거
+      .charAt(0)                        // 첫 글자만
+      .toUpperCase();                   // 대문자화
+  
 
   // 검색된 노래 필터링
   const filteredSongs = songs.filter((song) =>
@@ -68,9 +75,10 @@ export default function SongFinder({
   );
 
   // 나머지 노래 그룹핑
+
   const groupedSongs = unpinnedList.reduce(
     (groups: Record<string, Song[]>, song) => {
-      const firstLetter = song.title[0].toUpperCase();
+      const firstLetter = normalizeFirstLetter(song.title);
       if (!groups[firstLetter]) groups[firstLetter] = [];
       groups[firstLetter].push(song);
       return groups;
