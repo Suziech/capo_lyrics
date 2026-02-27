@@ -3102,7 +3102,7 @@
         "ja": "エー・マレー、エー・海辺の潮よ",
         "fr": "Ê marée, ê du bord de la mer",
         "chorus": true
-      },  
+      },
       {
         "id": 2,
         "original": "O maré subiu o maré desceu",
@@ -3177,6 +3177,139 @@
       }
     ],
     "styles": ["Capoeira", "Ladainha", "Traditional"]
+  },
+  {
+    "id": "lN8qGJLTZ0I",
+    "title": "É na Aruanda",
+    "slug": "e_na_aruanda",
+    "lyrics": [
+      {
+        "id": 1,
+        "original": "É na Aruanda aê",
+        "en": "It's in Aruanda, hey",
+        "ko": "아루안다에 있어요, 헤이",
+        "ja": "アルアンダにいる、ヘイ",
+        "fr": "C'est à Aruanda, hé",
+        "chorus": true
+      },
+      {
+        "id": 2,
+        "original": "É na Aruanda",
+        "en": "It's in Aruanda",
+        "ko": "아루안다에 있어요",
+        "ja": "アルアンダにいる",
+        "fr": "C'est à Aruanda",
+        "chorus": true
+      },
+      {
+        "id": 3,
+        "original": "Venho de longe, terra dos meus ancestrais",
+        "en": "I come from afar, land of my ancestors",
+        "ko": "나는 먼 곳에서 왔어요, 나의 조상들의 땅에서",
+        "ja": "遠くから来た、私の先祖の地から",
+        "fr": "Je viens de loin, terre de mes ancêtres",
+        "chorus": false
+      },
+      {
+        "id": 4,
+        "original": "Eu fui acorrentado pra lá não voltar mais",
+        "en": "I was chained there to never return",
+        "ko": "나는 거기에 묶여 다시 돌아올 수 없었어요",
+        "ja": "そこに鎖で繋がれ、もう戻れなかった",
+        "fr": "J'ai été enchaîné là-bas pour ne jamais revenir",
+        "chorus": false
+      },
+      {
+        "id": 5,
+        "original": "Numa casa de madeira, num tumbar flutuante sobre o mar",
+        "en": "In a wooden house, a floating tumba over the sea",
+        "ko": "나무집에서, 바다 위에 떠 있는 통바에서",
+        "ja": "木造の家で、海に浮かぶトゥンバで",
+        "fr": "Dans une maison en bois, sur un tumba flottant sur la mer",
+        "chorus": false
+      },
+      {
+        "id": 6,
+        "original": "Assim eu fui trazido ao Brasil pra trabalhar",
+        "en": "Thus I was brought to Brazil to work",
+        "ko": "이렇게 나는 브라질로 끌려와 일하게 되었어요",
+        "ja": "こうして私は働くためにブラジルに連れてこられた",
+        "fr": "Ainsi j'ai été amené au Brésil pour travailler",
+        "chorus": false
+      },
+      {
+        "id": 7,
+        "original": "É na Aruanda !",
+        "en": "It's in Aruanda!",
+        "ko": "아루안다에 있어요!",
+        "ja": "アルアンダにいる！",
+        "fr": "C'est à Aruanda !",
+        "chorus": true
+      },
+      {
+        "id": 8,
+        "original": "É na Aruanda aê",
+        "en": "It's in Aruanda, hey",
+        "ko": "아루안다에 있어요, 헤이",
+        "ja": "アルアンダにいる、ヘイ",
+        "fr": "C'est à Aruanda, hé",
+        "chorus": true
+      },
+      {
+        "id": 9,
+        "original": "E na linguagem Jeje, Congo, Angola e Nagô",
+        "en": "And in the Jeje, Congo, Angola, and Nagô languages",
+        "ko": "그리고 제제, 콩고, 앙골라, 나고 언어로",
+        "ja": "そしてジェジェ語、コンゴ語、アンゴラ語、ナゴ語で",
+        "fr": "Et dans les langues Jeje, Congo, Angola et Nagô",
+        "chorus": false
+      },
+      {
+        "id": 10,
+        "original": "Veio o povo Bantu que aqui no Brasil chegou",
+        "en": "Came the Bantu people who arrived here in Brazil",
+        "ko": "브라질에 도착한 반투족 사람들이 왔어요",
+        "ja": "ブラジルに到着したバントゥ族がやってきた",
+        "fr": "Est venu le peuple Bantu qui est arrivé ici au Brésil",
+        "chorus": false
+      },
+      {
+        "id": 11,
+        "original": "Com sua cultura, sua história, seu axé",
+        "en": "With their culture, their history, their axé",
+        "ko": "그들의 문화와 역사, 악세와 함께",
+        "ja": "彼らの文化、歴史、アシェと共に",
+        "fr": "Avec leur culture, leur histoire, leur axé",
+        "chorus": false
+      },
+      {
+        "id": 12,
+        "original": "Os mistérios ancestrais e a força do candomblé",
+        "en": "The ancestral mysteries and the strength of Candomblé",
+        "ko": "조상의 신비와 칸돔블레의 힘",
+        "ja": "先祖の神秘とカンドンブレの力",
+        "fr": "Les mystères ancestraux et la force du candomblé",
+        "chorus": false
+      },
+      {
+        "id": 13,
+        "original": "É na Aruanda !",
+        "en": "It's in Aruanda!",
+        "ko": "아루안다에 있어요!",
+        "ja": "アルアンダにいる！",
+        "fr": "C'est à Aruanda !",
+        "chorus": true
+      },
+      {
+        "id": 14,
+        "original": "É na Aruanda aê",
+        "en": "It's in Aruanda, hey",
+        "ko": "아루안다에 있어요, 헤이",
+        "ja": "アルアンダにいる、ヘイ",
+        "fr": "C'est à Aruanda, hé",
+        "chorus": true
+      }
+    ],
+    "styles": ["Capoeira", "Ladainha", "Traditional"]
   }
-  
 ]
